@@ -1,30 +1,5 @@
 [
-  {
-     "questions": [
 	{
-	    "question": "Vad är en influencer?",
-	    "language": "swe"
-	}
-     ],
-     "answers": [ 
-        {
-     	   "language": "sve",
-     	   "answers" : [
-	      {
-		"date": "2002-12-31",
-		"answer": "Influencer betyder ingenting på svenska.",
-		"source": "..."
-	      },  
-	      {
-		"date": "2003-01-01",
-		"answer": "En person som påverkar andra till visst konsumtionsmönster, vissa åsikter m.m.; ofta via sociala medier och mot betalning",
-		"source": "https://svenska.se/?q=influencer&exactMatch=true&activeTab=alla"
-	      }
-	   ]
-	}
-     ]
-  },
-  {
         "questions": [ 
 	   {
 	      "question": "Har ordet 'grym' en positiv eller negative konnotation?",
@@ -54,6 +29,31 @@
 		]
 	    }
 	]
+  },
+  {
+     "questions": [
+	{
+	    "question": "Vad är en influencer?",
+	    "language": "swe"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "sve",
+     	   "answers" : [
+	      {
+		"date": "2002-12-31",
+		"answer": "Influencer betyder ingenting på svenska.",
+		"source": "..."
+	      },  
+	      {
+		"date": "2003-01-01",
+		"answer": "En person som påverkar andra till visst konsumtionsmönster, vissa åsikter m.m.; ofta via sociala medier och mot betalning",
+		"source": "https://svenska.se/?q=influencer&exactMatch=true&activeTab=alla"
+	      }
+	   ]
+	}
+     ]
   },
   {
      "questions": [
