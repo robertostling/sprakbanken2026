@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Hur stor \u00e4r \u00e5tervandringsbidraget i Sverige?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "I Sverige h\u00f6js **\u00e5tervandringsbidraget fr\u00e5n 1 januari 2026** till:\n\n- **350 000 kr per vuxen**\n- **25 000 kr per barn**\n- H\u00f6gst **500 000 kr per hush\u00e5ll med tv\u00e5 vuxna**\n- H\u00f6gst **600 000 kr per hush\u00e5ll totalt**\n\nBidraget g\u00e4ller vissa personer med uppeh\u00e5llstillst\u00e5nd som frivilligt vill bos\u00e4tta sig permanent i ett annat land. Det \u00e4r inte ett generellt bidrag f\u00f6r alla som flyttar fr\u00e5n Sverige, och ans\u00f6kan pr\u00f6vas av **Migrationsverket**.\n\nF\u00f6re h\u00f6jningen var beloppet **10 000 kr per vuxen och 5 000 kr per barn**, med h\u00f6gst **40 000 kr per familj**."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "I Sverige \u00e4r **\u00e5tervandringsbidraget** sedan den **1 januari 2026** som h\u00f6gst:\n\n- **350 000 kronor per vuxen**\n- **25 000 kronor per barn**\n- **Maximalt 500 000 kronor per hush\u00e5ll**\n- **Maximalt 600 000 kronor f\u00f6r ensamst\u00e5ende vuxen med barn**  \n\nBidraget g\u00e4ller vissa personer med uppeh\u00e5llstillst\u00e5nd som frivilligt vill flytta fr\u00e5n Sverige f\u00f6r att bos\u00e4tta sig i ett annat land. Det betalas normalt ut stegvis och man m\u00e5ste uppfylla s\u00e4rskilda villkor."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Sedan **1 januari 2026** \u00e4r \u00e5tervandringsbidraget i Sverige:\n\n- **350 000 kronor per vuxen**\n- **25 000 kronor per barn**\n- H\u00f6gst **600 000 kronor per familj/hush\u00e5ll**\n\nBidraget \u00e4r till f\u00f6r vissa personer med uppeh\u00e5llstillst\u00e5nd som frivilligt vill bos\u00e4tta sig permanent i ett annat land. Ans\u00f6kan g\u00f6rs hos **Migrationsverket**. Tidigare var bidraget h\u00f6gst 10 000 kronor per vuxen och 5 000 kronor per barn."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Det beror p\u00e5 n\u00e4r ans\u00f6kan g\u00f6rs:\n\n- **Till och med 2025:** 10\u202f000 kronor per vuxen och 5\u202f000 kronor per barn, med ett tak p\u00e5 **40\u202f000 kronor per familj**.\n- **Fr\u00e5n 1 januari 2026:** 350\u202f000 kronor per vuxen och 25\u202f000 kronor per barn, med ett tak p\u00e5 **500\u202f000 kronor per hush\u00e5ll**.\n\nBidraget g\u00e4ller bara personer som uppfyller vissa villkor f\u00f6r \u00e5tervandring, och ans\u00f6kan g\u00f6rs hos Migrationsverket."
+          ]
+        }
+      }
+    },
+    {
+      "question": "How much is the repatriation grant in Sweden?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "As of **2025**, Sweden\u2019s voluntary repatriation grant is generally:\n\n- **SEK 10,000 per adult**\n- **SEK 5,000 per child under 18**\n- Maximum **SEK 40,000 per family**\n\nThe Swedish government has announced a major increase from **1 January 2026**:\n\n- Up to **SEK 350,000 per adult**\n- **SEK 25,000 per child**\n- Maximum **SEK 500,000 per household**\n\nEligibility is limited and depends on residence status and plans to permanently resettle abroad. Applications are handled by the **Swedish Migration Agency (Migrationsverket)**."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "In Sweden, the **repatriation grant** (*\u00e5tervandringsbidrag*) can be up to:\n\n- **SEK 350,000 per adult**\n- **SEK 25,000 per child**\n- **Maximum SEK 500,000 per household**\n\nIt is intended for certain people with residence permits who voluntarily move permanently to their country of origin or another country where they are entitled to live. Eligibility and the exact amount depend on the rules in force and the applicant\u2019s circumstances. Applications are handled by the **Swedish Migration Agency (Migrationsverket)**."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Sweden\u2019s **repatriation grant (\u00e5tervandringsbidrag)** is being increased from **1 January 2026** to:\n\n- **SEK 350,000 per adult**\n- **SEK 25,000 per child**\n- Maximum **SEK 500,000 for spouses/cohabiting partners**\n- Maximum **SEK 600,000 per household**\n\nBefore 2026, the grant was **SEK 10,000 per adult and SEK 5,000 per child**, capped at **SEK 40,000 per family**. Eligibility depends on residence status and voluntarily leaving Sweden to settle permanently elsewhere."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "As of **1 January 2026**, Sweden\u2019s voluntary repatriation grant is:\n\n- **SEK 350,000 per adult**\n- **SEK 25,000 per child**\n- **Maximum SEK 600,000 per household**\n\nEligibility rules apply, and the grant is intended for certain residents who voluntarily return to their country of origin. Before 2026, the amounts were much lower\u2014generally **SEK 10,000 per adult** and **SEK 5,000 per child**, with a family cap."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2026-01-01",
+          "answer": "350 000 kronor per vuxen (personer \u00f6ver 18 \u00e5r). 25 000 kronor per barn. H\u00f6gst 500 000 kronor f\u00f6r makar eller sambor tillsammans. H\u00f6gst 600 000 kronor f\u00f6r ett hush\u00e5ll.",
+          "source": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-01-01-hojt-atervandringsbidrag-fran-och-med-1-januari.html"
+        },
+        {
+          "date": "2025-01-01",
+          "answer": "10 000 kronor per vuxen (personer \u00f6ver 18 \u00e5r).",
+          "source": "https://www.svt.se/nyheter/inrikes/forsta-nya-atervandringsbidragen-beviljade"
+        }
+      ]
+    },
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "2026-01-01",
+          "answer": "350,000 SEK per adult (persons over 18 years). 25,000 SEK per child. A maximum of 500,000 SEK for married or cohabiting partners. A maximum of 600,000 SEK for a household.",
+          "source": "https://www.migrationsverket.se/en/news-archive/news/2026-01-01-increased-repatriation-grant-from-1-january.html"
+        },
+        {
+          "date": "2025-01-01",
+          "answer": "10,000 SEK per adult (persons over 18 years).",
+          "source": "https://www.svt.se/nyheter/inrikes/forsta-nya-atervandringsbidragen-beviljade"
+        }
+      ]
+    }
+  ]
+}

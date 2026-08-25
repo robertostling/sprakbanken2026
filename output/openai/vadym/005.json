@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "What is the name of Ukraine's capital?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Kyiv."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Ukraine\u2019s capital is **Kyiv**."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Kyiv."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Ukraine\u2019s capital is **Kyiv**."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Vad heter Ukrainas huvudstad?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Ukrainas huvudstad heter Kyiv (\u00e4ven stavat Kiev p\u00e5 svenska)."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Ukrainas huvudstad heter **Kyiv**."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Ukrainas huvudstad heter **Kyiv**."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Ukrainas huvudstad heter Kyiv (\u00e4ven stavat Kiev)."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "1991-08-24",
+          "answer": "Kiev",
+          "source": "https://sv.wikipedia.org/wiki/Kiev"
+        },
+        {
+          "date": "2012-04-01",
+          "answer": "Kyiv",
+          "source": "https://sv.wikipedia.org/wiki/Kiev"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "1991-08-24",
+          "answer": "Kiev",
+          "source": "https://sv.wikipedia.org/wiki/Kiev"
+        },
+        {
+          "date": "2026-07-02",
+          "answer": "Kyjiv",
+          "source": "https://www.regeringen.se/pressmeddelanden/2026/07/kiev-blir-kyjiv-och-odessa-blir-odesa/"
+        }
+      ]
+    }
+  ]
+}

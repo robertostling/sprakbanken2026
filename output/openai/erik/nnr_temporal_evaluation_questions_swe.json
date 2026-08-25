@@ -1,0 +1,1452 @@
+[
+  {
+    "questions": [
+      {
+        "question": "Vilket intervall rekommenderar de nordiska n\u00e4ringsrekommendationerna (NNR) f\u00f6r vuxnas intag av totalt fett, uttryckt i energiprocent?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "NNR rekommenderar att vuxnas intag av totalt fett ligger p\u00e5 **25\u201340 energiprocent (E%)**."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "NNR rekommenderar att vuxnas totala fettintag ligger p\u00e5 **25\u201340 energiprocent (E%)**."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "NNR rekommenderar att vuxnas intag av **totalt fett utg\u00f6r 25\u201340 energiprocent (E%)** av det totala energiintaget."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "NNR rekommenderar att vuxnas intag av totalt fett ligger p\u00e5 **25\u201340 energiprocent (E%)**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2004-01-01",
+            "answer": "25\u201335 energiprocent.",
+            "source": "https://pdfs.semanticscholar.org/40ab/117067bb5498b733d0fc625ad62b81a4912a.pdf"
+          },
+          {
+            "date": "2013-10-03",
+            "answer": "25\u201340 energiprocent.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "25\u201340 energiprocent.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vilket planeringsm\u00e5l anger de nordiska n\u00e4ringsrekommendationerna (NNR) f\u00f6r andelen energi fr\u00e5n totalt fett i vuxnas kost?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt NNR \u00e4r planeringsm\u00e5let att **totalt fett ska bidra med 25\u201340 energiprocent (E%)** av vuxnas kost."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "NNR anger som planeringsm\u00e5l att **25\u201340 energiprocent (E%)** av vuxnas kost b\u00f6r komma fr\u00e5n **totalt fett**."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "NNR anger **32\u201333 energiprocent (E%) fr\u00e5n totalt fett** som planeringsm\u00e5l f\u00f6r vuxna. Det rekommenderade intervallet \u00e4r **25\u201340 E%**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "NNR anger att **25\u201340 procent av energin (E%)** i vuxnas kost b\u00f6r komma fr\u00e5n totalt fett."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "1996-01-01",
+            "answer": "H\u00f6gst cirka 30 energiprocent.",
+            "source": "https://media.arto.se/app/uploads/sites/11/OldPdfFiles/1997/15587.pdf"
+          },
+          {
+            "date": "2004-01-01",
+            "answer": "30 energiprocent.",
+            "source": "https://pdfs.semanticscholar.org/40ab/117067bb5498b733d0fc625ad62b81a4912a.pdf"
+          },
+          {
+            "date": "2013-10-03",
+            "answer": "32\u201333 energiprocent.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vilket intervall rekommenderar de nordiska n\u00e4ringsrekommendationerna (NNR) f\u00f6r vuxnas kolhydratintag, uttryckt i energiprocent?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "De nordiska n\u00e4ringsrekommendationerna (NNR 2023) rekommenderar att **45\u201360 energiprocent (E%)** av vuxnas energiintag kommer fr\u00e5n kolhydrater."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "NNR rekommenderar att vuxna f\u00e5r **45\u201360 energiprocent (E%)** av energiintaget fr\u00e5n kolhydrater."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "De nordiska n\u00e4ringsrekommendationerna (NNR) rekommenderar att **45\u201360 energiprocent (E%)** av vuxnas energiintag kommer fr\u00e5n kolhydrater."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "NNR rekommenderar att vuxna f\u00e5r **45\u201360 energiprocent (E%)** av sitt energiintag fr\u00e5n kolhydrater."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2004-01-01",
+            "answer": "50\u201360 energiprocent.",
+            "source": "https://pdfs.semanticscholar.org/40ab/117067bb5498b733d0fc625ad62b81a4912a.pdf"
+          },
+          {
+            "date": "2013-10-03",
+            "answer": "45\u201360 energiprocent.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "45\u201360 energiprocent.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Hur stort dagligt intag av vitamin D rekommenderar de nordiska n\u00e4ringsrekommendationerna (NNR) f\u00f6r vuxna i allm\u00e4nhet?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "De nordiska n\u00e4ringsrekommendationerna (NNR 2023) anger **10 mikrogram (\u00b5g) vitamin D per dag** f\u00f6r vuxna i allm\u00e4nhet, motsvarande **400 IE**.\n\nF\u00f6r personer med liten eller ingen solexponering kan ett h\u00f6gre intag beh\u00f6vas. \u00c4ldre personer rekommenderas ofta **20 \u00b5g per dag**."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "De nordiska n\u00e4ringsrekommendationerna (NNR 2023) rekommenderar **10 mikrogram (\u00b5g) vitamin D per dag** f\u00f6r vuxna i allm\u00e4nhet.\n\nF\u00f6r personer **\u00f6ver 75 \u00e5r** \u00e4r rekommendationen **20 \u00b5g per dag**."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "De nordiska n\u00e4ringsrekommendationerna (NNR) anger **10 mikrogram vitamin D per dag** f\u00f6r vuxna i allm\u00e4nhet, motsvarande **400 IE**.\n\nF\u00f6r personer med mycket liten solexponering och \u00e4ldre kan rekommendationen vara **20 mikrogram per dag**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "NNR rekommenderar **10 mikrogram vitamin D per dag f\u00f6r vuxna i allm\u00e4nhet** (motsvarande **400 IE**). F\u00f6r personer \u00f6ver 75 \u00e5r eller med mycket liten solexponering rekommenderas ofta **20 mikrogram per dag**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2004-01-01",
+            "answer": "7,5 mikrogram per dag.",
+            "source": "https://pdfs.semanticscholar.org/40ab/117067bb5498b733d0fc625ad62b81a4912a.pdf"
+          },
+          {
+            "date": "2013-10-03",
+            "answer": "10 mikrogram per dag.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "10 mikrogram per dag.",
+            "source": "https://pub.norden.org/nord2023-003/vitamin-d-.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Hur stort dagligt intag av vitamin D rekommenderar de nordiska n\u00e4ringsrekommendationerna (NNR) f\u00f6r \u00e4ldre vuxna?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt de nordiska n\u00e4ringsrekommendationerna (NNR 2023) \u00e4r rekommenderat dagligt intag av vitamin D:\n\n- **Vuxna 18\u201374 \u00e5r:** 10 mikrogram (\u00b5g) per dag  \n- **\u00c4ldre vuxna fr\u00e5n 75 \u00e5r:** **20 mikrogram (\u00b5g) per dag** \u2014 motsvarande 800 IE\n\nRekommendationen g\u00e4ller det totala intaget fr\u00e5n mat och eventuella kosttillskott."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "De nordiska n\u00e4ringsrekommendationerna (NNR 2023) rekommenderar **20 mikrogram vitamin D per dag (\u00b5g/dag)** f\u00f6r \u00e4ldre vuxna, det vill s\u00e4ga personer **\u00f6ver 75 \u00e5r**. Det motsvarar **800 internationella enheter (IE) per dag**."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt de nordiska n\u00e4ringsrekommendationerna (NNR) rekommenderas **20 mikrogram vitamin D per dag f\u00f6r vuxna som \u00e4r 75 \u00e5r eller \u00e4ldre**. Det motsvarar **800 IE**. F\u00f6r yngre vuxna \u00e4r rekommendationen 10 mikrogram per dag."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "NNR rekommenderar **20 mikrogram vitamin D per dag** f\u00f6r \u00e4ldre vuxna, det vill s\u00e4ga personer **75 \u00e5r och \u00e4ldre**. Det motsvarar **800 IE (internationella enheter)**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2004-01-01",
+            "answer": "10 mikrogram per dag f\u00f6r personer som \u00e4r 61 \u00e5r eller \u00e4ldre.",
+            "source": "https://pdfs.semanticscholar.org/40ab/117067bb5498b733d0fc625ad62b81a4912a.pdf"
+          },
+          {
+            "date": "2013-10-03",
+            "answer": "20 mikrogram per dag f\u00f6r personer som \u00e4r 75 \u00e5r eller \u00e4ldre.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "20 mikrogram per dag f\u00f6r personer som \u00e4r 75 \u00e5r eller \u00e4ldre.",
+            "source": "https://pub.norden.org/nord2023-003/vitamin-d-.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad rekommenderar de nordiska n\u00e4ringsrekommendationerna (NNR) om vuxnas alkoholkonsumtion?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "De nordiska n\u00e4ringsrekommendationerna 2023 (NNR) rekommenderar att vuxna **avst\u00e5r fr\u00e5n alkohol**.\n\nMotiveringen \u00e4r att det **inte finns n\u00e5gon s\u00e4ker nedre gr\u00e4ns** f\u00f6r alkoholkonsumtion och att \u00e4ven sm\u00e5 m\u00e4ngder kan \u00f6ka risken f\u00f6r bland annat cancer. Om man \u00e4nd\u00e5 dricker b\u00f6r intaget vara **s\u00e5 l\u00e5gt som m\u00f6jligt**. Alkohol b\u00f6r inte heller anv\u00e4ndas med h\u00e4nvisning till eventuella h\u00e4lsof\u00f6rdelar."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "De nordiska n\u00e4ringsrekommendationerna (NNR 2023) rekommenderar att vuxna **undviker alkohol**. Om man \u00e4nd\u00e5 dricker b\u00f6r konsumtionen vara **s\u00e5 l\u00e5g som m\u00f6jligt**, eftersom det inte finns n\u00e5gon helt riskfri niv\u00e5 \u2013 \u00e4ven sm\u00e5 m\u00e4ngder \u00f6kar risken f\u00f6r bland annat cancer.\n\nRekommendationen inneb\u00e4r allts\u00e5 inte ett visst \u201ctill\u00e5tet\u201d antal glas per vecka. **Gravida och personer som f\u00f6rs\u00f6ker bli gravida b\u00f6r avst\u00e5 helt**, liksom personer som exempelvis tar l\u00e4kemedel som p\u00e5verkas av alkohol eller har alkoholrelaterade problem."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "**NNR 2023 rekommenderar att vuxna helst avst\u00e5r fr\u00e5n alkohol.** Det finns ingen fastst\u00e4lld s\u00e4ker konsumtionsniv\u00e5. Om alkohol \u00e4nd\u00e5 dricks b\u00f6r intaget vara **mycket l\u00e5gt**, och berusningsdrickande b\u00f6r undvikas. D\u00e4rf\u00f6r anger NNR ingen viss m\u00e4ngd som riskfri. Gravida b\u00f6r helt avst\u00e5."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "NNR 2023 rekommenderar att vuxna **begr\u00e4nsar alkoholkonsumtionen till h\u00f6gst 10 gram ren alkohol per dag i genomsnitt** \u2013 och att **mindre \u00e4r b\u00e4ttre**.  \n\nDet finns allts\u00e5 ingen helt riskfri niv\u00e5; riskerna \u00f6kar med m\u00e4ngden alkohol. Rekommendationen inneb\u00e4r inte heller att man kan \u201dspara ihop\u201d den dagliga m\u00e4ngden till st\u00f6rre m\u00e4ngder vid ett tillf\u00e4lle. Gravida, barn och ungdomar b\u00f6r inte dricka alkohol alls."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2004-01-01",
+            "answer": "Alkoholkonsumtionen b\u00f6r begr\u00e4nsas och b\u00f6r inte \u00f6verstiga cirka 10 gram alkohol per dag f\u00f6r kvinnor eller 20 gram per dag f\u00f6r m\u00e4n. Alkohol b\u00f6r bidra med h\u00f6gst 5 energiprocent.",
+            "source": "https://pdfs.semanticscholar.org/40ab/117067bb5498b733d0fc625ad62b81a4912a.pdf"
+          },
+          {
+            "date": "2013-10-03",
+            "answer": "Alkoholkonsumtionen b\u00f6r begr\u00e4nsas och b\u00f6r inte \u00f6verstiga cirka 10 gram alkohol per dag f\u00f6r kvinnor eller 20 gram per dag f\u00f6r m\u00e4n. Alkohol b\u00f6r bidra med h\u00f6gst 5 energiprocent.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Alkohol b\u00f6r undvikas. N\u00e5gon s\u00e4ker nedre gr\u00e4ns f\u00f6r alkoholkonsumtion har inte kunnat fastst\u00e4llas.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Hur stor andel av energiintaget rekommenderar de nordiska n\u00e4ringsrekommendationerna (NNR) att protein ska utg\u00f6ra f\u00f6r \u00e4ldre vuxna?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt NNR 2023 b\u00f6r protein f\u00f6r \u00e4ldre vuxna (cirka **65 \u00e5r och upp\u00e5t**) utg\u00f6ra **15\u201320 energiprocent (E%)** av det totala energiintaget. Det motsvarar ungef\u00e4r **1,2\u20131,5 gram protein per kilo kroppsvikt och dag**."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "NNR rekommenderar att protein ska utg\u00f6ra **15\u201320 procent av energiintaget** f\u00f6r \u00e4ldre vuxna (fr\u00e5n 65 \u00e5r)."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "F\u00f6r \u00e4ldre vuxna (cirka 65 \u00e5r och upp\u00e5t) rekommenderar NNR att protein utg\u00f6r **15\u201320 energiprocent (E%)** av det totala energiintaget."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "NNR rekommenderar att protein utg\u00f6r **15\u201320 procent av energiintaget (E%)** hos \u00e4ldre vuxna."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "F\u00f6r personer som \u00e4r 65 \u00e5r eller \u00e4ldre rekommenderas 15\u201320 energiprocent protein; planeringsm\u00e5let \u00e4r 18 energiprocent, motsvarande ungef\u00e4r 1,2 gram protein per kilogram kroppsvikt och dag.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Proteinbehovet anges genom \u00e5ldersspecifika AR- och RI-v\u00e4rden i gram per kilogram kroppsvikt och dag, medan det allm\u00e4nna proteinintervallet \u00e4r 10\u201320 energiprocent.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det genomsnittliga behovet, AR, av vitamin C f\u00f6r vuxna kvinnor och m\u00e4n enligt de nordiska n\u00e4ringsrekommendationerna (NNR)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **Nordiska n\u00e4ringsrekommendationerna 2023 (NNR 2023)** \u00e4r det genomsnittliga behovet (**AR**) av vitamin C f\u00f6r vuxna:\n\n- **Kvinnor:** 75 mg per dag  \n- **M\u00e4n:** 90 mg per dag  \n\nBehovet \u00e4r h\u00f6gre vid exempelvis graviditet och amning."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det genomsnittliga behovet (**AR, Average Requirement**) av vitamin C f\u00f6r vuxna:\n\n- **Kvinnor:** **75 mg per dag**\n- **M\u00e4n:** **90 mg per dag**\n\nBehovet anges h\u00f6gre f\u00f6r m\u00e4n eftersom det i genomsnitt \u00e4r kopplat till st\u00f6rre kroppsstorlek och blodvolym. R\u00f6kare har dessutom ett \u00f6kat behov."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det genomsnittliga behovet (AR) av vitamin C:\n\n- **Vuxna kvinnor:** 75 mg per dag  \n- **Vuxna m\u00e4n:** 90 mg per dag  \n\nAR motsvarar det intag som ber\u00e4knas t\u00e4cka behovet hos h\u00e4lften av en frisk befolkningsgrupp."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det genomsnittliga behovet (**AR**) av vitamin C ungef\u00e4r:\n\n- **Vuxna kvinnor: 80 mg per dag**\n- **Vuxna m\u00e4n: 90 mg per dag**\n\nSom j\u00e4mf\u00f6relse \u00e4r det rekommenderade intaget (**RI**) 95 mg/dag f\u00f6r kvinnor och 110 mg/dag f\u00f6r m\u00e4n."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "50 milligram per dag f\u00f6r kvinnor och 60 milligram per dag f\u00f6r m\u00e4n.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "75 milligram per dag f\u00f6r kvinnor och 90 milligram per dag f\u00f6r m\u00e4n.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det genomsnittliga behovet, AR, av folat f\u00f6r vuxna kvinnor och m\u00e4n enligt de nordiska n\u00e4ringsrekommendationerna (NNR)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt NNR 2023 \u00e4r det genomsnittliga behovet (AR) av folat f\u00f6r vuxna:\n\n- **Kvinnor:** 250 \u00b5g folatekvivalenter per dag  \n- **M\u00e4n:** 250 \u00b5g folatekvivalenter per dag\n\nAR \u00e4r allts\u00e5 detsamma f\u00f6r vuxna kvinnor och m\u00e4n."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det genomsnittliga behovet (**AR, Average Requirement**) av folat f\u00f6r vuxna:\n\n- **Kvinnor:** **250 \u00b5g folat-ekvivalenter per dag**\n- **M\u00e4n:** **250 \u00b5g folat-ekvivalenter per dag**\n\nBehovet anges allts\u00e5 som samma f\u00f6r vuxna kvinnor och m\u00e4n. F\u00f6r gravida och ammande g\u00e4ller andra rekommendationer."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt NNR 2023 \u00e4r det genomsnittliga behovet (AR) av folat **250 \u00b5g kostfolatekvivalenter (DFE) per dag** f\u00f6r b\u00e5de vuxna kvinnor och vuxna m\u00e4n."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt NNR 2023 \u00e4r det genomsnittliga behovet (AR) av folat f\u00f6r vuxna:\n\n- **Kvinnor: 200 \u00b5g folat-ekvivalenter per dag**\n- **M\u00e4n: 200 \u00b5g folat-ekvivalenter per dag**\n\nAR \u00e4r allts\u00e5 samma f\u00f6r vuxna kvinnor och m\u00e4n. Det rekommenderade intaget (RI) \u00e4r h\u00f6gre, **330 \u00b5g per dag**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "200 mikrogram per dag f\u00f6r b\u00e5de kvinnor och m\u00e4n.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "250 mikrogram per dag f\u00f6r b\u00e5de kvinnor och m\u00e4n.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det genomsnittliga eller provisoriska genomsnittliga behovet av vitamin B12 f\u00f6r vuxna kvinnor och m\u00e4n enligt de nordiska n\u00e4ringsrekommendationerna (NNR)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **Nordiska n\u00e4ringsrekommendationerna 2023 (NNR 2023)** \u00e4r det genomsnittliga behovet (*Average Requirement, AR*) av vitamin B12 f\u00f6r vuxna:\n\n- **Kvinnor:** cirka **2,0 \u00b5g per dag**\n- **M\u00e4n:** cirka **2,0 \u00b5g per dag**\n\nEftersom underlaget \u00e4r begr\u00e4nsat anges v\u00e4rdet som ett **provisoriskt genomsnittligt behov**. Under graviditet och amning \u00e4r behovet h\u00f6gre."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **Nordiska n\u00e4ringsrekommendationerna (NNR 2023)** \u00e4r det rekommenderade dagliga intaget av vitamin B12 f\u00f6r vuxna **4 mikrogram (\u00b5g) per dag**, f\u00f6r b\u00e5de kvinnor och m\u00e4n.\n\nNNR anger normalt inte separata v\u00e4rden f\u00f6r kvinnor och m\u00e4n eftersom behovet inte skiljer sig p\u00e5 ett meningsfullt s\u00e4tt mellan k\u00f6nen.\n\nOm du med **genomsnittligt/provisoriskt genomsnittligt behov** avser *Average Requirement (AR)*, anges i praktiken cirka **2 \u00b5g per dag** f\u00f6r vuxna. Rekommendationen **4 \u00b5g/dag** motsvarar allts\u00e5 ett intag som t\u00e4cker behovet hos n\u00e4stan alla vuxna."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det provisoriska genomsnittliga behovet (**pAR**) av vitamin B12:\n\n- **Vuxna kvinnor:** 3,3 \u00b5g per dag  \n- **Vuxna m\u00e4n:** 3,3 \u00b5g per dag  \n\nDet adekvata intaget (**AI**) \u00e4r 4,0 \u00b5g per dag f\u00f6r b\u00e5da k\u00f6nen. V\u00e4rdena g\u00e4ller vuxna som inte \u00e4r gravida eller ammar."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt NNR 2023 \u00e4r det **provisoriska genomsnittliga behovet (pAR) av vitamin B12 cirka 2,0 \u00b5g per dag** f\u00f6r b\u00e5de vuxna kvinnor och m\u00e4n.\n\nNNR:s rekommenderade intag (RI) \u00e4r **4,0 \u00b5g per dag** f\u00f6r vuxna."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "AR \u00e4r 1,4 mikrogram per dag f\u00f6r b\u00e5de kvinnor och m\u00e4n.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Det provisoriska AR-v\u00e4rdet \u00e4r 3,2 mikrogram per dag f\u00f6r b\u00e5de kvinnor och m\u00e4n; NNR 2023 definierar ett AI i st\u00e4llet f\u00f6r ett ordin\u00e4rt RI f\u00f6r vitamin B12.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det genomsnittliga behovet, AR, av kalcium f\u00f6r vuxna kvinnor och m\u00e4n enligt de nordiska n\u00e4ringsrekommendationerna (NNR)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt NNR 2023 \u00e4r det genomsnittliga behovet (AR) av kalcium f\u00f6r vuxna:\n\n- **Kvinnor:** 750 mg per dag  \n- **M\u00e4n:** 750 mg per dag"
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **Nordic Nutrition Recommendations (NNR 2023)** \u00e4r det genomsnittliga behovet (**AR, Average Requirement**) av kalcium f\u00f6r vuxna:\n\n- **Kvinnor:** cirka **750 mg per dag**\n- **M\u00e4n:** cirka **750 mg per dag**\n\nBehovet anges allts\u00e5 som detsamma f\u00f6r vuxna kvinnor och m\u00e4n. Rekommenderat intag (**RI**) \u00e4r h\u00f6gre, **950 mg per dag** f\u00f6r vuxna."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r genomsnittsbehovet (AR) detsamma f\u00f6r kvinnor och m\u00e4n:\n\n- **18\u201324 \u00e5r:** 860 mg kalcium per dag  \n- **25 \u00e5r och \u00e4ldre:** 750 mg kalcium per dag  \n\nF\u00f6r vuxna fr\u00e5n 25 \u00e5rs \u00e5lder anges allts\u00e5 vanligen **AR = 750 mg/dag**. I \u00e4ldre **NNR 2012** angavs 500 mg/dag, s\u00e5 utg\u00e5van \u00e4r viktig."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det genomsnittliga behovet (**AR**) av kalcium f\u00f6r vuxna:\n\n- **Kvinnor: 800 mg per dag**\n- **M\u00e4n: 800 mg per dag**\n\nAR \u00e4r allts\u00e5 samma f\u00f6r k\u00f6nen. Det rekommenderade intaget (**RI**) \u00e4r h\u00f6gre, **950 mg per dag** f\u00f6r vuxna."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "500 milligram per dag f\u00f6r b\u00e5de kvinnor och m\u00e4n.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "750 milligram per dag f\u00f6r b\u00e5de kvinnor och m\u00e4n.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det genomsnittliga behovet, AR, av zink f\u00f6r vuxna kvinnor och m\u00e4n enligt de nordiska n\u00e4ringsrekommendationerna (NNR)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **Nordiska n\u00e4ringsrekommendationerna 2023 (NNR 2023)** \u00e4r det genomsnittliga behovet (**AR**) av zink:\n\n- **Vuxna kvinnor:** **6,8 mg per dag**\n- **Vuxna m\u00e4n:** **8,9 mg per dag**\n\nV\u00e4rdena avser vuxna, ej gravida eller ammande. Behovet p\u00e5verkas bland annat av zinkets biotillg\u00e4nglighet i kosten."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det genomsnittliga behovet (**AR, Average Requirement**) av zink f\u00f6r vuxna:\n\n- **Kvinnor:** cirka **7 mg per dag**\n- **M\u00e4n:** cirka **9 mg per dag**\n\nBehovet p\u00e5verkas bland annat av fytatintaget i kosten, eftersom fytat minskar zinkupptaget. menden de angivna v\u00e4rdena avser en kost med m\u00e5ttligt fytatinneh\u00e5ll."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det genomsnittliga behovet (AR) av zink:\n\n- **Vuxna kvinnor:** 6,8 mg per dag  \n- **Vuxna m\u00e4n:** 9,3 mg per dag"
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det genomsnittliga behovet (**AR**) av zink:\n\n- **Vuxna kvinnor:** cirka **7 mg per dag**\n- **Vuxna m\u00e4n:** cirka **9 mg per dag**\n\nAR anger det genomsnittliga fysiologiska behovet och \u00e4r l\u00e4gre \u00e4n rekommenderat intag (RI)."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "5 milligram per dag f\u00f6r kvinnor och 6 milligram per dag f\u00f6r m\u00e4n.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "8,1 milligram per dag f\u00f6r kvinnor och 10,6 milligram per dag f\u00f6r m\u00e4n, vid den antagna fytatniv\u00e5n i NNR 2023.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det genomsnittliga eller provisoriska genomsnittliga behovet av jod f\u00f6r vuxna kvinnor och m\u00e4n enligt de nordiska n\u00e4ringsrekommendationerna (NNR)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **Nordiska n\u00e4ringsrekommendationerna 2023 (NNR 2023)** \u00e4r det uppskattade genomsnittliga behovet (**AR**) av jod f\u00f6r vuxna:\n\n- **Kvinnor:** **120 \u00b5g per dag**\n- **M\u00e4n:** **130 \u00b5g per dag**\n\nDetta g\u00e4ller vuxna som inte \u00e4r gravida eller ammar. Som j\u00e4mf\u00f6relse \u00e4r rekommenderat intag (**RI**) **150 \u00b5g jod per dag** f\u00f6r b\u00e5de kvinnor och m\u00e4n."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det rekommenderade intaget av jod f\u00f6r vuxna kvinnor och m\u00e4n **150 mikrogram (\u00b5g) per dag**.\n\nNNR anger inte n\u00e5got separat s\u00e5 kallat *genomsnittligt behov* (AR) f\u00f6r jod f\u00f6r vuxna, utan endast ett **rekommenderat intag (RI)**. D\u00e4rf\u00f6r finns inget officiellt provisoriskt genomsnittligt behov (PRI) att ange f\u00f6r vuxna kvinnor respektive m\u00e4n.\n\n| Grupp | Rekommenderat intag (RI) |\n|---|---:|\n| Vuxna kvinnor | 150 \u00b5g/dag |\n| Vuxna m\u00e4n | 150 \u00b5g/dag |\n\nBehovet \u00e4r allts\u00e5 detsamma f\u00f6r vuxna kvinnor och m\u00e4n. Gravida och ammande har h\u00f6gre rekommenderat intag."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det **provisoriska genomsnittliga behovet (pAR)** av jod:\n\n- **Vuxna kvinnor:** 100 \u00b5g per dag  \n- **Vuxna m\u00e4n:** 100 \u00b5g per dag  \n\nDet rekommenderade intaget (RI) \u00e4r h\u00f6gre: **150 \u00b5g per dag** f\u00f6r b\u00e5da k\u00f6nen. Graviditet och amning har separata rekommendationer."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt NNR 2023 \u00e4r det **provisoriska genomsnittliga behovet (pAR) av jod 100 \u00b5g per dag** f\u00f6r b\u00e5de vuxna kvinnor och m\u00e4n.\n\nSom j\u00e4mf\u00f6relse \u00e4r det **rekommenderade intaget (RI) 150 \u00b5g per dag** f\u00f6r vuxna. NNR anger allts\u00e5 inget separat pAR f\u00f6r kvinnor respektive m\u00e4n."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "AR \u00e4r 100 mikrogram per dag f\u00f6r b\u00e5de kvinnor och m\u00e4n.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Det provisoriska AR-v\u00e4rdet \u00e4r 120 mikrogram per dag f\u00f6r b\u00e5de kvinnor och m\u00e4n.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det genomsnittliga eller provisoriska genomsnittliga behovet av selen f\u00f6r vuxna kvinnor och m\u00e4n enligt de nordiska n\u00e4ringsrekommendationerna (NNR)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt NNR 2023 \u00e4r det **provisoriska genomsnittliga behovet av selen**:\n\n- **Vuxna kvinnor:** 60 \u00b5g per dag  \n- **Vuxna m\u00e4n:** 70 \u00b5g per dag  \n\nDet anges som provisoriskt eftersom underlaget inte bed\u00f6mdes tillr\u00e4ckligt f\u00f6r att fastst\u00e4lla ett s\u00e4kert genomsnittligt behov."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **Nordiska n\u00e4ringsrekommendationerna (NNR 2023)** \u00e4r det rekommenderade intaget av selen f\u00f6r vuxna:\n\n- **Kvinnor:** cirka **50 \u00b5g per dag**\n- **M\u00e4n:** cirka **60 \u00b5g per dag**\n\nNNR 2023 anger i praktiken ett **rekommenderat dagligt intag** snarare \u00e4n ett separat provisoriskt genomsnittligt behov (AR) f\u00f6r selen. Skillnaden mellan k\u00f6nen baseras fr\u00e4mst p\u00e5 skillnader i kroppsstorlek och energibehov."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det provisoriska genomsnittsbehovet av selen:\n\n- **Vuxna kvinnor:** **60 \u00b5g per dag**\n- **Vuxna m\u00e4n:** **70 \u00b5g per dag**\n\nSom j\u00e4mf\u00f6relse \u00e4r det rekommenderade intaget, RI, **75 \u00b5g/dag f\u00f6r kvinnor** och **90 \u00b5g/dag f\u00f6r m\u00e4n**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt NNR \u00e4r det **provisoriska genomsnittliga behovet (pAR)** av selen f\u00f6r vuxna:\n\n- **Kvinnor:** cirka **40 \u00b5g per dag**\n- **M\u00e4n:** cirka **50 \u00b5g per dag**\n\nDetta ska inte f\u00f6rv\u00e4xlas med det **rekommenderade intaget**, som \u00e4r h\u00f6gre: ungef\u00e4r **50 \u00b5g/dag f\u00f6r kvinnor** och **60 \u00b5g/dag f\u00f6r m\u00e4n**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "AR \u00e4r 30 mikrogram per dag f\u00f6r kvinnor och 35 mikrogram per dag f\u00f6r m\u00e4n.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Det provisoriska AR-v\u00e4rdet \u00e4r 60 mikrogram per dag f\u00f6r kvinnor och 70 mikrogram per dag f\u00f6r m\u00e4n.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det genomsnittliga eller provisoriska genomsnittliga behovet av vitamin E f\u00f6r vuxna kvinnor och m\u00e4n enligt de nordiska n\u00e4ringsrekommendationerna (NNR)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **Nordiska n\u00e4ringsrekommendationerna 2023 (NNR 2023)** \u00e4r det provisoriska genomsnittliga behovet av vitamin E, uttryckt som **\u03b1\u2011tokoferolekvivalenter (\u03b1\u2011TE)**:\n\n- **Vuxna kvinnor:** **8 mg \u03b1\u2011TE per dag**\n- **Vuxna m\u00e4n:** **9 mg \u03b1\u2011TE per dag**\n\nV\u00e4rdena anges som provisoriska eftersom underlaget inte r\u00e4cker f\u00f6r att fastst\u00e4lla ett s\u00e4kert genomsnittligt behov."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** anges behovet av vitamin E f\u00f6r vuxna som ett **adekvat intag (AI)**, eftersom underlaget inte r\u00e4cker f\u00f6r att fastst\u00e4lla ett genomsnittligt behov (AR):\n\n- **Vuxna kvinnor:** cirka **8 mg \u03b1-tokoferolekvivalenter per dag**\n- **Vuxna m\u00e4n:** cirka **10 mg \u03b1-tokoferolekvivalenter per dag**\n\nNNR anger allts\u00e5 inte n\u00e5got formellt genomsnittligt behov eller provisoriskt genomsnittligt behov f\u00f6r vitamin E, utan dessa niv\u00e5er som adekvat intag."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det provisoriska genomsnittsbehovet av vitamin E:\n\n- **Vuxna kvinnor:** 8 mg \u03b1-tokoferolekvivalenter (\u03b1-TE) per dag  \n- **Vuxna m\u00e4n:** 9 mg \u03b1-TE per dag  \n\nDetta avser vuxna kvinnor som inte \u00e4r gravida eller ammar."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt NNR \u00e4r det **provisoriska genomsnittliga behovet (PAR)** av vitamin E, uttryckt som **mg \u03b1\u2011tokoferolekvivalenter (\u03b1\u2011TE) per dag**:\n\n- **Vuxna kvinnor:** cirka **6 mg \u03b1\u2011TE/dag**\n- **Vuxna m\u00e4n:** cirka **7 mg \u03b1\u2011TE/dag**\n\nSom j\u00e4mf\u00f6relse \u00e4r det rekommenderade intaget (RI) **8 mg/dag f\u00f6r kvinnor** och **10 mg/dag f\u00f6r m\u00e4n**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "AR \u00e4r 5 milligram alfa-tokoferolekvivalenter per dag f\u00f6r kvinnor och 6 milligram f\u00f6r m\u00e4n.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Det provisoriska AR-v\u00e4rdet \u00e4r 8 milligram alfa-tokoferolekvivalenter per dag f\u00f6r kvinnor och 9 milligram f\u00f6r m\u00e4n; NNR 2023 definierar ett AI i st\u00e4llet f\u00f6r ett ordin\u00e4rt RI.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det genomsnittliga behovet, AR, av tiamin f\u00f6r vuxna kvinnor och m\u00e4n enligt de nordiska n\u00e4ringsrekommendationerna (NNR)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt NNR 2023 \u00e4r det genomsnittliga behovet (AR) av tiamin f\u00f6r vuxna:\n\n- **Kvinnor:** **0,9 mg per dag**\n- **M\u00e4n:** **1,1 mg per dag**"
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **Nordic Nutrition Recommendations (NNR 2023)** \u00e4r det genomsnittliga behovet (**AR, Average Requirement**) av tiamin (vitamin B1) f\u00f6r vuxna:\n\n- **Kvinnor:** cirka **0,9 mg per dag**\n- **M\u00e4n:** cirka **1,1 mg per dag**\n\nBehovet anges i relation till energif\u00f6rbrukningen, ungef\u00e4r **0,10 mg tiamin per MJ** (cirka **0,42 mg per 1 000 kcal**). behovet kan d\u00e4rf\u00f6r variera med energiintaget."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt NNR \u00e4r det genomsnittliga behovet (AR) av tiamin:\n\n- **Vuxna kvinnor:** **0,9 mg per dag**\n- **Vuxna m\u00e4n:** **1,1 mg per dag**\n\nDet motsvarar ungef\u00e4r **0,08 mg tiamin per MJ energi**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt NNR 2023 anges tiaminbehovet f\u00f6r vuxna energirelaterat, inte som ett fast k\u00f6nsspecifikt v\u00e4rde:\n\n- **AR: 0,072 mg/MJ** (cirka **0,30 mg per 1 000 kcal**) f\u00f6r b\u00e5de kvinnor och m\u00e4n.\n- Det motsvarar ungef\u00e4r **0,6 mg/dag** vid ett energiintag p\u00e5 8 MJ f\u00f6r en kvinna och **0,7 mg/dag** vid 10 MJ f\u00f6r en man.\n\nBer\u00e4kningen \u00e4r allts\u00e5: **AR = 0,072 \u00d7 energiintaget i MJ**. Detta ska skiljas fr\u00e5n RI, som \u00e4r **0,10 mg/MJ**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "0,9 milligram per dag f\u00f6r kvinnor och 1,2 milligram per dag f\u00f6r m\u00e4n.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "0,7 milligram per dag f\u00f6r kvinnor och 0,8 milligram per dag f\u00f6r m\u00e4n f\u00f6r de vuxengrupper som j\u00e4mf\u00f6rs i NNR 2023:s tabell 23.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det genomsnittliga eller provisoriska genomsnittliga behovet av fosfor f\u00f6r vuxna kvinnor och m\u00e4n enligt de nordiska n\u00e4ringsrekommendationerna (NNR)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **Nordiska n\u00e4ringsrekommendationerna 2023 (NNR 2023)** \u00e4r det provisoriska genomsnittliga behovet av fosfor f\u00f6r vuxna:\n\n- **Kvinnor:** 475 mg per dag  \n- **M\u00e4n:** 550 mg per dag  \n\nDet motsvarar det v\u00e4rde som anv\u00e4nds n\u00e4r ett s\u00e4kert fastst\u00e4llt genomsnittligt behov saknas."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det genomsnittliga behovet av fosfor f\u00f6r vuxna:\n\n- **Kvinnor:** cirka **550 mg per dag**\n- **M\u00e4n:** cirka **700 mg per dag**\n\nNNR anger allts\u00e5 separata v\u00e4rden efter k\u00f6n. Behovet kan \u00e4ven variera n\u00e5got beroende p\u00e5 \u00e5lder och fysiologiskt tillst\u00e5nd, exempelvis graviditet och amning."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det **provisoriska genomsnittliga behovet (pAR) av fosfor 500 mg per dag** f\u00f6r b\u00e5de vuxna kvinnor och vuxna m\u00e4n. Det finns allts\u00e5 ingen k\u00f6nsskillnad i detta referensv\u00e4rde."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** har man inte kunnat fastst\u00e4lla n\u00e5got genomsnittligt behov (AR) eller provisoriskt genomsnittligt behov (pAR) f\u00f6r fosfor. I st\u00e4llet anges ett **adekvat intag (AI) p\u00e5 600 mg fosfor per dag f\u00f6r vuxna**.\n\nDet g\u00e4ller b\u00e5de:\n\n- **Vuxna kvinnor:** 600 mg/dag  \n- **Vuxna m\u00e4n:** 600 mg/dag  \n\nV\u00e4rdet \u00e4r allts\u00e5 inte ett ber\u00e4knat genomsnittligt behov, utan en uppskattning av ett tillr\u00e4ckligt intag n\u00e4r underlaget f\u00f6r att fastst\u00e4lla AR \u00e4r otillr\u00e4ckligt."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "AR \u00e4r 450 milligram per dag f\u00f6r b\u00e5de kvinnor och m\u00e4n.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Det provisoriska AR-v\u00e4rdet \u00e4r 420 milligram per dag f\u00f6r b\u00e5de kvinnor och m\u00e4n.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det genomsnittliga behovet, AR, av j\u00e4rn f\u00f6r vuxna kvinnor och m\u00e4n enligt de nordiska n\u00e4ringsrekommendationerna (NNR)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **Nordiska n\u00e4ringsrekommendationerna 2023 (NNR 2023)** \u00e4r det genomsnittliga behovet (**AR**) av j\u00e4rn:\n\n- **Vuxna kvinnor f\u00f6re menopaus:** **10 mg per dag**\n- **Vuxna m\u00e4n:** **7 mg per dag**\n- **Kvinnor efter menopaus:** **7 mg per dag**\n\nBehovet \u00e4r h\u00f6gre f\u00f6re menopaus fr\u00e4mst p\u00e5 grund av j\u00e4rnf\u00f6rluster vid menstruation."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Enligt **NNR 2023** \u00e4r det genomsnittliga behovet (**AR, Average Requirement**) av j\u00e4rn:\n\n- **Vuxna kvinnor:** **10 mg per dag**\n- **Vuxna m\u00e4n:** **7 mg per dag**\n\nF\u00f6r kvinnor efter menopaus anges samma niv\u00e5 som f\u00f6r m\u00e4n, **7 mg per dag**.>tagger"
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt NNR \u00e4r det genomsnittliga behovet (AR) av j\u00e4rn:\n\n- **Vuxna m\u00e4n:** **7 mg per dag**\n- **Kvinnor i fertil \u00e5lder (cirka 18\u201350 \u00e5r):** **10 mg per dag**\n- **Kvinnor efter menopaus:** **7 mg per dag**\n\nAR \u00e4r l\u00e4gre \u00e4n det rekommenderade intaget (RI), som ska t\u00e4cka behovet hos n\u00e4stan alla individer."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Enligt NNR \u00e4r det genomsnittliga behovet (**AR**) av j\u00e4rn:\n\n- **Vuxna m\u00e4n:** cirka **6 mg per dag**\n- **Vuxna kvinnor i fertil \u00e5lder:** cirka **10 mg per dag**, p\u00e5 grund av menstruationsf\u00f6rluster\n\nF\u00f6r kvinnor efter menopaus anges normalt samma AR som f\u00f6r m\u00e4n, allts\u00e5 cirka **6 mg per dag**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "10 milligram per dag f\u00f6r kvinnor och 7 milligram per dag f\u00f6r m\u00e4n i den vuxengrupp som j\u00e4mf\u00f6rs.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "9 milligram per dag f\u00f6r kvinnor och 7 milligram per dag f\u00f6r m\u00e4n i den vuxengrupp som j\u00e4mf\u00f6rs.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Anger de nordiska n\u00e4ringsrekommendationerna (NNR) ett referensv\u00e4rde f\u00f6r kolin hos vuxna, och vilket \u00e4r i s\u00e5 fall det provisoriska genomsnittliga behovet?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Ja. I NNR 2023 anges ett **provisoriskt genomsnittligt behov (AR) f\u00f6r kolin hos vuxna p\u00e5 400 mg per dag**. V\u00e4rdet g\u00e4ller b\u00e5de kvinnor och m\u00e4n; f\u00f6r gravida och ammande anges h\u00f6gre behov."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Ja. NNR2023 anger ett **provisoriskt genomsnittligt behov (AR)** f\u00f6r kolin hos vuxna p\u00e5 **cirka 400 mg per dag**. Detta \u00e4r ett provisoriskt v\u00e4rde eftersom underlaget f\u00f6r att fastst\u00e4lla ett mer s\u00e4kert referensv\u00e4rde fortfarande \u00e4r begr\u00e4nsat."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Ja. NNR 2023 anger ett **provisoriskt genomsnittsbehov (pAR) f\u00f6r kolin p\u00e5 400 mg per dag** f\u00f6r vuxna, b\u00e5de kvinnor och m\u00e4n. V\u00e4rdet \u00e4r provisoriskt eftersom underlaget f\u00f6r att fastst\u00e4lla behovet \u00e4r begr\u00e4nsat."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Ja. NNR 2023 anger ett provisoriskt referensv\u00e4rde f\u00f6r kolin hos vuxna: ett provisoriskt genomsnittligt behov (pAR) p\u00e5 **400 mg kolin per dag**. Det \u00e4r ett prelimin\u00e4rt v\u00e4rde, inte en fullt fastst\u00e4lld rekommenderad intag\u0640sniv\u00e5."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "Nej, NNR 2012 angav inget referensv\u00e4rde f\u00f6r kolin.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Ja. NNR 2023 anger ett AI och ett provisoriskt AR p\u00e5 320 milligram per dag f\u00f6r b\u00e5de vuxna kvinnor och m\u00e4n.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Anger de nordiska n\u00e4ringsrekommendationerna (NNR) ett genomsnittligt behov f\u00f6r vitamin K hos vuxna?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Nej. NNR anger inget genomsnittligt behov (AR) f\u00f6r vitamin K hos vuxna, eftersom underlaget \u00e4r otillr\u00e4ckligt. I st\u00e4llet anges ett **adekvat intag (AI)**, baserat p\u00e5 kroppsvikt, p\u00e5 cirka **1 \u00b5g vitamin K per kg kroppsvikt och dag**."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Nej. De nordiska n\u00e4ringsrekommendationerna (NNR) anger inget genomsnittligt behov eller rekommenderat intag f\u00f6r vitamin K hos vuxna. Sk\u00e4let \u00e4r att underlaget inte r\u00e4cker f\u00f6r att fastst\u00e4lla s\u00e5dana referensv\u00e4rden."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Nej. NNR anger inget **genomsnittligt behov (AR)** f\u00f6r vitamin K hos vuxna, eftersom underlaget \u00e4r otillr\u00e4ckligt. I st\u00e4llet anges ett **adekvat intag (AI)** p\u00e5 cirka **1 mikrogram per kilogram kroppsvikt och dag**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Nej. NNR fastst\u00e4ller inget genomsnittligt behov (AR) f\u00f6r vitamin K hos vuxna, eftersom underlaget \u00e4r otillr\u00e4ckligt. I st\u00e4llet anges ett **adekvat intag (AI)** p\u00e5 ungef\u00e4r **70 \u00b5g per dag** f\u00f6r vuxna. AI ska inte tolkas som ett genomsnittligt fysiologiskt behov."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "Nej, n\u00e5got genomsnittligt behov fastst\u00e4lldes inte i NNR 2012.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "NNR 2023 anger ett AI och ett provisoriskt AR p\u00e5 50 mikrogram per dag f\u00f6r vuxna kvinnor och 60 mikrogram per dag f\u00f6r vuxna m\u00e4n.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  }
+]

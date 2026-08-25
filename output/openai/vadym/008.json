@@ -1,0 +1,148 @@
+{
+  "questions": [
+    {
+      "question": "Who is the president of Poland?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "As of March 2026, the president of Poland is **Karol Nawrocki**, who took office on August 6, 2025."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "As of March 2026, the president of Poland is **Karol Nawrocki**."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "The president of Poland is **Karol Nawrocki**, who took office on **6 August 2025**."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "The president of Poland is **Karol Nawrocki**, who took office on **August 6, 2025**."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Vad heter Polens president?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Polens president heter Karol Nawrocki. Han tilltr\u00e4dde den 6 augusti 2025."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Polens president heter Karol Nawrocki."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Polens president heter **Karol Nawrocki**. Han tilltr\u00e4dde den 6 augusti 2025."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Polens president heter Andrzej Duda."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-08-06",
+            "to": "2026-08-25"
+          },
+          "answer": "Karol Nawrocki",
+          "source": "https://en.wikipedia.org/wiki/Karol_Nawrocki"
+        },
+        {
+          "date_range": {
+            "from": "2015-08-06",
+            "to": "2025-08-06"
+          },
+          "answer": "Andrzej Duda",
+          "source": "https://en.wikipedia.org/wiki/Andrzej_Duda"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-08-06",
+            "to": "2026-08-25"
+          },
+          "answer": "Karol Nawrocki",
+          "source": "https://sv.wikipedia.org/wiki/Karol_Nawrocki"
+        },
+        {
+          "date_range": {
+            "from": "2015-08-06",
+            "to": "2025-08-06"
+          },
+          "answer": "Andrzej Duda",
+          "source": "https://sv.wikipedia.org/wiki/Andrzej_Duda"
+        }
+      ]
+    }
+  ]
+}

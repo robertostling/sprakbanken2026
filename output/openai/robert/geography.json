@@ -1,0 +1,618 @@
+[
+  {
+    "questions": [
+      {
+        "question": "\u00c4r det en gemensam programpunkt kl 17 den 25 augusti p\u00e5 Spr\u00e5kbankens personaldagar 2026?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Jag kan inte bekr\u00e4fta det utan att se programmet f\u00f6r Spr\u00e5kbankens personaldagar 2026. Skicka g\u00e4rna programmet eller en l\u00e4nk, s\u00e5 kan jag kontrollera om det finns en gemensam programpunkt kl. 17 den 25 augusti."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Jag kan inte bekr\u00e4fta det utifr\u00e5n tillg\u00e4nglig information. Kontrollera det officiella programmet eller kalenderinbjudan f\u00f6r Spr\u00e5kbankens personaldagar 2026 \u2013 d\u00e4r framg\u00e5r om det finns en gemensam programpunkt kl. 17 den 25 augusti."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Ja, enligt programmet finns en gemensam programpunkt kl. 17.00 den 25 augusti 2026."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Ja. Enligt programmet \u00e4r kl. 17.00 den 25 augusti 2026 avsatt f\u00f6r en gemensam programpunkt."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2026-08-01",
+              "to": "2026-08-10"
+            },
+            "answer": "Ja",
+            "source": "https://sprakbanken-clarin.lingfil.uu.se/personalmote.html"
+          },
+          {
+            "date_range": {
+              "from": "2026-08-24",
+              "to": "2026-08-25"
+            },
+            "answer": "Nej",
+            "source": "https://sprakbanken-clarin.lingfil.uu.se/personalmote.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vilket \u00e4r Albaniens grannland i \u00f6ster?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Nordmakedonien."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Albaniens grannland i \u00f6ster \u00e4r Nordmakedonien."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Nordmakedonien."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Albaniens grannland i \u00f6ster \u00e4r **Nordmakedonien**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1993-04-08",
+              "to": "2019-02-11"
+            },
+            "answer": "Makedonien",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Albanien&oldid=44734107"
+          },
+          {
+            "date_range": {
+              "from": "2019-02-12",
+              "to": "2026-08-25"
+            },
+            "answer": "Nordmakedonien",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Albanien&oldid=59593662"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "I vilket afrikanskt land ligger staden Juba?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Juba ligger i **Sydsudan** och \u00e4r landets huvudstad."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Juba ligger i **Sydsudan** och \u00e4r landets huvudstad."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Juba ligger i Sydsudan och \u00e4r landets huvudstad."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Juba ligger i **Sydsudan**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1956-01-01",
+              "to": "2011-07-08"
+            },
+            "answer": "Sudan",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Juba&oldid=14447055"
+          },
+          {
+            "date_range": {
+              "from": "2011-07-09",
+              "to": "2026-08-25"
+            },
+            "answer": "Sydsudan",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Juba&oldid=56675482"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "I vilken finsk kommun ligger Pertunmaa kyrkoby?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Pertunmaa kyrkoby ligger i **M\u00e4ntyharju kommun** i landskapet S\u00f6dra Savolax. Pertunmaa kommun slogs samman med M\u00e4ntyharju den 1 januari 2025."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Pertunmaa kyrkby ligger i **M\u00e4ntyharju kommun** i Finland."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Pertunmaa kyrkoby ligger i **M\u00e4ntyharju kommun**. Pertunmaa inf\u00f6rlivades med M\u00e4ntyharju den 1 januari 2025."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Pertunmaa kyrkoby ligger numera i **M\u00e4ntyharju kommun** i S\u00f6dra Savolax. F\u00f6re kommunsammanslagningen 2025 l\u00e5g den i **Pertunmaa kommun**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1926-01-01",
+              "to": "2024-12-31"
+            },
+            "answer": "Pertunmaa",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Pertunmaa&oldid=56279999"
+          },
+          {
+            "date_range": {
+              "from": "2025-01-01",
+              "to": "2026-08-25"
+            },
+            "answer": "M\u00e4ntyharju",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Pertunmaa&oldid=57357511"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "I vilken finsk kommun ligger Honkajoki kyrkoby?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Honkajoki kyrkoby ligger i **Kankaanp\u00e4\u00e4 kommun** i landskapet Satakunta. Honkajoki var tidigare en egen kommun men slogs samman med Kankaanp\u00e4\u00e4 \u00e5r 2021."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Honkajoki kyrkby ligger i **Kankaanp\u00e4\u00e4 kommun** i Finland."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Honkajoki kyrkoby ligger i **Kankaanp\u00e4\u00e4 stad** i landskapet Satakunta. Honkajoki var en egen kommun fram till 2021."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Honkajoki kyrkoby ligger i **Kankaanp\u00e4\u00e4 stad** i Finland. Honkajoki var tidigare en egen kommun, men slogs samman med Kankaanp\u00e4\u00e4 2021."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1952-01-01",
+              "to": "2020-12-31"
+            },
+            "answer": "Honkajoki",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Honkajoki&oldid=57357403"
+          },
+          {
+            "date_range": {
+              "from": "2021-01-01",
+              "to": "2026-08-25"
+            },
+            "answer": "Kankaanp\u00e4\u00e4 stad",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Honkajoki&oldid=48047814"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Erk\u00e4nner Burkina Faso Republiken Kina (Taiwan)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Nej. Burkina Faso erk\u00e4nner Folkrepubliken Kina och har inga officiella diplomatiska f\u00f6rbindelser med Republiken Kina (Taiwan).\n\nLandet br\u00f6t relationerna med Taiwan och \u00e5terupptog diplomatiska f\u00f6rbindelser med Kina i maj 2018."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Nej. Burkina Faso erk\u00e4nner Folkrepubliken Kina, inte Republiken Kina (Taiwan). Landet br\u00f6t de diplomatiska f\u00f6rbindelserna med Taiwan 2018 och \u00e5teruppr\u00e4ttade relationerna med Kina."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Nej. Burkina Faso erk\u00e4nner Folkrepubliken Kina och har inga officiella diplomatiska f\u00f6rbindelser med Republiken Kina (Taiwan). Landet br\u00f6t relationerna med Taiwan och \u00e5terupptog dem med Peking i maj 2018."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Nej. Burkina Faso erk\u00e4nner inte Republiken Kina (Taiwan) diplomatiskt. Landet br\u00f6t sina diplomatiska f\u00f6rbindelser med Taiwan i maj 2018 och uppr\u00e4ttade i st\u00e4llet relationer med Folkrepubliken Kina."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1995-01-01",
+              "to": "2018-05-23"
+            },
+            "answer": "Ja",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Taiwans_politiska_status&oldid=11070432"
+          },
+          {
+            "date_range": {
+              "from": "2018-05-24",
+              "to": "2026-08-25"
+            },
+            "answer": "Nej",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Taiwans_politiska_status&oldid=59455004"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Erk\u00e4nner Dominikanska Republiken Kina (Taiwan)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Nej. Dominikanska republiken erk\u00e4nner **Folkrepubliken Kina** och har inga formella diplomatiska f\u00f6rbindelser med **Taiwan (Republiken Kina)**.\n\nLandet bytte diplomatiskt erk\u00e4nnande fr\u00e5n Taiwan till Folkrepubliken Kina den **1 maj 2018**."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Nej. Dominikanska republiken erk\u00e4nner **Folkrepubliken Kina** och har diplomatiska f\u00f6rbindelser med Beijing sedan **2018**. Landet har d\u00e4rf\u00f6r inte diplomatiska f\u00f6rbindelser med **Taiwan (Republiken Kina)**."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Nej. Dominikanska republiken erk\u00e4nner **Folkrepubliken Kina** och inte Taiwan (Republiken Kina). Landet br\u00f6t de diplomatiska f\u00f6rbindelserna med Taiwan och uppr\u00e4ttade relationer med Peking i **maj 2018**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Nej. Dominikanska republiken erk\u00e4nner Folkrepubliken Kina och uppr\u00e4ttade diplomatiska relationer med Beijing den 1 maj 2018. Samtidigt br\u00f6t landet de diplomatiska f\u00f6rbindelserna med Taiwan, som d\u00e4rf\u00f6r inte erk\u00e4nns officiellt."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1995-01-01",
+              "to": "2018-04-30"
+            },
+            "answer": "Ja",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Taiwans_politiska_status&oldid=11070432"
+          },
+          {
+            "date_range": {
+              "from": "2018-05-31",
+              "to": "2026-08-25"
+            },
+            "answer": "Nej",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Taiwans_politiska_status&oldid=59455004"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Erk\u00e4nner Gambia Republiken Kina (Taiwan)?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Nej. Gambia erk\u00e4nner inte Republiken Kina (Taiwan). Landet br\u00f6t de diplomatiska f\u00f6rbindelserna med Taiwan 2013 och uppr\u00e4ttade formella relationer med Folkrepubliken Kina 2016. Gambia f\u00f6ljer d\u00e4rmed ett-Kina-politiken."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Nej. Gambia erk\u00e4nner **Folkrepubliken Kina** och har inte diplomatiska f\u00f6rbindelser med **Republiken Kina (Taiwan)**.\n\nGambia \u00e5teruppr\u00e4ttade diplomatiska relationer med Folkrepubliken Kina 2016, efter att ha brutit f\u00f6rbindelserna med Taiwan."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Nej. Gambia erk\u00e4nner Folkrepubliken Kina och har inga diplomatiska f\u00f6rbindelser med Republiken Kina (Taiwan). Gambia br\u00f6t relationerna med Taiwan 2013 och \u00e5terupptog diplomatiska relationer med Folkrepubliken Kina 2016."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Nej. Gambia erk\u00e4nner Folkrepubliken Kina (Kina) och har inga diplomatiska f\u00f6rbindelser med Republiken Kina (Taiwan). Gambia hade diplomatiska relationer med Taiwan 1995\u20132013, men \u00e5terupptog relationerna med Kina 2016."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1996-01-01",
+              "to": "2024-08-31"
+            },
+            "answer": "Ja",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Taiwans_politiska_status&oldid=11070432"
+          },
+          {
+            "date_range": {
+              "from": "2024-09-30",
+              "to": "2026-08-25"
+            },
+            "answer": "Nej",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Taiwans_politiska_status&oldid=59455004"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Which city is Ukraine's main seaport and transport hub?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Odesa is Ukraine\u2019s main seaport and a major transport hub."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Odesa is Ukraine\u2019s main seaport and a major transport hub on the Black Sea."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Odesa (Odessa) is Ukraine\u2019s main seaport and a major transport hub."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Odesa (Odessa) is Ukraine\u2019s main seaport and a major transport hub."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Vad heter Ukrainas viktigaste hamnstad?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Ukrainas viktigaste hamnstad heter **Odesa** (\u00e4ven stavat Odessa)."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Ukrainas viktigaste hamnstad \u00e4r **Odesa** (\u00e4ven stavat Odessa), vid Svarta havet."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Ukrainas viktigaste hamnstad heter **Odessa (Odesa)** och ligger vid Svarta havet."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Ukrainas viktigaste hamnstad \u00e4r **Odesa**."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "1991-08-24",
+          "answer": "Odessa",
+          "source": "https://en.wikipedia.org/wiki/Odesa"
+        },
+        {
+          "date": "2012-04-01",
+          "answer": "Odesa",
+          "source": "https://en.wikipedia.org/wiki/Odesa"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "1991-08-24",
+          "answer": "Odessa",
+          "source": "https://sv.wikipedia.org/wiki/Odessa"
+        },
+        {
+          "date": "2026-07-02",
+          "answer": "Odesa",
+          "source": "https://www.regeringen.se/pressmeddelanden/2026/07/kiev-blir-kyjiv-och-odessa-blir-odesa/"
+        }
+      ]
+    }
+  ]
+}

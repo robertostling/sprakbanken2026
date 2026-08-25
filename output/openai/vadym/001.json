@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "How many years do you need to live in Sweden to qualify for a citizenship as a stateless person?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "As a stateless person, you generally need to have lived in Sweden for **4 years** with habitual residence to qualify for Swedish citizenship.\n\nOther requirements may apply, such as proving your identity and having lived an orderly life. Special rules apply to stateless children and young adults."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "A **stateless person generally needs to have lived legally and continuously in Sweden for at least 4 years** to qualify for Swedish citizenship by naturalisation.\n\nYou must also meet other requirements, such as:\n\n- Having a qualifying residence status\n- Proving your identity, where possible\n- Having lived an orderly life in Sweden (for example, no serious unpaid debts or criminal record)\n\nIf you are **stateless and were born in Sweden**, different and potentially shorter rules may apply. The Swedish Migration Agency assesses the exact residence period based on your permit and circumstances."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "A recognized stateless person generally needs **four years of habitual residence in Sweden** to qualify to apply for Swedish citizenship.\n\nYou must also meet other requirements, such as having the required residence status, proving your identity where possible, and having conducted yourself well. Different rules may apply to stateless children born in Sweden."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "As a **stateless person**, you generally need **four years of habitual residence in Sweden** before applying for citizenship through naturalisation.\n\nYou must also meet other requirements, such as having a permanent residence permit or equivalent right of residence, proving your identity where possible, and having lived an orderly life. Residence alone does not guarantee citizenship."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Hur l\u00e4nge m\u00e5ste en statl\u00f6s person ha bott i Sverige f\u00f6r att kunna bli svensk medborgare?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "En statsl\u00f6s person m\u00e5ste normalt ha haft hemvist i Sverige i **fyra \u00e5r** f\u00f6r att kunna ans\u00f6ka om svenskt medborgarskap.\n\nDessutom kr\u00e4vs vanligtvis bland annat:\n- permanent uppeh\u00e5llstillst\u00e5nd, uppeh\u00e5llsstatus eller motsvarande r\u00e4tt att vistas h\u00e4r\n- styrkt identitet, med vissa m\u00f6jliga undantag\n- ett sk\u00f6tsamt levnadss\u00e4tt.\n\nS\u00e4rskilda regler g\u00e4ller f\u00f6r statsl\u00f6sa barn och unga, d\u00e4r medborgarskap i vissa fall kan f\u00e5s tidigare genom anm\u00e4lan."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "En statsl\u00f6s person kan normalt ans\u00f6ka om svenskt medborgarskap efter **fyra \u00e5rs hemvist i Sverige**.\n\nDet finns vissa undantag och s\u00e4rskilda regler, till exempel f\u00f6r personer som \u00e4r f\u00f6dda i Sverige eller har flyktingstatus. Kraven p\u00e5 bland annat permanent uppeh\u00e5llstillst\u00e5nd eller uppeh\u00e5llsr\u00e4tt, identitet och sk\u00f6tsamhet m\u00e5ste ocks\u00e5 vara uppfyllda. Migrationsverket pr\u00f6var varje ans\u00f6kan individuellt."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Som huvudregel m\u00e5ste en **statsl\u00f6s vuxen ha haft hemvist i Sverige i minst fyra \u00e5r** f\u00f6r att kunna ans\u00f6ka om svenskt medborgarskap.\n\nDessutom m\u00e5ste \u00f6vriga krav vara uppfyllda, exempelvis permanent uppeh\u00e5llstillst\u00e5nd eller motsvarande uppeh\u00e5llsr\u00e4tt samt sk\u00f6tsamhet. L\u00e4ngre utlandsvistelser kan p\u00e5verka hur hemvisttiden r\u00e4knas. S\u00e4rskilda regler g\u00e4ller f\u00f6r statsl\u00f6sa barn."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "En statsl\u00f6s person kan normalt ans\u00f6ka om svenskt medborgarskap efter **fyra \u00e5rs hemvist i Sverige**. Det \u00e4r ett \u00e5r kortare \u00e4n huvudregeln p\u00e5 fem \u00e5r.\n\n\u00d6vriga krav m\u00e5ste ocks\u00e5 vara uppfyllda, exempelvis krav p\u00e5 permanent uppeh\u00e5llstillst\u00e5nd eller motsvarande uppeh\u00e5llsr\u00e4tt och att personen har levt ett sk\u00f6tsamt liv. **Hemvist** inneb\u00e4r att man faktiskt har varit bosatt i Sverige; vissa l\u00e4ngre utlandsvistelser kan d\u00e4rf\u00f6r p\u00e5verka tiden."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "2025-01-01",
+          "answer": "4 years.",
+          "source": "https://www.migrationsverket.se/en/you-want-to-apply/swedish-citizenship/citizenship-for-adults/citizenship-for-adults.html"
+        },
+        {
+          "date": "2026-06-06",
+          "answer": "5 years.",
+          "source": "https://www.migrationsverket.se/en/you-want-to-apply/swedish-citizenship/citizenship-for-adults/citizenship-for-adults.html"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2025-01-01",
+          "answer": "4 \u00e5r.",
+          "source": "https://www.migrationsverket.se/en/you-want-to-apply/swedish-citizenship/citizenship-for-adults/citizenship-for-adults.html"
+        },
+        {
+          "date": "2026-06-06",
+          "answer": "5 \u00e5r.",
+          "source": "https://www.migrationsverket.se/en/you-want-to-apply/swedish-citizenship/citizenship-for-adults/citizenship-for-adults.html"
+        }
+      ]
+    }
+  ]
+}

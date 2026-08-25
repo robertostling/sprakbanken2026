@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Which city is the administrative centre of Dnipropetrovsk Oblast?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Dnipro is the administrative centre of Dnipropetrovsk Oblast, Ukraine."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Dnipro is the administrative centre of Dnipropetrovsk Oblast, Ukraine."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Dnipro is the administrative centre of Dnipropetrovsk Oblast, Ukraine."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "The administrative centre of Dnipropetrovsk Oblast is **Dnipro**."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Vad heter huvudorten av Dnipropetrovsk oblast i Ukraina?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Huvudorten i Dnipropetrovsk oblast \u00e4r **Dnipro** (tidigare kallad Dnipropetrovsk)."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Huvudorten i Dnipropetrovsk oblast \u00e4r **Dnipro**. Den hette tidigare **Dnipropetrovsk**."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Huvudorten i Dnipropetrovsk oblast \u00e4r **Dnipro** (tidigare kallad Dnipropetrovsk)."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Huvudorten \u00e4r **Dnipro** (tidigare kallad Dnipropetrovsk)."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "1991-08-24",
+          "answer": "Dnipropetrovsk",
+          "source": "https://en.wikipedia.org/wiki/Dnipro"
+        },
+        {
+          "date": "2016-05-19",
+          "answer": "Dnipro",
+          "source": "https://en.wikipedia.org/wiki/Dnipro"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "1991-08-24",
+          "answer": "Kiev",
+          "source": "https://sv.wikipedia.org/wiki/Dnipro"
+        },
+        {
+          "date": "2016-05-19",
+          "answer": "Kyjiv",
+          "source": "https://sv.wikipedia.org/wiki/Dnipro"
+        }
+      ]
+    }
+  ]
+}

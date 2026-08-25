@@ -1,0 +1,228 @@
+{
+  "questions": [
+    {
+      "question": "Vem vann Damallsvenskan?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Vilket \u00e5r menar du? Senast, 2024, vann **FC Roseng\u00e5rd** Damallsvenskan."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Vilken s\u00e4song menar du? Damallsvenskan har en vinnare varje \u00e5r. Menar du den senaste s\u00e4songen, 2025?"
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "Om du menar den senaste avslutade s\u00e4songen, 2025, vann **BK H\u00e4cken** Damallsvenskan."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "FC Roseng\u00e5rd vann Damallsvenskan 2024."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Who won the women's Swedish football league?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "Which season do you mean? The top women\u2019s league is Damallsvenskan; tell me the year and I\u2019ll name the champion."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "The most recent completed **Damallsvenskan** season was won by **FC Roseng\u00e5rd**, who claimed the **2024 Swedish women\u2019s football league title**."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "FC Roseng\u00e5rd won the 2024 Damallsvenskan, Sweden\u2019s top women\u2019s football league."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "FC Roseng\u00e5rd won Sweden\u2019s women\u2019s top-flight football league, Damallsvenskan, in 2024."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-11-27",
+            "to": "2026-01-31"
+          },
+          "answer": "BK H\u00e4cken",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1324475017"
+        },
+        {
+          "date_range": {
+            "from": "2024-11-23",
+            "to": "2025-01-31"
+          },
+          "answer": "FC Roseng\u00e5rd",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1259032711"
+        },
+        {
+          "date_range": {
+            "from": "2023-11-12",
+            "to": "2024-01-31"
+          },
+          "answer": "Hammarby IF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1184752618"
+        },
+        {
+          "date_range": {
+            "from": "2021-10-17",
+            "to": "2023-01-31"
+          },
+          "answer": "FC Roseng\u00e5rd",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1050386112"
+        },
+        {
+          "date_range": {
+            "from": "2020-11-17",
+            "to": "2021-01-31"
+          },
+          "answer": "Kopparbergs/G\u00f6teborg FC",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=989161106"
+        },
+        {
+          "date_range": {
+            "from": "2019-11-19",
+            "to": "2020-01-31"
+          },
+          "answer": "FC Roseng\u00e5rd",
+          "source": "https://sv.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=46581955"
+        },
+        {
+          "date_range": {
+            "from": "2018-10-27",
+            "to": "2019-01-31"
+          },
+          "answer": "Pite\u00e5 IF",
+          "source": "https://sv.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=43783371"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-11-27",
+            "to": "2026-01-31"
+          },
+          "answer": "BK H\u00e4cken",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1324475017"
+        },
+        {
+          "date_range": {
+            "from": "2024-11-23",
+            "to": "2025-01-31"
+          },
+          "answer": "FC Roseng\u00e5rd",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1259032711"
+        },
+        {
+          "date_range": {
+            "from": "2023-11-12",
+            "to": "2024-01-31"
+          },
+          "answer": "Hammarby IF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1184752618"
+        },
+        {
+          "date_range": {
+            "from": "2021-10-17",
+            "to": "2023-01-31"
+          },
+          "answer": "FC Roseng\u00e5rd",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1050386112"
+        },
+        {
+          "date_range": {
+            "from": "2020-11-17",
+            "to": "2021-01-31"
+          },
+          "answer": "Kopparbergs/G\u00f6teborg FC",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=989161106"
+        },
+        {
+          "date_range": {
+            "from": "2019-11-19",
+            "to": "2020-01-31"
+          },
+          "answer": "FC Roseng\u00e5rd",
+          "source": "https://sv.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=46581955"
+        },
+        {
+          "date_range": {
+            "from": "2018-10-27",
+            "to": "2019-01-31"
+          },
+          "answer": "Pite\u00e5 IF",
+          "source": "https://sv.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=43783371"
+        }
+      ]
+    }
+  ]
+}

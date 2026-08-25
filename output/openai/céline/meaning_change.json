@@ -1,0 +1,612 @@
+[
+  {
+    "questions": [
+      {
+        "question": "Har ordet 'grym' en positiv eller negativ konnotation?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Ordet **\u201dgrym\u201d** kan ha b\u00e5de positiv och negativ konnotation beroende p\u00e5 sammanhanget:\n\n- **Negativt:** *\u201dEn grym h\u00e4rskare\u201d* betyder att personen \u00e4r brutal eller h\u00e4nsynsl\u00f6s.\n- **Positivt i vardagligt spr\u00e5k:** *\u201dHon \u00e4r grym p\u00e5 att sjunga\u201d* betyder att hon \u00e4r mycket skicklig.\n- **Som f\u00f6rst\u00e4rkning:** *\u201dDet var en grym konsert!\u201d* betyder att konserten var v\u00e4ldigt bra.\n\nAllts\u00e5: traditionellt \u00e4r ordet negativt, men i modernt talspr\u00e5k anv\u00e4nds det ofta positivt."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Ordet **\u201dgrym\u201d** kan ha b\u00e5de positiv och negativ konnotation beroende p\u00e5 sammanhang:\n\n- **Negativt:** *\u201dEn grym diktator\u201d* = brutal eller h\u00e4nsynsl\u00f6s.\n- **Positivt, vardagligt:** *\u201dVilken grym konsert!\u201d* = fantastisk eller imponerande.\n- **Bokstavligt:** *\u201dEtt grymt \u00f6de\u201d* = mycket h\u00e5rt eller pl\u00e5gsamt.\n\nI modern talspr\u00e5klig svenska anv\u00e4nds **\u201dgrym\u201d** ofta positivt, men sammanhanget avg\u00f6r."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Ordet **\u201dgrym\u201d** kan ha b\u00e5de positiv och negativ konnotation beroende p\u00e5 sammanhanget:\n\n- **Negativt:** *\u201dEn grym h\u00e4rskare\u201d* \u2013 n\u00e5gon som \u00e4r h\u00e4nsynsl\u00f6s eller brutal.\n- **Positivt, vardagligt:** *\u201dHon \u00e4r grym p\u00e5 att sjunga\u201d* \u2013 hon \u00e4r v\u00e4ldigt skicklig.  \n  *\u201dVilken grym l\u00e5t!\u201d* \u2013 en mycket bra l\u00e5t.\n\nI modernt vardagsspr\u00e5k anv\u00e4nds **\u201dgrym\u201d** ofta positivt, medan den traditionella betydelsen \u00e4r negativ."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Ordet **\u201dgrym\u201d** kan ha b\u00e5de **negativ och positiv konnotation**, beroende p\u00e5 sammanhang:\n\n- **Negativt:** *en grym tyrann* = brutal eller h\u00e4nsynsl\u00f6s  \n- **Positivt, vardagligt:** *en grym konsert* = fantastisk eller v\u00e4ldigt bra  \n\nAllts\u00e5 \u00e4r betydelsen **kontextberoende**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1285-01-01",
+              "to": "1969-12-31"
+            },
+            "answer": "Negativ",
+            "source": "https://svenska.se/?q=grym&exactMatch=true&activeTab=alla"
+          },
+          {
+            "date_range": {
+              "from": "1970-01-01",
+              "to": ""
+            },
+            "answer": "Positiv",
+            "source": "https://svenska.se/?q=grym&exactMatch=true&activeTab=alla"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r en influencer?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "En **influencer** \u00e4r en person som p\u00e5verkar andras \u00e5sikter, val eller k\u00f6pbeslut, ofta genom sociala medier som Instagram, TikTok, YouTube eller bloggar.\n\nInfluencers skapar vanligtvis inneh\u00e5ll inom ett visst omr\u00e5de, till exempel mode, tr\u00e4ning, spel eller resor. De kan samarbeta med f\u00f6retag och f\u00e5 betalt f\u00f6r att rekommendera eller visa upp produkter och tj\u00e4nster. P\u00e5 svenska kallas de ibland **inneh\u00e5llsskapare** eller **opinionsbildare**."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "En **influencer** \u00e4r en person som p\u00e5verkar andra m\u00e4nniskors \u00e5sikter, k\u00f6pvanor eller beteenden, oftast genom sociala medier som Instagram, TikTok, YouTube eller bloggar.\n\nInfluencers brukar ha en f\u00f6ljarskara som litar p\u00e5 deras rekommendationer. De kan till exempel samarbeta med f\u00f6retag och g\u00f6ra reklam f\u00f6r produkter, tj\u00e4nster eller varum\u00e4rken. Ordet kommer fr\u00e5n engelska *influence*, som betyder \u201dp\u00e5verka\u201d."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "En **influencer** \u00e4r en person som genom sitt inneh\u00e5ll och sin publik kan p\u00e5verka andras \u00e5sikter, beteenden eller k\u00f6pbeslut, ofta via sociala medier som Instagram, TikTok, YouTube eller bloggar.\n\nInfluencers publicerar exempelvis bilder, videor, tips och recensioner. De kan ocks\u00e5 samarbeta med f\u00f6retag och f\u00e5 betalt f\u00f6r att marknadsf\u00f6ra produkter eller tj\u00e4nster. En influencer beh\u00f6ver inte vara k\u00e4nd i traditionell mening \u2013 det viktiga \u00e4r att personen har f\u00f6rtroende och genomslag hos sin m\u00e5lgrupp."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "En **influencer** \u00e4r en person som har m\u00e5nga f\u00f6ljare, ofta p\u00e5 sociala medier, och som kan p\u00e5verka deras \u00e5sikter, beteenden eller k\u00f6pbeslut.\n\nInfluencers skapar till exempel inneh\u00e5ll om mode, tr\u00e4ning, mat, resor eller teknik. De kan tj\u00e4na pengar genom reklam, samarbeten med f\u00f6retag och f\u00f6rs\u00e4ljning av egna produkter."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2002-12-31",
+            "answer": "Influencer betyder ingenting p\u00e5 svenska.",
+            "source": "https://svenska.se/?q=influencer&exactMatch=true&activeTab=alla"
+          },
+          {
+            "date": "2003-01-01",
+            "answer": "En person som p\u00e5verkar andra till visst konsumtionsm\u00f6nster, vissa \u00e5sikter m.m.; ofta via sociala medier och mot betalning",
+            "source": "https://svenska.se/?q=influencer&exactMatch=true&activeTab=alla"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vilken tid \u00e4ter man middag?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "I Sverige \u00e4ter man oftast middag omkring **kl. 17\u201319**, vanligtvis runt **18-tiden**. Det varierar f\u00f6rst\u00e5s beroende p\u00e5 familj, arbete och vanor."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "I Sverige \u00e4ter man vanligtvis middag mellan kl. 17 och 19, ofta runt kl. 18. Tiden kan f\u00f6rst\u00e5s variera beroende p\u00e5 familj, arbete och vardagsrutiner."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "I Sverige \u00e4ter man vanligtvis middag mellan **kl. 17 och 19**, ofta runt **kl. 18**. Det varierar f\u00f6rst\u00e5s mellan familjer och vardag/helg."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "I Sverige \u00e4ter man oftast middag n\u00e5gon g\u00e5ng mellan **17.00 och 19.00**, men det varierar beroende p\u00e5 familj och vardagsrutiner."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1430-01-01",
+              "to": "1800-01-01"
+            },
+            "answer": "Man \u00e4ter middag mitt p\u00e5 dagen.",
+            "source": "https://svenska.se/?q=middag&exactMatch=true&activeTab=so&id=243893"
+          },
+          {
+            "date_range": {
+              "from": "1800-01-01",
+              "to": ""
+            },
+            "answer": "Man \u00e4ter middag n\u00e4r arbetsdagen \u00e4r slut.",
+            "source": "https://skillingaryd.nu/varnamo/nyheter/varfor-sager-man-middag-om-kvallsmaten/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "What does the word 'disappoint' mean?",
+        "language": "eng",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "**Disappoint** means to make someone feel sad or dissatisfied because something was not as good as they hoped or expected.\n\n**Example:** \u201cI didn\u2019t want to disappoint my parents by failing the test.\u201d"
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "**Disappoint** means to make someone feel sad or let down because something did not happen as hoped or expected.\n\n**Example:**  \n\u201cI disappointed my friend by forgetting her birthday.\u201d"
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "**Disappoint** means to make someone feel sad or dissatisfied because something did not happen or was not as good as expected.\n\n**Example:** \u201cI\u2019m sorry to disappoint you, but the concert is canceled.\u201d"
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "**Disappoint** means to make someone feel sad or let down because something was not as good as they expected.\n\n**Example:**  \n\u201cI\u2019m sorry to disappoint you, but the concert is canceled.\u201d"
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "eng",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1513-01-01",
+              "to": "1569-12-31"
+            },
+            "answer": "To remove someone from their functions in office.",
+            "source": "https://www.merriam-webster.com/wordplay/words-that-used-to-mean-something-different"
+          },
+          {
+            "date_range": {
+              "from": "1570-01-01",
+              "to": ""
+            },
+            "answer": "To fail to meet the expectation or hope of.",
+            "source": "https://www.merriam-webster.com/dictionary/disappoint"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vilka \u00e4r definitionerna av ordet \u201dagent\u201d?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Ordet **agent** kan ha flera betydelser beroende p\u00e5 sammanhang:\n\n1. **Ombud eller representant**  \n   En person eller organisation som handlar f\u00f6r n\u00e5gon annans r\u00e4kning.  \n   *Exempel: f\u00f6rs\u00e4kringsagent, litter\u00e4r agent, spelaragent.*\n\n2. **F\u00f6rmedlare**  \n   N\u00e5gon som f\u00f6rmedlar aff\u00e4rer, uppdrag eller kontakter mellan parter.  \n   *Exempel: en agent som bokar artister.*\n\n3. **Underr\u00e4ttelseagent eller hemlig agent**  \n   En person som samlar in information eller utf\u00f6r hemliga uppdrag \u00e5t en stat eller organisation.  \n   *Exempel: spionagent.*\n\n4. **Verksam eller orsakande kraft**  \n   N\u00e5got som framkallar en viss effekt eller f\u00f6r\u00e4ndring.  \n   *Exempel: ett kemiskt eller smittsamt agens; p\u00e5 engelska \u201cagent\u201d.*\n\n5. **Spr\u00e5kvetenskaplig agent**  \n   Den person eller sak som utf\u00f6r handlingen i en sats.  \n   *Exempel: I \u201dKatten jagar musen\u201d \u00e4r katten agent.*\n\n6. **Datavetenskaplig agent**  \n   Ett program eller system som sj\u00e4lvst\u00e4ndigt observerar, fattar beslut och utf\u00f6r handlingar f\u00f6r att n\u00e5 ett m\u00e5l.  \n   *Exempel: en AI-agent eller mjukvaruagent.*\n\n7. **Agent i juridisk eller ekonomisk teori**  \n   En part som handlar p\u00e5 uppdrag av en annan part, kallad **principal**.  \n   *Exempel: en f\u00f6retagsledning \u00e4r agent \u00e5t aktie\u00e4garna.*\n\nGemensamt f\u00f6r betydelserna \u00e4r oftast att en agent **agerar, p\u00e5verkar eller handlar f\u00f6r n\u00e5gon eller n\u00e5got annat**."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Ordet **agent** kan ha flera betydelser beroende p\u00e5 sammanhang:\n\n1. **F\u00f6retr\u00e4dare eller ombud**  \n   En person som handlar f\u00f6r n\u00e5gon annan, till exempel en artistagent eller fastighetsagent.\n\n2. **Hemlig eller underr\u00e4ttelseverksam person**  \n   En person som arbetar i hemlighet f\u00f6r en stat eller organisation, ofta med att samla information.  \n   *Exempel: en spion eller underr\u00e4ttelseagent.*\n\n3. **F\u00f6rs\u00e4ljare eller representant**  \n   En person eller ett f\u00f6retag som f\u00f6rmedlar eller s\u00e4ljer varor och tj\u00e4nster f\u00f6r en annan akt\u00f6r.\n\n4. **P\u00e5verkande faktor eller medel**  \n   N\u00e5got som orsakar en f\u00f6r\u00e4ndring eller verkar p\u00e5 n\u00e5got.  \n   *Exempel: ett reng\u00f6ringsmedel kan vara ett desinficerande agent.*\n\n5. **Datorprogram eller tekniskt system**  \n   Ett program som sj\u00e4lvst\u00e4ndigt utf\u00f6r uppgifter \u00e5t en anv\u00e4ndare eller ett annat system, till exempel en programagent eller AI-agent.\n\n6. **Grammatisk term**  \n   Den som utf\u00f6r en handling i en sats.  \n   *I \u201dKatten jagar musen\u201d \u00e4r katten agenten eller utf\u00f6raren.*\n\nOrdet kommer ytterst fr\u00e5n latinets **agens**, \u201dden som handlar\u201d."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Ordet **agent** har flera betydelser beroende p\u00e5 sammanhang. Grundbetydelsen \u00e4r n\u00e5gon eller n\u00e5got som **handlar, verkar eller f\u00f6retr\u00e4der n\u00e5gon annan**.\n\n1. **Ombud eller f\u00f6retr\u00e4dare**  \n   En person eller organisation som sk\u00f6ter \u00e4renden f\u00f6r n\u00e5gon annan.  \n   *Exempel: f\u00f6rs\u00e4kringsagent, fastighetsagent.*\n\n2. **Yrkesm\u00e4ssig f\u00f6rmedlare**  \n   N\u00e5gon som f\u00f6retr\u00e4der exempelvis en artist, f\u00f6rfattare eller idrottare och f\u00f6rhandlar om uppdrag och avtal.  \n   *Exempel: spelaragent, litter\u00e4r agent.*\n\n3. **Underr\u00e4ttelseagent eller spion**  \n   En person som i hemlighet samlar information eller utf\u00f6r uppdrag \u00e5t en stat eller organisation.  \n   *Exempel: hemlig agent, fr\u00e4mmande makts agent.*\n\n4. **Handlande akt\u00f6r**  \n   Inom filosofi och samh\u00e4llsvetenskap: en person eller enhet som kan fatta beslut och utf\u00f6ra handlingar.\n\n5. **Programvaru- eller AI-agent**  \n   Ett datorsystem som sj\u00e4lvst\u00e4ndigt observerar sin omgivning, fattar beslut och utf\u00f6r handlingar f\u00f6r att uppn\u00e5 ett m\u00e5l.\n\n6. **Agent i spr\u00e5kvetenskap**  \n   Den person eller f\u00f6reteelse som utf\u00f6r en handling i en sats, \u00e4ven kallad **agens**.  \n   *Exempel: I \u201dLisa \u00f6ppnade d\u00f6rren\u201d \u00e4r Lisa agenten.*\n\nOrdet kommer ytterst fr\u00e5n latinets *agere*, \u201dhandla\u201d eller \u201dg\u00f6ra\u201d."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Ordet **agent** kan betyda flera saker beroende p\u00e5 sammanhang:\n\n1. **Ombud eller representant**  \n   En person eller organisation som f\u00f6retr\u00e4der n\u00e5gon annan, till exempel en artistagent eller en f\u00f6rs\u00e4ljningsagent.\n\n2. **F\u00f6rmedlare**  \n   N\u00e5gon som f\u00f6rmedlar aff\u00e4rer, avtal eller kontakter mellan parter, exempelvis en fastighetsagent.\n\n3. **Hemlig eller underr\u00e4ttelsearbetande person**  \n   En person som arbetar i hemlighet f\u00f6r en stat eller organisation, ofta med informationsinh\u00e4mtning \u2013 en **spion**.\n\n4. **Verkande faktor eller \u00e4mne**  \n   N\u00e5got som orsakar en f\u00f6r\u00e4ndring eller har en viss effekt, till exempel ett kemiskt eller biologiskt medel: *ett smittspridande agens* eller *ett reng\u00f6ringsagent*.\n\n5. **Sj\u00e4lvst\u00e4ndigt datorprogram**  \n   Inom datateknik och AI \u00e4r en agent ett program som kan uppfatta information, fatta beslut och utf\u00f6ra handlingar f\u00f6r att n\u00e5 ett m\u00e5l.\n\n6. **Handlande person eller kraft**  \n   I mer allm\u00e4n eller filosofisk betydelse kan en agent vara den som handlar eller orsakar n\u00e5got.\n\nKort sagt syftar **agent** oftast p\u00e5 n\u00e5gon eller n\u00e5got som **handlar f\u00f6r egen eller annans r\u00e4kning**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1628-01-01",
+              "to": "1954-12-31"
+            },
+            "answer": "ombud f\u00f6r firma, artist e.d. spion: en hemlig agent, en satsdel.",
+            "source": "https://svenska.se/?q=agent&exactMatch=true&activeTab=alla"
+          },
+          {
+            "date_range": {
+              "from": "1955-01-01",
+              "to": ""
+            },
+            "answer": "ombud f\u00f6r firma, artist e.d. spion: en hemlig agent, en satsdel, en typ av datorprogram.",
+            "source": "https://svenska.se/?q=agent&exactMatch=true&activeTab=alla, https://swoft.ai/en/articles/qu-est-ce-qu-un-agent-ia-definition-academique-russell-wooldridge-ferber/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Qui peut souffrir d'hallucinations?",
+        "language": "fra",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Les hallucinations peuvent toucher de nombreuses personnes, pas uniquement celles ayant un trouble psychiatrique. Elles peuvent survenir notamment chez :\n\n- des personnes souffrant de psychose, schizophr\u00e9nie, trouble bipolaire ou d\u00e9pression s\u00e9v\u00e8re ;\n- des personnes atteintes de maladies neurologiques, comme la maladie de Parkinson, certaines d\u00e9mences ou l\u2019\u00e9pilepsie ;\n- celles ayant une forte fi\u00e8vre, une infection, un d\u00e9lirium ou un manque important de sommeil ;\n- des personnes consommant ou arr\u00eatant brutalement certaines substances (alcool, drogues, m\u00e9dicaments) ;\n- des personnes ayant une d\u00e9ficience visuelle ou auditive importante ;\n- parfois, des personnes en bonne sant\u00e9, notamment \u00e0 l\u2019endormissement ou au r\u00e9veil.\n\nSi les hallucinations sont nouvelles, r\u00e9p\u00e9t\u00e9es, angoissantes, ou accompagn\u00e9es de confusion, agitation, fi\u00e8vre ou risque de passage \u00e0 l\u2019acte, il faut consulter rapidement. En cas de danger imm\u00e9diat, contactez les urgences."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Les hallucinations peuvent toucher **n\u2019importe qui**, mais elles sont plus fr\u00e9quentes dans certaines situations :\n\n- **Troubles psychiatriques** : schizophr\u00e9nie, trouble bipolaire, d\u00e9pression s\u00e9v\u00e8re, psychose.\n- **Maladies neurologiques** : \u00e9pilepsie, maladie de Parkinson, d\u00e9mences, tumeurs ou l\u00e9sions c\u00e9r\u00e9brales.\n- **Consommation ou sevrage** d\u2019alcool, de drogues ou de certains m\u00e9dicaments.\n- **Fi\u00e8vre \u00e9lev\u00e9e, infections, d\u00e9lirium**, d\u00e9shydratation ou manque important de sommeil.\n- **Troubles sensoriels** : perte de vision ou d\u2019audition \u2014 par exemple, hallucinations visuelles dans le syndrome de Charles Bonnet.\n- **Situations temporaires** : stress intense, deuil, hypnose ou transition veille-sommeil.\n\nUne hallucination peut \u00eatre **visuelle, auditive, tactile, olfactive ou gustative**. Elle ne signifie pas forc\u00e9ment qu\u2019une personne souffre d\u2019une maladie mentale.\n\nSi elles apparaissent soudainement, avec confusion, fi\u00e8vre, faiblesse d\u2019un c\u00f4t\u00e9, convulsions, ou apr\u00e8s une prise de substance, il faut contacter rapidement les urgences. Si elles sont r\u00e9currentes, une consultation m\u00e9dicale est recommand\u00e9e."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Les hallucinations peuvent toucher **des personnes de tout \u00e2ge** et ne signifient pas forc\u00e9ment une schizophr\u00e9nie. Elles peuvent survenir notamment chez :\n\n- des personnes atteintes de troubles psychiatriques (psychose, trouble bipolaire, d\u00e9pression s\u00e9v\u00e8re) ;\n- des personnes ayant une maladie neurologique (\u00e9pilepsie, d\u00e9mence, Parkinson, migraine) ;\n- celles qui consomment ou arr\u00eatent brutalement certaines substances (alcool, drogues) ;\n- celles prenant certains m\u00e9dicaments ;\n- des personnes tr\u00e8s fi\u00e9vreuses, confuses, priv\u00e9es de sommeil ou souffrant d\u2019une maladie aigu\u00eb ;\n- parfois, au moment de l\u2019endormissement ou du r\u00e9veil, sans maladie particuli\u00e8re.\n\nUne \u00e9valuation m\u00e9dicale est recommand\u00e9e, surtout si c\u2019est nouveau ou r\u00e9p\u00e9t\u00e9. **En cas d\u2019apparition brutale avec confusion, agitation, fi\u00e8vre, danger pour soi/autrui ou voix donnant des ordres, contactez imm\u00e9diatement les urgences.**"
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Les hallucinations peuvent toucher **n\u2019importe qui**, \u00e0 tout \u00e2ge : elles ne signifient pas forc\u00e9ment une maladie psychiatrique. Elles correspondent \u00e0 des perceptions sans stimulus ext\u00e9rieur r\u00e9el (voix, images, sensations, odeurs ou go\u00fbts).\n\nCauses possibles :\n\n- **Troubles psychiques** : psychose, schizophr\u00e9nie, trouble bipolaire, d\u00e9pression s\u00e9v\u00e8re, etc.\n- **Maladies neurologiques ou m\u00e9dicales** : \u00e9pilepsie, d\u00e9mence, maladie de Parkinson, infection avec fi\u00e8vre, d\u00e9lirium, migraine, troubles m\u00e9taboliques\u2026\n- **M\u00e9dicaments, drogues ou sevrage** : certains traitements, alcool, cannabis, stimulants, etc.\n- **Manque important de sommeil**, stress intense ou isolement sensoriel.\n- **Au moment de s\u2019endormir ou de se r\u00e9veiller** : ph\u00e9nom\u00e8nes parfois b\u00e9nins.\n- **Chez les personnes malentendantes ou malvoyantes**, notamment le syndrome de Charles Bonnet (visions sans trouble psychiatrique).\n\nUne hallucination **nouvelle, r\u00e9p\u00e9t\u00e9e ou inqui\u00e9tante** m\u00e9rite un avis m\u00e9dical, surtout si elle s\u2019accompagne de confusion, fi\u00e8vre, traumatisme, consommation de substances ou de voix donnant des ordres. En cas de danger imm\u00e9diat, appelez les urgences (15 ou 112 en France)."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "fra",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1660-01-01",
+              "to": "2025-12-31"
+            },
+            "answer": "Les \u00eatres vivants, comme les humains et les animaux.",
+            "source": "https://dictionnaire.lerobert.com/dis-moi-robert/raconte-moi-robert/top-10-mots-plus-etonnants/top-10-des-mots-nouveaux-du-petit-robert-edition-2026.html"
+          },
+          {
+            "date_range": {
+              "from": "2026-01-01",
+              "to": ""
+            },
+            "answer": "Les \u00eatres vivants, comme les humains et les animaux, ainsi que les syst\u00e8mes d'IA.",
+            "source": "https://dictionnaire.lerobert.com/dis-moi-robert/raconte-moi-robert/top-10-mots-plus-etonnants/top-10-des-mots-nouveaux-du-petit-robert-edition-2026.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Explain the meaning(s) of 'cloud'.",
+        "language": "eng",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "\u201cCloud\u201d has several meanings depending on context:\n\n1. **Weather:** A visible mass of tiny water droplets or ice crystals in the atmosphere.  \n   *\u201cDark clouds suggest rain.\u201d*\n\n2. **A mass resembling a cloud:** A large, spreading collection of particles, insects, or other material.  \n   *\u201cA cloud of dust filled the room.\u201d*\n\n3. **Cloud computing:** Remote servers accessed through the internet for storing data, running software, or providing services.  \n   *\u201cI saved the photos to the cloud.\u201d*\n\n4. **Something that causes worry or uncertainty:** A figurative shadow over a situation.  \n   *\u201cThe investigation cast a cloud over his career.\u201d*\n\n5. **To make unclear or confused** *(verb)*:  \n   *\u201cStrong emotions clouded her judgment.\u201d*\n\n6. **To become misty or less transparent** *(verb)*:  \n   *\u201cHis glasses clouded up in the cold.\u201d*\n\n7. **To darken or cover with clouds** *(verb)*:  \n   *\u201cThe sky began to cloud over.\u201d*\n\nThe word can therefore refer to a physical atmospheric object, a cloud-like mass, internet-based computing, or anything that obscures, darkens, or creates uncertainty."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "**Cloud** can mean several things, depending on context:\n\n1. **Weather:**  \n   A visible mass of condensed water droplets or ice crystals in the sky.  \n   *Example: Dark clouds suggest rain.*\n\n2. **A vague mass or appearance:**  \n   Something resembling a cloud, such as dust, smoke, or mist.  \n   *Example: A cloud of dust rose behind the car.*\n\n3. **Something that obscures or troubles:**  \n   A figurative shadow, doubt, worry, or sadness.  \n   *Example: Suspicion clouded his judgment.*\n\n4. **Computing and the internet:**  \n   Remote servers and services accessed through the internet for storing data, running software, or processing information.  \n   *Example: I keep my photos in the cloud.*\n\n5. **A group or swarm:**  \n   A large number of things gathered together.  \n   *Example: A cloud of insects surrounded the light.*\n\n6. **As a verb\u2014to cloud:**  \n   To make something less clear, either physically or mentally.  \n   *Example: Smoke clouded the window; anger clouded her reasoning.*\n\n7. **In heraldry or art:**  \n   A decorative representation of a cloud, often symbolizing mystery, heaven, or the divine."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "**Cloud** has several related meanings:\n\n### As a noun\n1. **Weather:** A visible mass of tiny water droplets or ice crystals in the sky.  \n   *\u201cDark clouds suggest rain.\u201d*\n\n2. **A cloud-like mass:** A large group or mass of smoke, dust, insects, gas, etc.  \n   *\u201cA cloud of dust rose from the road.\u201d*\n\n3. **Computing (\u201cthe cloud\u201d):** Remote internet-based servers used to store data, run software, or provide services instead of relying only on a local device.  \n   *\u201cHer photos are stored in the cloud.\u201d*\n\n4. **Something that causes uncertainty, sadness, or suspicion:**  \n   *\u201cA cloud of suspicion hung over the company.\u201d*\n\n5. **A diffuse collection:** In technical contexts, a spread-out group of points or particles, such as a **point cloud** or **electron cloud**.\n\n### As a verb\n1. **To make something unclear or difficult to understand:**  \n   *\u201cEmotion clouded his judgment.\u201d*\n\n2. **To cover or become covered with cloud, mist, or condensation:**  \n   *\u201cThe mirror clouded over.\u201d*\n\n3. **To make someone\u2019s expression appear troubled or sad:**  \n   *\u201cHer face clouded when she heard the news.\u201d*\n\n### Common expressions\n- **On cloud nine:** Extremely happy.  \n- **Under a cloud:** Viewed with suspicion or disgrace.  \n- **Every cloud has a silver lining:** Even a bad situation may have something positive in it."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "**Cloud** can mean several related things:\n\n### As a noun\n\n1. **A visible mass in the sky** made of water droplets or ice crystals.  \n   - *Dark clouds gathered before the storm.*\n\n2. **A mass of something floating in the air**\u2014such as smoke, dust, gas, or insects.  \n   - *A cloud of smoke filled the room.*  \n   - *A cloud of mosquitoes surrounded them.*\n\n3. **Cloud computing or online storage**\u2014remote computers and servers accessed through the internet.  \n   - *I saved my photos to the cloud.*  \n   - *The company uses cloud-based software.*\n\n4. **A state of worry, suspicion, or disgrace**\u2014usually in the expression *under a cloud*.  \n   - *The official resigned under a cloud of suspicion.*\n\n5. **A gloomy or troubled feeling or situation.**  \n   - *A cloud hung over the celebration.*\n\n6. **A large group or swarm.**  \n   - *A cloud of birds rose from the trees.*\n\n### As a verb\n\n1. **To cover or darken something.**  \n   - *The sky clouded over.*\n\n2. **To make something difficult to see or understand.**  \n   - *Tears clouded her vision.*  \n   - *Anger clouded his judgment.*\n\n3. **To make something less clear, pure, or certain.**  \n   - *Rumors clouded the facts.*\n\n4. **To spoil someone\u2019s happiness or a situation.**  \n   - *The dispute clouded their relationship.*\n\n### Common expressions\n\n- **On cloud nine**: extremely happy.  \n- **Every cloud has a silver lining**: something good can often be found in a bad situation.  \n- **Under a cloud**: suspected of wrongdoing or in disgrace.  \n- **Head in the clouds**: impractical, dreamy, or inattentive."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "eng",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1300-01-01",
+              "to": "1992-12-31"
+            },
+            "answer": "A cloud is a mass of water vapour that floats in the sky. Clouds are usually white or grey in colour. A cloud of something such as smoke or dust is a mass of it floating in the air. ",
+            "source": "https://www.collinsdictionary.com/dictionary/english/cloud, https://www.etymonline.com/word/cloud"
+          },
+          {
+            "date_range": {
+              "from": "1993-01-01",
+              "to": ""
+            },
+            "answer": "A cloud is a mass of water vapour that floats in the sky. Clouds are usually white or grey in colour. A cloud of something such as smoke or dust is a mass of it floating in the air. The cloud is also the network of remote servers that is used in cloud computing.",
+            "source": "https://www.collinsdictionary.com/dictionary/english/cloud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad kallar man en Taylor Swift-fans pappa?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "En Swiftie-farsa! \ud83d\ude04"
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "En **Swift-far**! \ud83d\ude04"
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "En **Swiftie-farsa**! \ud83d\ude04"
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "En **Swiftie-pappa** \u2013 eller kort och gott **Papa Swift**! \ud83d\ude04"
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "",
+              "to": "2023-12-31"
+            },
+            "answer": "det finns ingen officiell ben\u00e4mning f\u00f6r detta.",
+            "source": "https://www.isof.se/download/18.5da237811939564a5837dbfb/1734597757570/Nyordslistan%202024.pdf"
+          },
+          {
+            "date_range": {
+              "from": "2024-01-01",
+              "to": ""
+            },
+            "answer": "En swiftiepappa: en pappa som liksom sitt barn \u00e4r ett fan av Taylor Swif.",
+            "source": "https://www.isof.se/download/18.5da237811939564a5837dbfb/1734597757570/Nyordslistan%202024.pdf"
+          }
+        ]
+      }
+    ]
+  }
+]

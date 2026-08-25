@@ -1,0 +1,511 @@
+[
+  {
+    "questions": [
+      {
+        "question": "Who presents the Booker prize?",
+        "language": "eng",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "The Booker Prize is presented by the **Booker Prize Foundation**."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "The **Booker Prize is presented by the Booker Prize Foundation**, with the annual award ceremony typically hosted by a prominent literary or media figure. The winner is announced by the **chair of the judging panel**."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "The **Booker Prize Foundation** presents the Booker Prize."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "The Booker Prize is awarded by the **Booker Prize Foundation**, an independent charity. Its annual ceremony is typically hosted by a prominent presenter, while the prize is handed to the winner by a distinguished guest."
+            ]
+          }
+        }
+      },
+      {
+        "question": "Vem delar ut Booker-priset?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Bookerpriset delas ut av **Booker Prize Foundation**, en oberoende brittisk v\u00e4lg\u00f6renhetsorganisation. Vinnaren utses av en jury som byts ut varje \u00e5r."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Booker-priset delas ut av **Booker Prize Foundation**, en brittisk ideell organisation. Pristagaren utses av en oberoende jury, medan prisceremonin och administrationen hanteras av stiftelsen."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Booker-priset delas ut av den brittiska v\u00e4lg\u00f6renhetsorganisationen **The Booker Prize Foundation**, utifr\u00e5n en oberoende jurys beslut."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Booker-priset delas ut av **Booker Prize Foundation** genom en oberoende jury som utses varje \u00e5r. Sedan 2019 sponsras priset av **Crankstart**."
+            ]
+          }
+        }
+      },
+      {
+        "question": "\u00bfQui\u00e9n presenta el premio Booker?",
+        "language": "spa",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "El **Premio Booker** no tiene un presentador fijo. Lo organiza la **Booker Prize Foundation**, y el ganador suele anunciarse en una ceremonia conducida por una personalidad invitada, mientras que el fallo corresponde a un jurado independiente que cambia cada a\u00f1o."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "El **Premio Booker** no lo presenta una persona fija. Lo organiza anualmente la **Fundaci\u00f3n Booker Prize**, y el ganador suele anunciarse en una ceremonia presentada por una figura p\u00fablica o un periodista, que cambia cada a\u00f1o.\n\nSi te refieres a una edici\u00f3n concreta, dime el a\u00f1o y te digo qui\u00e9n la present\u00f3."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "El **Premio Booker** lo administra y concede la **Booker Prize Foundation**. El ganador es elegido por un jurado independiente y suele ser anunciado por la persona que preside ese jurado durante la ceremonia anual. Actualmente, el principal patrocinador es **Crankstart**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "El **Booker Prize** lo concede la **Booker Prize Foundation**. No tiene un presentador fijo: la ceremonia cambia de anfitri\u00f3n e invitado de honor cada a\u00f1o. Si te refieres a una edici\u00f3n concreta, dime el a\u00f1o."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "eng",
+        "answers": [
+          {
+            "date": "1969-01-01",
+            "answer": "Booker, McConnell Ltd",
+            "source": "https://en.wikipedia.org/wiki/Booker_Prize"
+          },
+          {
+            "date": "2002-01-01",
+            "answer": "Man Group",
+            "source": "https://en.wikipedia.org/wiki/Booker_Prize"
+          },
+          {
+            "date": "2019-01-01",
+            "answer": "Crankstart",
+            "source": "https://en.wikipedia.org/wiki/Booker_Prize"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Which movie had the biggest opening worldwide?",
+        "language": "eng",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "**Avengers: Endgame (2019)** holds the record for the biggest worldwide opening weekend, grossing approximately **$1.223 billion** globally in its debut."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "The movie with the biggest worldwide opening is **_Avengers: Endgame_ (2019)**, which earned approximately **$1.22 billion globally in its opening weekend**."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "**_Avengers: Endgame_ (2019)** holds the record for the biggest worldwide theatrical opening, earning approximately **$1.223 billion** in its debut weekend."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "**_Avengers: Endgame_ (2019)** had the biggest worldwide opening weekend, earning approximately **$1.223 billion** globally."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "eng",
+        "answers": [
+          {
+            "date": "2019-04-26",
+            "answer": "Avengers: Endgame",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2018-04-27",
+            "answer": "Avengers: Infinity War",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2017-04-14",
+            "answer": "The Fate of the Furious",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2015-12-18",
+            "answer": "Star Wars: The Force Awakens",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2015-06-12",
+            "answer": "Jurassic World",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2011-07-15",
+            "answer": "Harry Potter and the Deathly Hallows -- Part 2",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2009-07-15",
+            "answer": "Harry Potter and the Half-Blood Prince",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2007-05-04",
+            "answer": "Spider-Man 3",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2005-04-19",
+            "answer": "Star Wars: Episode III \u2013 Revenge of the Sith",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the parent company of Marvel Comics?",
+        "language": "eng",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Marvel Comics is owned by **Marvel Entertainment, LLC**, which is a subsidiary of **The Walt Disney Company**."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Marvel Comics is owned by **The Walt Disney Company**. It operates under **Marvel Entertainment**, a subsidiary of Disney."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Marvel Comics is owned by **The Walt Disney Company**, through its subsidiary **Marvel Entertainment**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Marvel Comics is owned by **Marvel Entertainment**, which is a subsidiary of **The Walt Disney Company**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "eng",
+        "answers": [
+          {
+            "date": "1951-01-01",
+            "answer": "Magazine Management",
+            "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+          },
+          {
+            "date": "1973-01-01",
+            "answer": "Marvel Comics Group",
+            "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+          },
+          {
+            "date": "1986-01-01",
+            "answer": "Marvel Entertainment Group",
+            "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+          },
+          {
+            "date": "1998-01-01",
+            "answer": "Marvel Entertainment",
+            "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+          },
+          {
+            "date": "2023-01-01",
+            "answer": "Disney Publishing Worldwide",
+            "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Who is the latest winner of the Nebula award?",
+        "language": "eng",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "The Nebula Awards have multiple categories and are announced annually. As of March 2026, the most recent ceremony was the **60th Nebula Awards**, held in June 2025, honoring works published in 2024.\n\nThe **Best Novel** winner was **_Someone You Can Build a Nest In_ by John Wiswell**."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "The latest **Nebula Award winners** were announced in **June 2025**, honoring works published in 2024. The top fiction awards went to:\n\n- **Best Novel:** *The Tainted Cup* by Robert Jackson Bennett  \n- **Best Novella:** *The Mimicking of Known Successes* by Malka Older  \n- **Best Novelette:** \u201cThe Book of Life\u201d by Sarah Gailey  \n- **Best Short Story:** \u201cThe Deepest Wave\u201d by Zen Cho  \n\nIf you meant the **overall Nebula Award for Best Novel**, the latest winner is **Robert Jackson Bennett for *The Tainted Cup***."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "The latest **Nebula Award for Best Novel** winner is **John Wiswell** for *Someone You Can Build a Nest In*. It won the 2024 Nebula Award, announced in June 2025.\n\nThe Nebula Awards also recognize categories such as novella, novelette, and short story."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "The latest **Nebula Award for Best Novel** went to **Robert Jackson Bennett** for **_The Tainted Cup_**, announced at the 2024 Nebula Awards ceremony in **June 2025**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "eng",
+        "answers": [
+          {
+            "date": "2010-01-01",
+            "answer": "Connie Willis",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2011-01-01",
+            "answer": "Jo Walton",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2012-01-01",
+            "answer": "Kim Stanley Robinson",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2013-01-01",
+            "answer": "Ann Leckie",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2014-01-01",
+            "answer": "Jeff VanderMeer",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2015-01-01",
+            "answer": "Naomi Novik",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2016-01-01",
+            "answer": "Charlie Jane Anders",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2017-01-01",
+            "answer": "N. K. Jemisin",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2018-01-01",
+            "answer": "Mary Robinette Kowal",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2019-01-01",
+            "answer": "Sarah Pinsker",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2020-01-01",
+            "answer": "Martha Wells",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2021-01-01",
+            "answer": "P. Dj\u00e8l\u00ed Clark",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2022-01-01",
+            "answer": "R. F. Kuang",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2023-01-01",
+            "answer": "Vajira Chandrasekera",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2024-01-01",
+            "answer": "John Wiswell",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2025-01-01",
+            "answer": "Stephen Graham Jones",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          }
+        ]
+      }
+    ]
+  }
+]

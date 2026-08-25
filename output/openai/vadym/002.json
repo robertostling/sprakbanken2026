@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "How much do you need to earn in Sweden to qualify for a work permit?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "For a standard Swedish work permit, your salary generally must be:\n\n- **At least 80% of Sweden\u2019s median salary**, and  \n- **In line with Swedish collective agreements or normal pay for the occupation/industry**.\n\nAs of **17 June 2025**, the minimum threshold is **SEK 29,680 per month before tax**. If the normal salary for your role is higher, you must earn that higher amount.\n\nThe threshold is updated when Statistics Sweden publishes a new median salary, so check the current figure with the **Swedish Migration Agency (Migrationsverket)** when applying. Certain permits and occupations\u2014such as EU Blue Cards, researchers, seasonal workers, and intra-company transfers\u2014have different rules."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "As of **June 2024**, Sweden generally requires a work-permit applicant to earn at least:\n\n- **SEK 28,480 per month**, equivalent to **80% of Sweden\u2019s median salary** at that time.\n\nThe salary must also be in line with **Swedish collective agreements or normal industry practice**, and the employer must provide qualifying employment conditions, including insurance.\n\nSweden has announced plans to raise the threshold to **100% of the median salary**\u2014often estimated at roughly **SEK 35,000\u201336,000 per month**\u2014but the exact amount and effective date depend on the rules in force when you apply. Certain occupations and existing permit holders may have transitional or special rules.\n\nBecause the threshold is updated periodically, check the current figure with the **Swedish Migration Agency (Migrationsverket)** before applying."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "For a standard Swedish work permit, your salary must currently be at least **SEK 29,680 per month before tax**\u2014equivalent to **80% of Sweden\u2019s median salary**.\n\nYour salary and other employment conditions must also be at least in line with Swedish collective agreements or normal standards for your occupation. The threshold is updated annually, and different rules apply to permits such as the EU Blue Card or seasonal work.\n\nEU/EEA and Swiss citizens generally do not need a Swedish work permit."
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "For a **standard Swedish work permit**, you generally need a gross salary of at least **SEK 29,680 per month**\u2014about **80% of Sweden\u2019s median salary**.\n\nThe job must also:\n\n- Offer terms and conditions at least comparable to Swedish collective agreements or industry practice\n- Include required employer-provided insurance\n- Be advertised in Sweden/EU/EEA and Switzerland for the required period\n- Provide a salary sufficient to support you\n\nThis applies mainly to **non-EU/EEA/Swiss citizens**; EU/EEA/Swiss citizens normally do not need a work permit. Special categories, such as **EU Blue Cards**, have different\u2014and usually higher\u2014salary thresholds."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Hur mycket beh\u00f6ver man f\u00e5 i l\u00f6n f\u00f6r att kunna f\u00e5 arbetstillst\u00e5nd i Sverige?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-sol-none": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "F\u00f6r att f\u00e5 **arbetstillst\u00e5nd i Sverige** m\u00e5ste l\u00f6nen normalt vara minst **80 % av medianl\u00f6nen i Sverige**.\n\n**Fr\u00e5n 17 juni 2025 \u00e4r gr\u00e4nsen 29 680 kr per m\u00e5nad f\u00f6re skatt.**\n\nDessutom ska l\u00f6nen:\n\n- vara i niv\u00e5 med svenska kollektivavtal eller praxis i yrket \u2013 om den niv\u00e5n \u00e4r h\u00f6gre g\u00e4ller den h\u00f6gre l\u00f6nen,\n- avse en anst\u00e4llning med villkor som uppfyller Migrationsverkets krav,\n- kompletteras med r\u00e4tt f\u00f6rs\u00e4kringar fr\u00e5n arbetsgivaren.\n\nVissa yrken och tillst\u00e5ndstyper kan omfattas av s\u00e4rskilda regler eller undantag. Kontrollera alltid den aktuella gr\u00e4nsen hos **Migrationsverket**, eftersom den uppdateras n\u00e4r medianl\u00f6nen \u00e4ndras."
+          ]
+        },
+        "reasoning-luna-none": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "none"
+            }
+          },
+          "generations": [
+            "F\u00f6r **arbetstillst\u00e5nd i Sverige** m\u00e5ste l\u00f6nen normalt vara minst:\n\n- **80 % av svensk medianl\u00f6n**, och  \n- minst **27 360 kr per m\u00e5nad** enligt den nuvarande medianl\u00f6nen p\u00e5 34 200 kr.\n\nL\u00f6nen m\u00e5ste dessutom vara tillr\u00e4cklig f\u00f6r att du ska kunna f\u00f6rs\u00f6rja dig och f\u00f6lja svenska kollektivavtal eller vad som \u00e4r vanligt i yrket. Det g\u00e4ller den sammanlagda l\u00f6nen fr\u00e5n anst\u00e4llningen, inklusive eventuell regelbunden ers\u00e4ttning som r\u00e4knas som l\u00f6n.\n\n**Observera:** Regeringen har beslutat om sk\u00e4rpta l\u00f6nekrav fram\u00f6ver. Fr\u00e5n **1 juni 2026** v\u00e4ntas huvudregeln bli **90 % av medianl\u00f6nen**, vilket med dagens medianl\u00f6n skulle motsvara cirka **30 780 kr per m\u00e5nad**. Kontrollera alltid den aktuella gr\u00e4nsen hos Migrationsverket, eftersom beloppet kan \u00e4ndras n\u00e4r medianl\u00f6nen uppdateras.\n\nVissa undantag kan finnas, exempelvis f\u00f6r vissa bristyrken eller s\u00e4rskilda grupper."
+          ]
+        },
+        "reasoning-sol-high": {
+          "setting": {
+            "model": "gpt-5.6-sol",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "F\u00f6r ett vanligt arbetstillst\u00e5nd i Sverige beh\u00f6ver du normalt ha en l\u00f6n p\u00e5 minst **29 680 kronor per m\u00e5nad f\u00f6re skatt**. Beloppet g\u00e4ller ans\u00f6kningar som l\u00e4mnats in **fr\u00e5n och med 17 juni 2025** och motsvarar 80 procent av Sveriges medianl\u00f6n.\n\nDessutom m\u00e5ste l\u00f6nen och \u00f6vriga anst\u00e4llningsvillkor vara i niv\u00e5 med svenska kollektivavtal eller vad som \u00e4r normalt inom yrket. Det kan d\u00e4rf\u00f6r kr\u00e4vas en **h\u00f6gre l\u00f6n** \u00e4n minimibeloppet.\n\nBeloppet uppdateras regelbundet. K\u00e4lla: [Migrationsverket \u2013 krav f\u00f6r arbetstillst\u00e5nd](https://www.migrationsverket.se/)"
+          ]
+        },
+        "reasoning-luna-high": {
+          "setting": {
+            "model": "gpt-5.6-luna",
+            "reasoning": {
+              "effort": "high"
+            }
+          },
+          "generations": [
+            "F\u00f6r ett **vanligt arbetstillst\u00e5nd** f\u00f6r en person fr\u00e5n ett land utanf\u00f6r EU/EES/Schweiz kr\u00e4vs normalt minst **29 680 kronor i m\u00e5nadsl\u00f6n f\u00f6re skatt** enligt Migrationsverkets nuvarande niv\u00e5.\n\nL\u00f6nen m\u00e5ste dessutom:\n\n- vara garanterad och normalt betalas i pengar \u2013 f\u00f6rm\u00e5ner r\u00e4knas inte p\u00e5 samma s\u00e4tt,\n- vara minst i niv\u00e5 med kollektivavtal eller vad som \u00e4r normalt i yrket,\n- kombineras med f\u00f6rs\u00e4kringar och villkor som arbetsgivaren m\u00e5ste ordna,\n- g\u00e4lla den anst\u00e4llning som arbetstillst\u00e5ndet avser.\n\nBeloppet \u00e4ndras n\u00e4r medianl\u00f6nen i Sverige \u00e4ndras, s\u00e5 kontrollera alltid den aktuella summan hos [Migrationsverket](https://www.migrationsverket.se/). Medborgare i EU/EES eller Schweiz beh\u00f6ver normalt inte arbetstillst\u00e5nd."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "2026-06-01",
+          "answer": "At least 90 percent of the median salary in Sweden at the time of application.",
+          "source": "https://www.migrationsverket.se/en/word-explanations/salary-requirements-for-a-work-permit.html"
+        },
+        {
+          "date": "2025-01-01",
+          "answer": "At least 80 percent of the median salary in Sweden at the time of application.",
+          "source": "https://www.migrationsverket.se/nyheter/news-archive/2026-04-17-new-rules-for-work-permits-from-1-june-2026.html"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2026-06-01",
+          "answer": "Minst 90 procent av medianl\u00f6nen i Sverige vid tidpunkten f\u00f6r ans\u00f6kan.",
+          "source": "https://www.migrationsverket.se/ordforklaringar/lonekrav-for-arbetstillstand.html"
+        },
+        {
+          "date": "2025-01-01",
+          "answer": "Minst 80 procent av medianl\u00f6nen i Sverige vid tidpunkten f\u00f6r ans\u00f6kan.",
+          "source": "https://www.migrationsverket.se/nyheter/nyhetsarkiv/2026-04-17-nya-regler-for-arbetstillstand-fran-1-juni-2026.html"
+        }
+      ]
+    }
+  ]
+}
