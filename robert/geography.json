@@ -2,6 +2,38 @@
   {
     "questions": [ 
       {
+	"question": "Är det en gemensam programpunkt kl 17 den 25 augusti på Språkbankens personaldagar 2026?",
+	"language": "swe"
+      }
+    ],
+    "answers": [
+      { 
+	"language": "swe",
+	"answers": [
+	  {
+	    "date_range": {
+	      "from": "2026-08-01",
+	      "to": "2026-08-10"
+	    },
+	    "answer": "Ja",
+	    "source": "https://sprakbanken-clarin.lingfil.uu.se/personalmote.html"
+	  },
+	  {
+	    "date_range": {
+	      "from": "2026-08-24",
+	      "to": "2026-08-25"
+	    },
+	    "answer": "Nej",
+	    "source": "https://sprakbanken-clarin.lingfil.uu.se/personalmote.html"
+	  }
+	]
+      }
+    ]
+  },
+
+  {
+    "questions": [ 
+      {
 	"question": "Vilket är Albaniens grannland i öster?",
 	"language": "swe"
       }
@@ -148,6 +180,70 @@
 	  {
 	    "date_range": {
 	      "from": "2018-05-24",
+	      "to": "2026-08-25"
+	    },
+	    "answer": "Nej",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Taiwans_politiska_status&oldid=59455004"
+	  }
+	]
+      }
+    ]
+  },
+
+  {
+    "questions": [ 
+      {
+	"question": "Erkänner Dominikanska Republiken Kina (Taiwan)?",
+	"language": "swe"
+      }
+    ],
+    "answers": [
+      { 
+	"language": "swe",
+	"answers": [
+	  {
+	    "date_range": {
+	      "from": "1995-01-01",
+	      "to": "2018-04-30"
+	    },
+	    "answer": "Ja",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Taiwans_politiska_status&oldid=11070432"
+	  },
+	  {
+	    "date_range": {
+	      "from": "2018-05-31",
+	      "to": "2026-08-25"
+	    },
+	    "answer": "Nej",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Taiwans_politiska_status&oldid=59455004"
+	  }
+	]
+      }
+    ]
+  },
+
+  {
+    "questions": [ 
+      {
+	"question": "Erkänner Gambia Republiken Kina (Taiwan)?",
+	"language": "swe"
+      }
+    ],
+    "answers": [
+      { 
+	"language": "swe",
+	"answers": [
+	  {
+	    "date_range": {
+	      "from": "1996-01-01",
+	      "to": "2024-08-31"
+	    },
+	    "answer": "Ja",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Taiwans_politiska_status&oldid=11070432"
+	  },
+	  {
+	    "date_range": {
+	      "from": "2024-09-30",
 	      "to": "2026-08-25"
 	    },
 	    "answer": "Nej",
