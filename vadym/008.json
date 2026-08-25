@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "Who is the president of Poland?",
+      "language": "ENG"
+    },
+    {
+      "question": "Vad heter Polens president?",
+      "language": "SWE"
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-08-06",
+            "to": "2026-08-25"
+          },
+          "answer": "Karol Nawrocki",
+          "source": "https://en.wikipedia.org/wiki/Karol_Nawrocki"
+        },
+        {
+          "date_range": {
+            "from": "2015-08-06",
+            "to": "2025-08-06"
+          },
+          "answer": "Andrzej Duda",
+          "source": "https://en.wikipedia.org/wiki/Andrzej_Duda"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-08-06",
+            "to": "2026-08-25"
+          },
+          "answer": "Karol Nawrocki",
+          "source": "https://sv.wikipedia.org/wiki/Karol_Nawrocki"
+        },
+        {
+          "date_range": {
+            "from": "2015-08-06",
+            "to": "2025-08-06"
+          },
+          "answer": "Andrzej Duda",
+          "source": "https://sv.wikipedia.org/wiki/Andrzej_Duda"
+        }
+      ]
+    }
+  ]
+}

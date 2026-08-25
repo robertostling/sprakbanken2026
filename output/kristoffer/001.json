@@ -1,0 +1,25 @@
+{
+  "questions": [
+    {
+      "question": "Under vilken period behöver tunga fordon ha vinterdäck?",
+      "language": "SWE"
+    }
+  ],
+  "answers": [
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2025-11-01",
+          "answer": "10 november-10 april",
+          "source": "https://svenskforfattningssamling.se/doc/2025881.html"
+        },
+        {
+          "date": "2018-09-12",
+          "answer": "1 december-31 mars",
+          "source": "https://svenskforfattningssamling.se/doc/20181547.html"
+        }
+      ]
+    }
+  ]
+}
