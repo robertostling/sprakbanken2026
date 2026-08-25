@@ -151,28 +151,28 @@
   {
      "questions": [
 	{
-	    "question": "...",
-	    "language": "..."
+	    "question": "Qui peut souffrir d'hallucinations?",
+	    "language": "fra"
 	}
      ],
      "answers": [ 
         {
-     	   "language": "...",
+     	   "language": "fra",
      	   "answers" : [
 	      {
 		"date_range": {
-				"from": "...",
-				"to": "..."
+				"from": "1660-01-01",
+				"to": "2025-12-31"
 			},
-		"answer": "...",
-		"source": "..."},  
+		"answer": "Les êtres vivants, comme les humains et les animaux.",
+		"source": "https://dictionnaire.lerobert.com/dis-moi-robert/raconte-moi-robert/top-10-mots-plus-etonnants/top-10-des-mots-nouveaux-du-petit-robert-edition-2026.html"},  
 	      {
 		"date_range": {
-				"from": "...",
-				"to": "..."
+				"from": "2026-01-01",
+				"to": ""
 			},
-		"answer": "...",
-		"source": "..."
+		"answer": "Les êtres vivants, comme les humains et les animaux, ainsi que les systèmes d'IA.",
+		"source": "https://dictionnaire.lerobert.com/dis-moi-robert/raconte-moi-robert/top-10-mots-plus-etonnants/top-10-des-mots-nouveaux-du-petit-robert-edition-2026.html"
 	      }
 	   ]
 	}
