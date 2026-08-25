@@ -1,0 +1,532 @@
+[
+  {
+    "questions": [
+      {
+        "question": "Vilket intervall rekommenderar de nordiska näringsrekommendationerna (NNR) för vuxnas intag av totalt fett, uttryckt i energiprocent?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2004-01-01",
+            "answer": "25–35 energiprocent.",
+            "source": "https://pdfs.semanticscholar.org/40ab/117067bb5498b733d0fc625ad62b81a4912a.pdf"
+          },
+          {
+            "date": "2013-10-03",
+            "answer": "25–40 energiprocent.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "25–40 energiprocent.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vilket planeringsmål anger de nordiska näringsrekommendationerna (NNR) för andelen energi från totalt fett i vuxnas kost?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "1996-01-01",
+            "answer": "Högst cirka 30 energiprocent.",
+            "source": "https://media.arto.se/app/uploads/sites/11/OldPdfFiles/1997/15587.pdf"
+          },
+          {
+            "date": "2004-01-01",
+            "answer": "30 energiprocent.",
+            "source": "https://pdfs.semanticscholar.org/40ab/117067bb5498b733d0fc625ad62b81a4912a.pdf"
+          },
+          {
+            "date": "2013-10-03",
+            "answer": "32–33 energiprocent.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vilket intervall rekommenderar de nordiska näringsrekommendationerna (NNR) för vuxnas kolhydratintag, uttryckt i energiprocent?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2004-01-01",
+            "answer": "50–60 energiprocent.",
+            "source": "https://pdfs.semanticscholar.org/40ab/117067bb5498b733d0fc625ad62b81a4912a.pdf"
+          },
+          {
+            "date": "2013-10-03",
+            "answer": "45–60 energiprocent.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "45–60 energiprocent.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Hur stort dagligt intag av vitamin D rekommenderar de nordiska näringsrekommendationerna (NNR) för vuxna i allmänhet?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2004-01-01",
+            "answer": "7,5 mikrogram per dag.",
+            "source": "https://pdfs.semanticscholar.org/40ab/117067bb5498b733d0fc625ad62b81a4912a.pdf"
+          },
+          {
+            "date": "2013-10-03",
+            "answer": "10 mikrogram per dag.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "10 mikrogram per dag.",
+            "source": "https://pub.norden.org/nord2023-003/vitamin-d-.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Hur stort dagligt intag av vitamin D rekommenderar de nordiska näringsrekommendationerna (NNR) för äldre vuxna?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2004-01-01",
+            "answer": "10 mikrogram per dag för personer som är 61 år eller äldre.",
+            "source": "https://pdfs.semanticscholar.org/40ab/117067bb5498b733d0fc625ad62b81a4912a.pdf"
+          },
+          {
+            "date": "2013-10-03",
+            "answer": "20 mikrogram per dag för personer som är 75 år eller äldre.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "20 mikrogram per dag för personer som är 75 år eller äldre.",
+            "source": "https://pub.norden.org/nord2023-003/vitamin-d-.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad rekommenderar de nordiska näringsrekommendationerna (NNR) om vuxnas alkoholkonsumtion?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2004-01-01",
+            "answer": "Alkoholkonsumtionen bör begränsas och bör inte överstiga cirka 10 gram alkohol per dag för kvinnor eller 20 gram per dag för män. Alkohol bör bidra med högst 5 energiprocent.",
+            "source": "https://pdfs.semanticscholar.org/40ab/117067bb5498b733d0fc625ad62b81a4912a.pdf"
+          },
+          {
+            "date": "2013-10-03",
+            "answer": "Alkoholkonsumtionen bör begränsas och bör inte överstiga cirka 10 gram alkohol per dag för kvinnor eller 20 gram per dag för män. Alkohol bör bidra med högst 5 energiprocent.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Alkohol bör undvikas. Någon säker nedre gräns för alkoholkonsumtion har inte kunnat fastställas.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Hur stor andel av energiintaget rekommenderar de nordiska näringsrekommendationerna (NNR) att protein ska utgöra för äldre vuxna?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "För personer som är 65 år eller äldre rekommenderas 15–20 energiprocent protein; planeringsmålet är 18 energiprocent, motsvarande ungefär 1,2 gram protein per kilogram kroppsvikt och dag.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Proteinbehovet anges genom åldersspecifika AR- och RI-värden i gram per kilogram kroppsvikt och dag, medan det allmänna proteinintervallet är 10–20 energiprocent.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad är det genomsnittliga behovet, AR, av vitamin C för vuxna kvinnor och män enligt de nordiska näringsrekommendationerna (NNR)?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "50 milligram per dag för kvinnor och 60 milligram per dag för män.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "75 milligram per dag för kvinnor och 90 milligram per dag för män.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad är det genomsnittliga behovet, AR, av folat för vuxna kvinnor och män enligt de nordiska näringsrekommendationerna (NNR)?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "200 mikrogram per dag för både kvinnor och män.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "250 mikrogram per dag för både kvinnor och män.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad är det genomsnittliga eller provisoriska genomsnittliga behovet av vitamin B12 för vuxna kvinnor och män enligt de nordiska näringsrekommendationerna (NNR)?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "AR är 1,4 mikrogram per dag för både kvinnor och män.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Det provisoriska AR-värdet är 3,2 mikrogram per dag för både kvinnor och män; NNR 2023 definierar ett AI i stället för ett ordinärt RI för vitamin B12.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad är det genomsnittliga behovet, AR, av kalcium för vuxna kvinnor och män enligt de nordiska näringsrekommendationerna (NNR)?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "500 milligram per dag för både kvinnor och män.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "750 milligram per dag för både kvinnor och män.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad är det genomsnittliga behovet, AR, av zink för vuxna kvinnor och män enligt de nordiska näringsrekommendationerna (NNR)?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "5 milligram per dag för kvinnor och 6 milligram per dag för män.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "8,1 milligram per dag för kvinnor och 10,6 milligram per dag för män, vid den antagna fytatnivån i NNR 2023.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad är det genomsnittliga eller provisoriska genomsnittliga behovet av jod för vuxna kvinnor och män enligt de nordiska näringsrekommendationerna (NNR)?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "AR är 100 mikrogram per dag för både kvinnor och män.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Det provisoriska AR-värdet är 120 mikrogram per dag för både kvinnor och män.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad är det genomsnittliga eller provisoriska genomsnittliga behovet av selen för vuxna kvinnor och män enligt de nordiska näringsrekommendationerna (NNR)?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "AR är 30 mikrogram per dag för kvinnor och 35 mikrogram per dag för män.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Det provisoriska AR-värdet är 60 mikrogram per dag för kvinnor och 70 mikrogram per dag för män.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad är det genomsnittliga eller provisoriska genomsnittliga behovet av vitamin E för vuxna kvinnor och män enligt de nordiska näringsrekommendationerna (NNR)?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "AR är 5 milligram alfa-tokoferolekvivalenter per dag för kvinnor och 6 milligram för män.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Det provisoriska AR-värdet är 8 milligram alfa-tokoferolekvivalenter per dag för kvinnor och 9 milligram för män; NNR 2023 definierar ett AI i stället för ett ordinärt RI.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad är det genomsnittliga behovet, AR, av tiamin för vuxna kvinnor och män enligt de nordiska näringsrekommendationerna (NNR)?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "0,9 milligram per dag för kvinnor och 1,2 milligram per dag för män.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "0,7 milligram per dag för kvinnor och 0,8 milligram per dag för män för de vuxengrupper som jämförs i NNR 2023:s tabell 23.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad är det genomsnittliga eller provisoriska genomsnittliga behovet av fosfor för vuxna kvinnor och män enligt de nordiska näringsrekommendationerna (NNR)?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "AR är 450 milligram per dag för både kvinnor och män.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Det provisoriska AR-värdet är 420 milligram per dag för både kvinnor och män.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad är det genomsnittliga behovet, AR, av järn för vuxna kvinnor och män enligt de nordiska näringsrekommendationerna (NNR)?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "10 milligram per dag för kvinnor och 7 milligram per dag för män i den vuxengrupp som jämförs.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "9 milligram per dag för kvinnor och 7 milligram per dag för män i den vuxengrupp som jämförs.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Anger de nordiska näringsrekommendationerna (NNR) ett referensvärde för kolin hos vuxna, och vilket är i så fall det provisoriska genomsnittliga behovet?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "Nej, NNR 2012 angav inget referensvärde för kolin.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "Ja. NNR 2023 anger ett AI och ett provisoriskt AR på 320 milligram per dag för både vuxna kvinnor och män.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Anger de nordiska näringsrekommendationerna (NNR) ett genomsnittligt behov för vitamin K hos vuxna?",
+        "language": "swe"
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2013-10-03",
+            "answer": "Nej, något genomsnittligt behov fastställdes inte i NNR 2012.",
+            "source": "https://norden.diva-portal.org/smash/get/diva2:704251/FULLTEXT01.pdf"
+          },
+          {
+            "date": "2023-06-20",
+            "answer": "NNR 2023 anger ett AI och ett provisoriskt AR på 50 mikrogram per dag för vuxna kvinnor och 60 mikrogram per dag för vuxna män.",
+            "source": "https://pub.norden.org/nord2023-003/recommendations.html"
+          }
+        ]
+      }
+    ]
+  }
+]
