@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Vem vann Damallsvenskan?",
+      "language": "SWE"
+    },
+    {
+      "question": "Who won the women's Swedish football league?",
+      "language": "ENG"
+    }
+  ],
+  "answers": [
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-11-27",
+            "to": "2026-01-31"
+          },
+          "answer": "BK Häcken",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1324475017"
+        },
+        {
+          "date_range": {
+            "from": "2024-11-23",
+            "to": "2025-01-31"
+          },
+          "answer": "FC Rosengård",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1259032711"
+        },
+        {
+          "date_range": {
+            "from": "2023-11-12",
+            "to": "2024-01-31"
+          },
+          "answer": "Hammarby IF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1184752618"
+        },
+        {
+          "date_range": {
+            "from": "2021-10-17",
+            "to": "2023-01-31"
+          },
+          "answer": "FC Rosengård",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1050386112"
+        },
+        {
+          "date_range": {
+            "from": "2020-11-17",
+            "to": "2021-01-31"
+          },
+          "answer": "Kopparbergs/Göteborg FC",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=989161106"
+        },
+        {
+          "date_range": {
+            "from": "2019-11-19",
+            "to": "2020-01-31"
+          },
+          "answer": "FC Rosengård",
+          "source": "https://sv.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=46581955"
+        },
+        {
+          "date_range": {
+            "from": "2018-10-27",
+            "to": "2019-01-31"
+          },
+          "answer": "Piteå IF",
+          "source": "https://sv.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=43783371"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-11-27",
+            "to": "2026-01-31"
+          },
+          "answer": "BK Häcken",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1324475017"
+        },
+        {
+          "date_range": {
+            "from": "2024-11-23",
+            "to": "2025-01-31"
+          },
+          "answer": "FC Rosengård",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1259032711"
+        },
+        {
+          "date_range": {
+            "from": "2023-11-12",
+            "to": "2024-01-31"
+          },
+          "answer": "Hammarby IF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1184752618"
+        },
+        {
+          "date_range": {
+            "from": "2021-10-17",
+            "to": "2023-01-31"
+          },
+          "answer": "FC Rosengård",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=1050386112"
+        },
+        {
+          "date_range": {
+            "from": "2020-11-17",
+            "to": "2021-01-31"
+          },
+          "answer": "Kopparbergs/Göteborg FC",
+          "source": "https://en.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=989161106"
+        },
+        {
+          "date_range": {
+            "from": "2019-11-19",
+            "to": "2020-01-31"
+          },
+          "answer": "FC Rosengård",
+          "source": "https://sv.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=46581955"
+        },
+        {
+          "date_range": {
+            "from": "2018-10-27",
+            "to": "2019-01-31"
+          },
+          "answer": "Piteå IF",
+          "source": "https://sv.wikipedia.org/w/index.php?title=Damallsvenskan&oldid=43783371"
+        }
+      ]
+    }
+  ]
+}
