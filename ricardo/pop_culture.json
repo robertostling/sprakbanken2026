@@ -1,0 +1,235 @@
+[
+  {
+     "questions": [
+        {
+     	    "question": "Who presents the Booker prize?",
+	    "language": "eng"
+		},
+		{
+			"question": "Vem delar ut Booker-priset?",
+			"language": "swe"
+		},
+		{
+			"question": "¿Quién presenta el premio Booker?",
+			"language": "spa"
+		}
+     ],
+     "answers": [ 
+        {
+     	   "language": "eng",
+     	   "answers" : [
+	      {
+		"date": "1969-01-01",
+		"answer": "Booker, McConnell Ltd",
+		"source": "https://en.wikipedia.org/wiki/Booker_Prize"
+	      },  
+	      {
+		"date": "2002-01-01",
+		"answer": "Man Group",
+		"source": "https://en.wikipedia.org/wiki/Booker_Prize"
+	      },  
+	      {
+		"date": "2019-01-01",
+		"answer": "Crankstart",
+		"source": "https://en.wikipedia.org/wiki/Booker_Prize"
+	      }
+	   ]
+	}
+     ]
+  },
+  {
+     "questions": [
+	   {
+	      "question": "Which movie had the biggest opening worldwide?",
+	      "language": "eng"
+	   }
+     ],
+     "answers": [ 
+        {
+     	   "language": "eng",
+     	   "answers" : [
+	      {
+		"date": "2019-04-26",
+		"answer": "Avengers: Endgame",
+		"source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+	      },  
+	      {
+		"date": "2018-04-27",
+		"answer": "Avengers: Infinity War",
+		"source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+	      },  
+	      {
+		"date": "2017-04-14",
+		"answer": "The Fate of the Furious",
+		"source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+	      },  
+	      {
+		"date": "2015-12-18",
+		"answer": "Star Wars: The Force Awakens",
+		"source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+	      },  
+	      {
+		"date": "2015-06-12",
+		"answer": "Jurassic World",
+		"source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+	      },  
+	      {
+		"date": "2011-07-15",
+		"answer": "Harry Potter and the Deathly Hallows -- Part 2",
+		"source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+	      },  
+	      {
+		"date": "2009-07-15",
+		"answer": "Harry Potter and the Half-Blood Prince",
+		"source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+	      },  
+	      {
+		"date": "2007-05-04",
+		"answer": "Spider-Man 3",
+		"source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+	      },  
+	      {
+		"date": "2005-04-19",
+		"answer": "Star Wars: Episode III – Revenge of the Sith",
+		"source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+	      }
+	   ]
+	}
+     ]
+  },
+  {
+     "questions": [
+	   {
+	      "question": "What is the parent company of Marvel Comics?",
+	      "language": "eng"
+	   }
+     ],
+     "answers": [ 
+        {
+     	   "language": "eng",
+     	   "answers" : [
+	      {
+		"date": "1951-01-01",
+		"answer": "Magazine Management",
+		"source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+	      },  
+	      {
+		"date": "1973-01-01",
+		"answer": "Marvel Comics Group",
+		"source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+	      },  
+	      {
+		"date": "1986-01-01",
+		"answer": "Marvel Entertainment Group",
+		"source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+	      },  
+	      {
+		"date": "1998-01-01",
+		"answer": "Marvel Entertainment",
+		"source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+	      },  
+	      {
+		"date": "2023-01-01",
+		"answer": "Disney Publishing Worldwide",
+		"source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+	      }
+	   ]
+	}
+     ]
+  },
+  {
+     "questions": [
+	   {
+	      "question": "Who is the latest winner of the Nebula award?",
+	      "language": "eng"
+	   }
+     ],
+     "answers": [ 
+        {
+     	   "language": "eng",
+     	   "answers" : [
+	      {
+		"date": "2010-01-01",
+		"answer": "Connie Willis",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2011-01-01",
+		"answer": "Jo Walton",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2012-01-01",
+		"answer": "Kim Stanley Robinson",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2013-01-01",
+		"answer": "Ann Leckie",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2014-01-01",
+		"answer": "Jeff VanderMeer",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2015-01-01",
+		"answer": "Naomi Novik",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2016-01-01",
+		"answer": "Charlie Jane Anders",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2017-01-01",
+		"answer": "N. K. Jemisin",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2018-01-01",
+		"answer": "Mary Robinette Kowal",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2019-01-01",
+		"answer": "Sarah Pinsker",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2020-01-01",
+		"answer": "Martha Wells",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2021-01-01",
+		"answer": "P. Djèlí Clark",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2022-01-01",
+		"answer": "R. F. Kuang",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2023-01-01",
+		"answer": "Vajira Chandrasekera",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2024-01-01",
+		"answer": "John Wiswell",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2025-01-01",
+		"answer": "Stephen Graham Jones",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      }
+	   ]
+	}
+     ]
+  }
+]

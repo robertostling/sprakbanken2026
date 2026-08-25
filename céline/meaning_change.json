@@ -1,0 +1,181 @@
+[
+	{
+        "questions": [ 
+	   {
+	      "question": "Har ordet 'grym' en positiv eller negative konnotation?",
+	      "language": "sve"
+	   }
+	],
+	"answers": [
+	    { 
+	    	"language": "sve",
+		"answers": [
+		    {
+			"date_range": {
+				"from": "1285-01-01",
+				"to": "1969-12-31"
+			},
+			"answer": "Negativ",
+			"source": "https://svenska.se/?q=grym&exactMatch=true&activeTab=alla"
+		    },
+		    {
+			"date_range": {
+				"from": "1970-01-01",
+				"to": ""
+			},
+			"answer": "Positiv",
+			"source": "https://svenska.se/?q=grym&exactMatch=true&activeTab=alla"
+		    }
+		]
+	    }
+	]
+  },
+  {
+     "questions": [
+	{
+	    "question": "Vad är en influencer?",
+	    "language": "swe"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "sve",
+     	   "answers" : [
+	      {
+		"date": "2002-12-31",
+		"answer": "Influencer betyder ingenting på svenska.",
+		"source": "..."
+	      },  
+	      {
+		"date": "2003-01-01",
+		"answer": "En person som påverkar andra till visst konsumtionsmönster, vissa åsikter m.m.; ofta via sociala medier och mot betalning",
+		"source": "https://svenska.se/?q=influencer&exactMatch=true&activeTab=alla"
+	      }
+	   ]
+	}
+     ]
+  },
+  {
+     "questions": [
+	{
+	    "question": "Vilken tid äter man middag?",
+	    "language": "swe"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "sve",
+     	   "answers" : [
+	      {
+		"date_range": {
+				"from": "1430-01-01",
+				"to": "1800-01-01"
+			},
+		"answer": "Man äter middag mitt på dagen.",
+		"source": "https://svenska.se/?q=middag&exactMatch=true&activeTab=so&id=243893"
+	      },  
+	      {
+		"date_range": {
+				"from": "1800-01-01",
+				"to": ""
+			},
+		"answer": "Man äter middag när arbetsdagen är slut.",
+		"source": "https://skillingaryd.nu/varnamo/nyheter/varfor-sager-man-middag-om-kvallsmaten/"
+	      }
+	   ]
+	}
+     ]
+  },
+  {
+     "questions": [
+	{
+	    "question": "What does the word 'disappoint' mean?",
+	    "language": "eng"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "eng",
+     	   "answers" : [
+	      {
+		"date_range": {
+				"from": "1513-01-01",
+				"to": "1569-12-31"
+			},
+		"answer": "To remove someone from their functions in office.",
+		"source": "https://www.merriam-webster.com/wordplay/words-that-used-to-mean-something-different"
+	      },  
+	      {
+		"date_range": {
+				"from": "1570-01-01",
+				"to": ""
+			},
+		"answer": "to fail to meet the expectation or hope of",
+		"source": "https://www.merriam-webster.com/dictionary/disappoint"
+	      }
+	   ]
+	}
+     ]
+  },
+  {
+     "questions": [
+	{
+	    "question": "Vilka är definitionerna av ordet ”agent”?",
+	    "language": "sve"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "sve",
+     	   "answers" : [
+	      {
+		"date_range": {
+				"from": "1628-01-01",
+				"to": "1954-12-31"
+			},
+		"answer": "ombud för firma, artist e.d. spion: en hemlig agent, en satsdel",
+		"source": "https://svenska.se/?q=agent&exactMatch=true&activeTab=alla"
+	      },  
+	      {
+		"date_range": {
+				"from": "1955-01-01",
+				"to": ""
+			},
+		"answer": "ombud för firma, artist e.d. spion: en hemlig agent, en satsdel, en typ av datorprogram",
+		"source": "https://svenska.se/?q=agent&exactMatch=true&activeTab=alla, https://swoft.ai/en/articles/qu-est-ce-qu-un-agent-ia-definition-academique-russell-wooldridge-ferber/"
+	      }
+	   ]
+	}
+     ]
+  },
+  {
+     "questions": [
+	{
+	    "question": "Qui peut souffrir d'hallucinations?",
+	    "language": "fra"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "fra",
+     	   "answers" : [
+	      {
+		"date_range": {
+				"from": "1660-01-01",
+				"to": "2025-12-31"
+			},
+		"answer": "Les êtres vivants, comme les humains et les animaux.",
+		"source": "https://dictionnaire.lerobert.com/dis-moi-robert/raconte-moi-robert/top-10-mots-plus-etonnants/top-10-des-mots-nouveaux-du-petit-robert-edition-2026.html"},  
+	      {
+		"date_range": {
+				"from": "2026-01-01",
+				"to": ""
+			},
+		"answer": "Les êtres vivants, comme les humains et les animaux, ainsi que les systèmes d'IA.",
+		"source": "https://dictionnaire.lerobert.com/dis-moi-robert/raconte-moi-robert/top-10-mots-plus-etonnants/top-10-des-mots-nouveaux-du-petit-robert-edition-2026.html"
+	      }
+	   ]
+	}
+     ]
+  }
+]

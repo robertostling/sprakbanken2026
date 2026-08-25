@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Vem vann Allsvenskan?",
+      "language": "SWE"
+    },
+    {
+      "question": "Who won the Swedish Allsvenskan football league?",
+      "language": "ENG"
+    }
+  ],
+  "answers": [
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-08-20",
+            "to": "2026-01-31"
+          },
+          "answer": "Mjällby AIF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=1317929000"
+        },
+        {
+          "date_range": {
+            "from": "2023-11-12",
+            "to": "2025-01-31"
+          },
+          "answer": "Malmö FF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=1184799726"
+        },
+        {
+          "date_range": {
+            "from": "2022-11-17",
+            "to": "2023-01-31"
+          },
+          "answer": "BK Häcken",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=1122421589"
+        },
+        {
+          "date_range": {
+            "from": "2020-11-24",
+            "to": "2022-01-31"
+          },
+          "answer": "Malmö FF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=990442051"
+        },
+        {
+          "date_range": {
+            "from": "2019-11-02",
+            "to": "2020-01-31"
+          },
+          "answer": "Djurgårdens IF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=924217926"
+        },
+        {
+          "date_range": {
+            "from": "2018-11-24",
+            "to": "2019-01-31"
+          },
+          "answer": "AIK",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=868449919"
+        },
+        {
+          "date_range": {
+            "from": "2016-11-06",
+            "to": "2018-01-31"
+          },
+          "answer": "Malmö FF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=748143335"
+        }
+      ]
+    },
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-08-20",
+            "to": "2026-01-31"
+          },
+          "answer": "Mjällby AIF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=1317929000"
+        },
+        {
+          "date_range": {
+            "from": "2023-11-12",
+            "to": "2025-01-31"
+          },
+          "answer": "Malmö FF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=1184799726"
+        },
+        {
+          "date_range": {
+            "from": "2022-11-17",
+            "to": "2023-01-31"
+          },
+          "answer": "BK Häcken",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=1122421589"
+        },
+        {
+          "date_range": {
+            "from": "2020-11-24",
+            "to": "2022-01-31"
+          },
+          "answer": "Malmö FF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=990442051"
+        },
+        {
+          "date_range": {
+            "from": "2019-11-02",
+            "to": "2020-01-31"
+          },
+          "answer": "Djurgårdens IF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=924217926"
+        },
+        {
+          "date_range": {
+            "from": "2018-11-24",
+            "to": "2019-01-31"
+          },
+          "answer": "AIK",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=868449919"
+        },
+        {
+          "date_range": {
+            "from": "2016-11-06",
+            "to": "2018-01-31"
+          },
+          "answer": "Malmö FF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=748143335"
+        }
+      ]
+    }
+  ]
+}
