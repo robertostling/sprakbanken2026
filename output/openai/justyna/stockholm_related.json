@@ -1,0 +1,551 @@
+[
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det officiella namnet p\u00e5 nationalarenan i Solna??",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Strawberry Arena**. Arenan hette tidigare **Friends Arena** och bytte namn den 12 juli 2024."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Friends Arena**. Den ligger i Solna och heter sedan 2024 **Strawberry Arena** efter ett namnbyte."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Strawberry Arena**. Den hette tidigare **Friends Arena**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Strawberry Arena**. Den hette tidigare **Friends Arena**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2024-07-12",
+              "to": "2026-08-25"
+            },
+            "answer": "Strawberry Arena",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Strawberry_Arena&oldid=55231911"
+          },
+          {
+            "date": "2012-10-27",
+            "date_range": {
+              "from": "2012-10-27",
+              "to": "2024-07-11"
+            },
+            "answer": "Friends Arena",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Strawberry_Arena&oldid=21396821"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det officiella namnet p\u00e5 den sf\u00e4riska arenan i Slakthusomr\u00e5det i Johanneshov?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Avicii Arena** (tidigare Globen och Ericsson Globe)."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Avicii Arena**. Den hette tidigare **Globen** och ligger i Slakthusomr\u00e5det i Johanneshov, Stockholm."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Avicii Arena**, tidigare k\u00e4nd som **Globen** och **Ericsson Globe**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Den sf\u00e4riska arenan heter officiellt **Avicii Arena**. Den hette tidigare **Ericsson Globe** och dessf\u00f6rinnan **Globen**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2021-05-19",
+              "to": "2026-08-25"
+            },
+            "answer": "Avici Arena",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Globen&oldid=49257737"
+          },
+          {
+            "date_range": {
+              "from": "2009-02-02",
+              "to": "2021-05-18"
+            },
+            "answer": "Ericsson Globe",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Globen&oldid=8463564"
+          },
+          {
+            "date_range": {
+              "from": "1989-02-19",
+              "to": "2009-02-01"
+            },
+            "answer": "Stockholm Globe Arena",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Globen&oldid=2110030"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det officiella namnet p\u00e5 Sveriges st\u00f6rsta galleria som ligger i Arenastaden i Solna?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Westfield Mall of Scandinavia**."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Westfield Mall of Scandinavia**."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Westfield Mall of Scandinavia**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Westfield Mall of Scandinavia** (ofta kallad **Mall of Scandinavia**)."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2019-09-28",
+              "to": "2026-08-25"
+            },
+            "answer": "Westfield Mall of Scandinavia",
+            "source": "https://en.wikipedia.org/w/index.php?title=Mall_of_Scandinavia&oldid=1295841560"
+          },
+          {
+            "date_range": {
+              "from": "2011-11-12",
+              "to": "2019-09-27"
+            },
+            "answer": "Mall of Scandinavia",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Mall_of_Scandinavia&oldid=46346712"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad heter den svenska myndigheten som ska s\u00e4kerst\u00e4lla att samh\u00e4llet \u00e4r f\u00f6rberett f\u00f6r kris, h\u00f6jd beredskap och krig?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Det \u00e4r **Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap (MSB)**. Den ansvarar f\u00f6r att utveckla och st\u00f6dja samh\u00e4llets f\u00f6rm\u00e5ga att hantera olyckor, kriser, h\u00f6jd beredskap och krig."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Det \u00e4r **Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap (MSB)**. Sedan den 1 januari 2026 heter myndigheten **Myndigheten f\u00f6r civilt f\u00f6rsvar (MCF)**."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap (MSB)."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Det \u00e4r **Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap (MSB)**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2026-01-01",
+              "to": "2026-08-25"
+            },
+            "answer": "Myndigheten f\u00f6r civilt f\u00f6rsvar",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_civilt_f%C3%B6rsvar&oldid=59417613"
+          },
+          {
+            "date_range": {
+              "from": "2009-01-01",
+              "to": "2025-12-31"
+            },
+            "date": "2009-01-01",
+            "answer": "Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_civilt_f%C3%B6rsvar&oldid=58837524"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad heter museet vid Stortorget i Gamla Stan p\u00e5 svenska?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Nobelmuseet."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Det heter **Nobelmuseet** (tidigare **Nobelmuseet i Gamla stan**) och ligger vid Stortorget i Gamla stan i Stockholm."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Museet heter **Nobelprismuseet**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Det heter **Nobelprismuseet** (tidigare **Nobelmuseet**)."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2019-01-01",
+              "to": "2026-08-25"
+            },
+            "answer": "Nobelprismuseet",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_civilt_f%C3%B6rsvar&oldid=59417613"
+          },
+          {
+            "date_range": {
+              "from": "2001-03-01",
+              "to": "2018-12-31"
+            },
+            "answer": "Nobelmuseet",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Nobelprismuseet&oldid=9417054"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "I vilken stad ligger Polarforskningssekretariatets huvudkontor?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Polarforskningssekretariatets huvudkontor ligger i **Lule\u00e5**."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Polarforskningssekretariatets huvudkontor ligger i **Stockholm**."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Polarforskningssekretariatets huvudkontor ligger i **Lule\u00e5**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Polarforskningssekretariatets huvudkontor ligger i **Stockholm**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2019-01-01",
+              "to": "2026-08-25"
+            },
+            "answer": "Lule\u00e5",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Polarforskningssekretariatet&oldid=59274602"
+          },
+          {
+            "date_range": {
+              "from": "1984-01-01",
+              "to": "2007-12-31"
+            },
+            "answer": "Stockholm",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Polarforskningssekretariatet&oldid=5453774"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "I vilken stad ligger Myndigheten f\u00f6r kulturanalys huvudkontor?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-sol-none": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Myndigheten f\u00f6r kulturanalys har sitt huvudkontor i G\u00f6teborg."
+            ]
+          },
+          "reasoning-luna-none": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "none"
+              }
+            },
+            "generations": [
+              "Myndigheten f\u00f6r kulturanalys har sitt huvudkontor i **G\u00f6teborg**."
+            ]
+          },
+          "reasoning-sol-high": {
+            "setting": {
+              "model": "gpt-5.6-sol",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Myndigheten f\u00f6r kulturanalys har sitt huvudkontor i **G\u00f6teborg**."
+            ]
+          },
+          "reasoning-luna-high": {
+            "setting": {
+              "model": "gpt-5.6-luna",
+              "reasoning": {
+                "effort": "high"
+              }
+            },
+            "generations": [
+              "Myndigheten f\u00f6r kulturanalys har sitt huvudkontor i **G\u00f6teborg**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2017-01-01",
+              "to": "2026-08-25"
+            },
+            "answer": "G\u00f6teborg",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_kulturanalys&oldid=54459635"
+          },
+          {
+            "date_range": {
+              "from": "2011-04-01",
+              "to": "2016-12-31"
+            },
+            "answer": "Stockholm",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_kulturanalys&oldid=30698450"
+          }
+        ]
+      }
+    ]
+  }
+]
