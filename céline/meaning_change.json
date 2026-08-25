@@ -177,5 +177,35 @@
 	   ]
 	}
      ]
+  },
+  {
+     "questions": [
+	{
+	    "question": "Explain the meaning(s) of 'cloud'.",
+	    "language": "eng"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "eng",
+     	   "answers" : [
+	      {
+		"date_range": {
+				"from": "1300-01-01",
+				"to": "1992-12-31"
+			},
+		"answer": "A cloud is a mass of water vapour that floats in the sky. Clouds are usually white or grey in colour. A cloud of something such as smoke or dust is a mass of it floating in the air. ",
+		"source": "https://www.collinsdictionary.com/dictionary/english/cloud, https://www.etymonline.com/word/cloud"},  
+	      {
+		"date_range": {
+				"from": "1993-01-01",
+				"to": ""
+			},
+		"answer": "A cloud is a mass of water vapour that floats in the sky. Clouds are usually white or grey in colour. A cloud of something such as smoke or dust is a mass of it floating in the air. The cloud is also the network of remote servers that is used in cloud computing.",
+		"source": "https://www.collinsdictionary.com/dictionary/english/cloud"
+	      }
+	   ]
+	}
+     ]
   }
 ]
