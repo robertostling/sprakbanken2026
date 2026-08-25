@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "How much do you need to earn in Sweden to qualify for a work permit?",
+      "language": "ENG"
+    },
+    {
+      "question": "Hur mycket behöver man få i lön för att kunna få arbetstillstånd i Sverige?",
+      "language": "SWE"
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "2026-06-01",
+          "answer": "At least 90 percent of the median salary in Sweden at the time of application.",
+          "source": "https://www.migrationsverket.se/en/word-explanations/salary-requirements-for-a-work-permit.html"
+        },
+        {
+          "date": "2025-01-01",
+          "answer": "At least 80 percent of the median salary in Sweden at the time of application.",
+          "source": "https://www.migrationsverket.se/nyheter/news-archive/2026-04-17-new-rules-for-work-permits-from-1-june-2026.html"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2026-06-01",
+          "answer": "Minst 90 procent av medianlönen i Sverige vid tidpunkten för ansökan.",
+          "source": "https://www.migrationsverket.se/ordforklaringar/lonekrav-for-arbetstillstand.html"
+        },
+        {
+          "date": "2025-01-01",
+          "answer": "Minst 80 procent av medianlönen i Sverige vid tidpunkten för ansökan.",
+          "source": "https://www.migrationsverket.se/nyheter/nyhetsarkiv/2026-04-17-nya-regler-for-arbetstillstand-fran-1-juni-2026.html"
+        }
+      ]
+    }
+  ]
+}

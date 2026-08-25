@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "How many years do you need to live in Sweden to qualify for a citizenship as a stateless person?",
+      "language": "ENG"
+    },
+    {
+      "question": "Hur länge måste en statlös person ha bott i Sverige för att kunna bli svensk medborgare?",
+      "language": "SWE"
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "2025-01-01",
+          "answer": "4 years.",
+          "source": "https://www.migrationsverket.se/en/you-want-to-apply/swedish-citizenship/citizenship-for-adults/citizenship-for-adults.html"
+        },
+        {
+          "date": "2026-06-06",
+          "answer": "5 years.",
+          "source": "https://www.migrationsverket.se/en/you-want-to-apply/swedish-citizenship/citizenship-for-adults/citizenship-for-adults.html"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2025-01-01",
+          "answer": "4 år.",
+          "source": "https://www.migrationsverket.se/en/you-want-to-apply/swedish-citizenship/citizenship-for-adults/citizenship-for-adults.html"
+        },
+        {
+          "date": "2026-06-06",
+          "answer": "5 år.",
+          "source": "https://www.migrationsverket.se/en/you-want-to-apply/swedish-citizenship/citizenship-for-adults/citizenship-for-adults.html"
+        }
+      ]
+    }
+  ]
+}

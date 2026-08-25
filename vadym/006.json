@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "question": "Which city is Ukraine's main seaport and transport hub?",
+            "language": "ENG"
+        },
+        {
+            "question": "Vad heter Ukrainas viktigaste hamnstad?",
+            "language": "SWE"
+        }
+    ],
+    "answers": [
+        {
+            "language": "ENG",
+            "answers": [
+                {
+                    "date": "1991-08-24",
+                    "answer": "Odessa",
+                    "source": "https://en.wikipedia.org/wiki/Odesa"
+                },
+                {
+                    "date": "2012-04-01",
+                    "answer": "Odesa",
+                    "source": "https://en.wikipedia.org/wiki/Odesa"
+                }
+            ]
+        },
+        {
+            "language": "SWE",
+            "answers": [
+                {
+                    "date": "1991-08-24",
+                    "answer": "Odessa",
+                    "source": "https://sv.wikipedia.org/wiki/Odessa"
+                },
+                {
+                    "date": "2026-07-02",
+                    "answer": "Odesa",
+                    "source": "https://www.regeringen.se/pressmeddelanden/2026/07/kiev-blir-kyjiv-och-odessa-blir-odesa/"
+                }
+            ]
+        }
+    ]
+}

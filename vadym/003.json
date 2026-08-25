@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "Hur stor lön behöver man ha för att få EU-blåkort i Sverige?",
+      "language": "SWE"
+    },
+    {
+      "question": "What is the salary requirement for EU Blue Card eligibility in Sweden?",
+      "language": "ENG"
+    }
+  ],
+  "answers": [
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2025-01-01",
+          "answer": "En lön som är minst 1,25 gånger en genomsnittlig svensk bruttolön.",
+          "source": "https://www.migrationsverket.se/du-vill-ansoka/arbeta/anstalld-eller-egen-foretagare/eu-blakort.html"
+        },
+        {
+          "date": "2024-01-01",
+          "answer": "En lön som är minst 1,5 gånger en genomsnittlig svensk bruttolön.",
+          "source": "https://www.migrationsverket.se/arbetsgivare/nyhetsarkiv-for-arbetsgivare/nyheter/2025-01-02-nu-galler-nya-regler-for-eu-blakort.html"
+        }
+      ]
+    },
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "2025-01-01",
+          "answer": "A salary/wages that amount to at least 1,25 times the average Swedish salary/wages.",
+          "source": "https://www.migrationsverket.se/du-vill-ansoka/arbeta/anstalld-eller-egen-foretagare/eu-blakort.html"
+        },
+        {
+          "date": "2024-01-01",
+          "answer": "A salary/wages that amount to at least 1,5 times the average Swedish salary/wages.",
+          "source": "https://www.migrationsverket.se/arbetsgivare/nyhetsarkiv-for-arbetsgivare/nyheter/2025-01-02-nu-galler-nya-regler-for-eu-blakort.html"
+        }
+      ]
+    }
+  ]
+}

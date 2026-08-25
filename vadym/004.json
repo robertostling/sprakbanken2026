@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "Hur stor är återvandringsbidraget i Sverige?",
+      "language": "SWE"
+    },
+    {
+      "question": "How much is the repatriation grant in Sweden?",
+      "language": "ENG"
+    }
+  ],
+  "answers": [
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2026-01-01",
+          "answer": "350 000 kronor per vuxen (personer över 18 år). 25 000 kronor per barn. Högst 500 000 kronor för makar eller sambor tillsammans. Högst 600 000 kronor för ett hushåll.",
+          "source": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-01-01-hojt-atervandringsbidrag-fran-och-med-1-januari.html"
+        },
+        {
+          "date": "2025-01-01",
+          "answer": "10 000 kronor per vuxen (personer över 18 år).",
+          "source": "https://www.svt.se/nyheter/inrikes/forsta-nya-atervandringsbidragen-beviljade"
+        }
+      ]
+    },
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "2026-01-01",
+          "answer": "350,000 SEK per adult (persons over 18 years). 25,000 SEK per child. A maximum of 500,000 SEK for married or cohabiting partners. A maximum of 600,000 SEK for a household.",
+          "source": "https://www.migrationsverket.se/en/news-archive/news/2026-01-01-increased-repatriation-grant-from-1-january.html"
+        },
+        {
+          "date": "2025-01-01",
+          "answer": "10,000 SEK per adult (persons over 18 years).",
+          "source": "https://www.svt.se/nyheter/inrikes/forsta-nya-atervandringsbidragen-beviljade"
+        }
+      ]
+    }
+  ]
+}

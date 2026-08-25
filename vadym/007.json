@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "question": "Which city is the administrative centre of Dnipropetrovsk Oblast?",
+            "language": "ENG"
+        },
+        {
+            "question": "Vad heter huvudorten av Dnipropetrovsk oblast i Ukraina?",
+            "language": "SWE"
+        }
+    ],
+    "answers": [
+        {
+            "language": "ENG",
+            "answers": [
+                {
+                    "date": "1991-08-24",
+                    "answer": "Dnipropetrovsk",
+                    "source": "https://en.wikipedia.org/wiki/Dnipro"
+                },
+                {
+                    "date": "2016-05-19",
+                    "answer": "Dnipro",
+                    "source": "https://en.wikipedia.org/wiki/Dnipro"
+                }
+            ]
+        },
+        {
+            "language": "SWE",
+            "answers": [
+                {
+                    "date": "1991-08-24",
+                    "answer": "Kiev",
+                    "source": "https://sv.wikipedia.org/wiki/Dnipro"
+                },
+                {
+                    "date": "2016-05-19",
+                    "answer": "Kyjiv",
+                    "source": "https://sv.wikipedia.org/wiki/Dnipro"
+                }
+            ]
+        }
+    ]
+}
