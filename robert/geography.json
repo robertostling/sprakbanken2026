@@ -1,0 +1,131 @@
+[
+  {
+    "questions": [ 
+      {
+	"question": "Vilket är Albaniens grannland i öster?",
+	"language": "swe"
+      }
+    ],
+    "answers": [
+      { 
+	"language": "swe",
+	"answers": [
+	  {
+	    "date_range": {
+	      "from": "1993-04-08",
+	      "to": "2019-02-11"
+	    },
+	    "answer": "Makedonien",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Albanien&oldid=44734107"
+	  },
+	  {
+	    "date_range": {
+	      "from": "2019-02-12",
+	      "to": "2026-08-25"
+	    },
+	    "answer": "Nordmakedonien",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Albanien&oldid=59593662"
+	  }
+	]
+      }
+    ]
+  },
+  {
+    "questions": [ 
+      {
+	"question": "I vilket afrikanskt land ligger staden Juba?",
+	"language": "swe"
+      }
+    ],
+    "answers": [
+      { 
+	"language": "swe",
+	"answers": [
+	  {
+	    "date_range": {
+	      "from": "1956-01-01",
+	      "to": "2011-07-08"
+	    },
+	    "answer": "Sudan",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Juba&oldid=14447055"
+	  },
+	  {
+	    "date_range": {
+	      "from": "2011-07-09",
+	      "to": "2026-08-25"
+	    },
+	    "answer": "Sydsudan",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Juba&oldid=56675482"
+	  }
+	]
+      }
+    ]
+  },
+
+  {
+    "questions": [ 
+      {
+	"question": "I vilken finsk kommun ligger Pertunmaa kyrkoby?",
+	"language": "swe"
+      }
+    ],
+    "answers": [
+      { 
+	"language": "swe",
+	"answers": [
+	  {
+	    "date_range": {
+	      "from": "1926-01-01",
+	      "to": "2024-12-31"
+	    },
+	    "answer": "Pertunmaa",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Pertunmaa&oldid=56279999"
+	  },
+	  {
+	    "date_range": {
+	      "from": "2025-01-01",
+	      "to": "2026-08-25"
+	    },
+	    "answer": "Mäntyharju",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Pertunmaa&oldid=57357511"
+	  }
+	]
+      }
+    ]
+  },
+
+  {
+    "questions": [ 
+      {
+	"question": "I vilken finsk kommun ligger Honkajoki kyrkoby?",
+	"language": "swe"
+      }
+    ],
+    "answers": [
+      { 
+	"language": "swe",
+	"answers": [
+	  {
+	    "date_range": {
+	      "from": "1952-01-01",
+	      "to": "2020-12-31"
+	    },
+	    "answer": "Honkajoki",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Honkajoki&oldid=57357403"
+	  },
+	  {
+	    "date_range": {
+	      "from": "2021-01-01",
+	      "to": "2026-08-25"
+	    },
+	    "answer": "Kankaanpää stad",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Honkajoki&oldid=48047814"
+	  }
+	]
+      }
+    ]
+  }
+
+]
+
+  
