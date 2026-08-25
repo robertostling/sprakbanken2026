@@ -3,17 +3,17 @@
      "questions": [
         {
      	    "question": "What was the most populous country in the world?",
-	    "language": "ENG"
+	    "language": "eng"
 	},
 	{
 	    "question": "Vilket är världens folkrikaste land?",
-	    "language": "SWE"
+	    "language": "swe"
 	}
-     ]
+     ],
      "answers": [ 
         {
-     	   "language": "ENG",
-     	   "answers" :[
+     	   "language": "eng",
+     	   "answers" : [
 	      {
 		"date": "2013-01-01",
 		"answer": "China",
@@ -32,18 +32,18 @@
         "questions": [ 
 	   {
 	      "question": "In general how many years of residence are required to be eligable for Swedish citizenship?",
-	      "language": "ENG"
+	      "language": "eng"
 	   }
-	]
+	],
 	"answers": [
 	    { 
-	    	"language": "ENG",
+	    	"language": "eng",
 		"answers": [
 		    {
 			"date_range": {
 				"from": "2026-06-06",
 				"to": "2026-08-25"
-			}
+			},
 			"answer": "8 years",
 			"source": "..."
 		    },
@@ -51,7 +51,7 @@
 			"date_range": {
 				"from": "2011-01-01",
 				"to": "2026-06-05"
-			}
+			},
 			"answer": "5 years",
 			"source": "..."
 		    }
