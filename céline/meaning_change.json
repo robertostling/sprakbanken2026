@@ -3,12 +3,12 @@
         "questions": [ 
 	   {
 	      "question": "Har ordet 'grym' en positiv eller negativ konnotation?",
-	      "language": "sve"
+	      "language": "swe"
 	   }
 	],
 	"answers": [
 	    { 
-	    	"language": "sve",
+	    	"language": "swe",
 		"answers": [
 		    {
 			"date_range": {
@@ -39,7 +39,7 @@
      ],
      "answers": [ 
         {
-     	   "language": "sve",
+     	   "language": "swe",
      	   "answers" : [
 	      {
 		"date": "2002-12-31",
@@ -59,12 +59,12 @@
      "questions": [
 	{
 	    "question": "Vilken tid äter man middag?",
-	    "language": "sve"
+	    "language": "swe"
 	}
      ],
      "answers": [ 
         {
-     	   "language": "sve",
+     	   "language": "swe",
      	   "answers" : [
 	      {
 		"date_range": {
@@ -121,12 +121,12 @@
      "questions": [
 	{
 	    "question": "Vilka är definitionerna av ordet ”agent”?",
-	    "language": "sve"
+	    "language": "swe"
 	}
      ],
      "answers": [ 
         {
-     	   "language": "sve",
+     	   "language": "swe",
      	   "answers" : [
 	      {
 		"date_range": {
