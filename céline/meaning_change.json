@@ -110,7 +110,7 @@
 				"from": "1570-01-01",
 				"to": ""
 			},
-		"answer": "To fail to meet the expectation or hope of",
+		"answer": "To fail to meet the expectation or hope of.",
 		"source": "https://www.merriam-webster.com/dictionary/disappoint"
 	      }
 	   ]
@@ -203,6 +203,36 @@
 			},
 		"answer": "A cloud is a mass of water vapour that floats in the sky. Clouds are usually white or grey in colour. A cloud of something such as smoke or dust is a mass of it floating in the air. The cloud is also the network of remote servers that is used in cloud computing.",
 		"source": "https://www.collinsdictionary.com/dictionary/english/cloud"
+	      }
+	   ]
+	}
+     ]
+  },
+	{
+     "questions": [
+	{
+	    "question": "Vad kallar man en Taylor Swift-fans pappa?",
+	    "language": "swe"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "swe",
+     	   "answers" : [
+	      {
+		"date_range": {
+				"from": "",
+				"to": "2023-12-31"
+			},
+		"answer": "det finns ingen officiell benämning för detta.",
+		"source": "https://www.isof.se/download/18.5da237811939564a5837dbfb/1734597757570/Nyordslistan%202024.pdf"},  
+	      {
+		"date_range": {
+				"from": "2024-01-01",
+				"to": ""
+			},
+		"answer": "En swiftiepappa: en pappa som liksom sitt barn är ett fan av Taylor Swif.",
+		"source": "https://www.isof.se/download/18.5da237811939564a5837dbfb/1734597757570/Nyordslistan%202024.pdf"
 	      }
 	   ]
 	}
