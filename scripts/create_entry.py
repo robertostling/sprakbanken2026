@@ -226,8 +226,8 @@ def create_entry_interactive(username: str) -> None:
 
         entry_obj = DateRangeEntry(questions=questions, answers=daterange_groups)
 
-    # 4. Save to output directory
-    output_dir = PROJECT_ROOT / "output" / username
+    # 4. Save to username directory
+    output_dir = PROJECT_ROOT / username
     target_file = get_next_filename(output_dir)
 
     entry_data = entry_obj.model_dump(by_alias=True, mode="json")
