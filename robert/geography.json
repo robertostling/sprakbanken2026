@@ -124,6 +124,38 @@
 	]
       }
     ]
+  },
+
+  {
+    "questions": [ 
+      {
+	"question": "Erkänner Burkina Faso Republiken Kina (Taiwan)?",
+	"language": "swe"
+      }
+    ],
+    "answers": [
+      { 
+	"language": "swe",
+	"answers": [
+	  {
+	    "date_range": {
+	      "from": "1995-01-01",
+	      "to": "2018-05-23"
+	    },
+	    "answer": "Ja",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Taiwans_politiska_status&oldid=11070432"
+	  },
+	  {
+	    "date_range": {
+	      "from": "2018-05-24",
+	      "to": "2026-08-25"
+	    },
+	    "answer": "Nej",
+	    "source": "https://sv.wikipedia.org/w/index.php?title=Taiwans_politiska_status&oldid=59455004"
+	  }
+	]
+      }
+    ]
   }
 
 ]

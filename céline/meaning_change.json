@@ -2,13 +2,13 @@
 	{
         "questions": [ 
 	   {
-	      "question": "Har ordet 'grym' en positiv eller negative konnotation?",
-	      "language": "sve"
+	      "question": "Har ordet 'grym' en positiv eller negativ konnotation?",
+	      "language": "swe"
 	   }
 	],
 	"answers": [
 	    { 
-	    	"language": "sve",
+	    	"language": "swe",
 		"answers": [
 		    {
 			"date_range": {
@@ -39,12 +39,12 @@
      ],
      "answers": [ 
         {
-     	   "language": "sve",
+     	   "language": "swe",
      	   "answers" : [
 	      {
 		"date": "2002-12-31",
 		"answer": "Influencer betyder ingenting på svenska.",
-		"source": "..."
+		"source": "https://svenska.se/?q=influencer&exactMatch=true&activeTab=alla"
 	      },  
 	      {
 		"date": "2003-01-01",
@@ -64,7 +64,7 @@
      ],
      "answers": [ 
         {
-     	   "language": "sve",
+     	   "language": "swe",
      	   "answers" : [
 	      {
 		"date_range": {
@@ -110,7 +110,7 @@
 				"from": "1570-01-01",
 				"to": ""
 			},
-		"answer": "to fail to meet the expectation or hope of",
+		"answer": "To fail to meet the expectation or hope of",
 		"source": "https://www.merriam-webster.com/dictionary/disappoint"
 	      }
 	   ]
@@ -121,19 +121,19 @@
      "questions": [
 	{
 	    "question": "Vilka är definitionerna av ordet ”agent”?",
-	    "language": "sve"
+	    "language": "swe"
 	}
      ],
      "answers": [ 
         {
-     	   "language": "sve",
+     	   "language": "swe",
      	   "answers" : [
 	      {
 		"date_range": {
 				"from": "1628-01-01",
 				"to": "1954-12-31"
 			},
-		"answer": "ombud för firma, artist e.d. spion: en hemlig agent, en satsdel",
+		"answer": "ombud för firma, artist e.d. spion: en hemlig agent, en satsdel.",
 		"source": "https://svenska.se/?q=agent&exactMatch=true&activeTab=alla"
 	      },  
 	      {
@@ -141,7 +141,7 @@
 				"from": "1955-01-01",
 				"to": ""
 			},
-		"answer": "ombud för firma, artist e.d. spion: en hemlig agent, en satsdel, en typ av datorprogram",
+		"answer": "ombud för firma, artist e.d. spion: en hemlig agent, en satsdel, en typ av datorprogram.",
 		"source": "https://svenska.se/?q=agent&exactMatch=true&activeTab=alla, https://swoft.ai/en/articles/qu-est-ce-qu-un-agent-ia-definition-academique-russell-wooldridge-ferber/"
 	      }
 	   ]
@@ -173,6 +173,36 @@
 			},
 		"answer": "Les êtres vivants, comme les humains et les animaux, ainsi que les systèmes d'IA.",
 		"source": "https://dictionnaire.lerobert.com/dis-moi-robert/raconte-moi-robert/top-10-mots-plus-etonnants/top-10-des-mots-nouveaux-du-petit-robert-edition-2026.html"
+	      }
+	   ]
+	}
+     ]
+  },
+  {
+     "questions": [
+	{
+	    "question": "Explain the meaning(s) of 'cloud'.",
+	    "language": "eng"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "eng",
+     	   "answers" : [
+	      {
+		"date_range": {
+				"from": "1300-01-01",
+				"to": "1992-12-31"
+			},
+		"answer": "A cloud is a mass of water vapour that floats in the sky. Clouds are usually white or grey in colour. A cloud of something such as smoke or dust is a mass of it floating in the air. ",
+		"source": "https://www.collinsdictionary.com/dictionary/english/cloud, https://www.etymonline.com/word/cloud"},  
+	      {
+		"date_range": {
+				"from": "1993-01-01",
+				"to": ""
+			},
+		"answer": "A cloud is a mass of water vapour that floats in the sky. Clouds are usually white or grey in colour. A cloud of something such as smoke or dust is a mass of it floating in the air. The cloud is also the network of remote servers that is used in cloud computing.",
+		"source": "https://www.collinsdictionary.com/dictionary/english/cloud"
 	      }
 	   ]
 	}
