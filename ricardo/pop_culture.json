@@ -136,5 +136,100 @@
 	   ]
 	}
      ]
+  },
+  {
+     "questions": [
+	   {
+	      "question": "Who is the latest winner of the Nebula award?",
+	      "language": "eng"
+	   }
+     ],
+     "answers": [ 
+        {
+     	   "language": "eng",
+     	   "answers" : [
+	      {
+		"date": "2010-01-01",
+		"answer": "Connie Willis",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2011-01-01",
+		"answer": "Jo Walton",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2012-01-01",
+		"answer": "Kim Stanley Robinson",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2013-01-01",
+		"answer": "Ann Leckie",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2014-01-01",
+		"answer": "Jeff VanderMeer",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2015-01-01",
+		"answer": "Naomi Novik",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2016-01-01",
+		"answer": "Charlie Jane Anders",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2017-01-01",
+		"answer": "N. K. Jemisin",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2018-01-01",
+		"answer": "Mary Robinette Kowal",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2019-01-01",
+		"answer": "Sarah Pinsker",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2020-01-01",
+		"answer": "Martha Wells",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2021-01-01",
+		"answer": "P. Djèlí Clark",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2022-01-01",
+		"answer": "R. F. Kuang",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2023-01-01",
+		"answer": "Vajira Chandrasekera",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2024-01-01",
+		"answer": "John Wiswell",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      },  
+	      {
+		"date": "2025-01-01",
+		"answer": "Stephen Graham Jones",
+		"source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+	      }
+	   ]
+	}
+     ]
   }
 ]
