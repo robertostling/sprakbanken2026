@@ -1,0 +1,229 @@
+[
+  {
+     "questions": [
+	{
+	    "question": "Vad är det officiella namnet på nationalarenan i Solna??",
+	    "language": "swe"
+	}
+     ],
+     "answers": [ 
+        {
+     	"language": "swe",
+     	"answers" : [
+	      {
+		"date_range": {
+			"from": "2024-07-12",
+			"to": "2026-08-25"
+		},
+		"answer": "Strawberry Arena",
+		"source": "https://sv.wikipedia.org/w/index.php?title=Strawberry_Arena&oldid=55231911"
+	      },  
+	      {
+		"date": "2012-10-27",
+        "date_range": {
+			"from": "2012-10-27",
+			"to": "2024-07-11"
+		},
+		"answer": "Friends Arena",
+		"source": "https://sv.wikipedia.org/w/index.php?title=Strawberry_Arena&oldid=21396821"
+	      }
+	   ]
+	}
+     ]
+  },
+  {
+    "questions": [ 
+	   {
+	      "question": "Vad är det officiella namnet på den sfäriska arenan i Slakthusområdet i Johanneshov?",
+	      "language": "swe"
+	   }
+	],
+	"answers": [
+	    { 
+	    "language": "swe",
+		"answers": [
+            {
+			"date_range": {
+				"from": "2021-05-19",
+				"to": "2026-08-25"
+			},
+			"answer": "Avici Arena",
+			"source": "https://sv.wikipedia.org/w/index.php?title=Globen&oldid=49257737"
+		    },
+		    {
+			"date_range": {
+				"from": "2009-02-02",
+				"to": "2021-05-18"
+			},
+			"answer": "Ericsson Globe",
+			"source": "https://sv.wikipedia.org/w/index.php?title=Globen&oldid=8463564"
+		    },
+		    {
+			"date_range": {
+				"from": "1989-02-19",
+				"to": "2009-02-01"
+			},
+			"answer": "Stockholm Globe Arena",
+			"source": "https://sv.wikipedia.org/w/index.php?title=Globen&oldid=2110030"
+		    }
+		]
+	    }
+	]
+  },
+  {
+     "questions": [
+	{
+	    "question": "Vad är det officiella namnet på Sveriges största galleria som ligger i Arenastaden i Solna?",
+	    "language": "swe"
+	}
+     ],
+     "answers": [ 
+        {
+     	"language": "swe",
+     	"answers" : [
+	      {
+		"date_range": {
+				"from": "2019-09-28",
+				"to": "2026-08-25"
+			},
+		"answer": "Westfield Mall of Scandinavia",
+		"source": "https://en.wikipedia.org/w/index.php?title=Mall_of_Scandinavia&oldid=1295841560"
+	      },  
+	      {
+		"date_range": {
+				"from": "2011-11-12",
+				"to": "2019-09-27"
+			},
+		"answer": "Mall of Scandinavia",
+		"source": "https://sv.wikipedia.org/w/index.php?title=Mall_of_Scandinavia&oldid=46346712"
+	      }
+	   ]
+	}
+     ]
+  },
+  {
+     "questions": [
+	{
+	    "question": "Vad heter den svenska myndigheten som ska säkerställa att samhället är förberett för kris, höjd beredskap och krig?",
+	    "language": "swe"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "swe",
+     	   "answers" : [
+	      {
+		"date_range": {
+				"from": "2026-01-01",
+				"to": "2026-08-25"
+			},
+		"answer": "Myndigheten för civilt försvar",
+		"source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_civilt_f%C3%B6rsvar&oldid=59417613"
+	      },  
+	      {
+            "date_range": {
+				"from": "2009-01-01",
+				"to": "2025-12-31"
+			},
+		"date": "2009-01-01",
+		"answer": "Myndigheten för samhällsskydd och beredskap",
+		"source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_civilt_f%C3%B6rsvar&oldid=58837524"
+	      }
+	   ]
+	}
+     ]
+  },
+    {
+     "questions": [
+	{
+	    "question": "Vad heter museet vid Stortorget i Gamla Stan på svenska?",
+	    "language": "swe"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "swe",
+     	   "answers" : [
+		{
+            "date_range": {
+				"from": "2019-01-01",
+				"to": "2026-08-25"
+			},
+		"answer": "Nobelprismuseet",
+		"source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_civilt_f%C3%B6rsvar&oldid=59417613"
+	      },  
+	      {
+            "date_range": {
+				"from": "2001-03-01",
+				"to": "2018-12-31"
+			},
+		"answer": "Nobelmuseet",
+		"source": "https://sv.wikipedia.org/w/index.php?title=Nobelprismuseet&oldid=9417054"
+	      }
+	   ]
+	}
+     ]
+  },
+  {
+     "questions": [
+	{
+	    "question": "I vilken stad ligger Polarforskningssekretariatets huvudkontor?",
+	    "language": "swe"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "swe",
+     	   "answers" : [
+	      {
+		"date_range": {
+				"from": "2019-01-01",
+				"to": "2026-08-25"
+			},
+		"answer": "Luleå",
+		"source": "https://sv.wikipedia.org/w/index.php?title=Polarforskningssekretariatet&oldid=59274602"
+	      },  
+	      {
+		"date_range": {
+				"from": "1984-01-01",
+				"to": "2007-12-31"
+			},
+		"answer": "Stockholm",
+		"source": "https://sv.wikipedia.org/w/index.php?title=Polarforskningssekretariatet&oldid=5453774"
+	      }
+	   ]
+	}
+     ]
+  },
+  {
+     "questions": [
+	{
+	    "question": "I vilken stad ligger Myndigheten för kulturanalys huvudkontor?",
+	    "language": "swe"
+	}
+     ],
+     "answers": [ 
+        {
+     	   "language": "swe",
+     	   "answers" : [
+	      {
+		"date_range": {
+				"from": "2017-01-01",
+				"to": "2026-08-25"
+			},
+		"answer": "Göteborg",
+		"source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_kulturanalys&oldid=54459635"
+	      },  
+	      {
+		"date_range": {
+				"from": "2011-04-01",
+				"to": "2016-12-31"
+			},
+		"answer": "Stockholm",
+		"source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_kulturanalys&oldid=30698450"
+	      }
+	   ]
+	}
+     ]
+  }
+]
