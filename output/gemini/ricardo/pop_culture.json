@@ -1,0 +1,511 @@
+[
+  {
+    "questions": [
+      {
+        "question": "Who presents the Booker prize?",
+        "language": "eng",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "The Booker Prize is presented by **The Booker Prize Foundation**, which is the registered charity that administers the prize. \n\nSpecifically, the physical prize (a trophy and a check for \u00a350,000) is usually handed to the winner by the chair of the judges for that specific year, during a formal ceremony held in London (often at Guildhall or the Roundhouse). \n\nAdditionally, the awards ceremony is hosted by a well-known public figure, actor, author, or broadcaster. For example, recent ceremonies have been hosted by writers and comedians such as Natasha Appellant, Guz Khan, and Sophie Ward. \n\n*(Note: The prize is sponsored by **Crankstart**, a charitable foundation, and was previously sponsored by the Man Group from 2002 to 2019, which is why it was formerly known as the \"Man Booker Prize.\" Prior to 2002, it was sponsored by Booker, McConnell, Ltd).*"
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "The Booker Prize is presented through a combination of organizers, sponsors, and guest presenters:\n\n1. **The Chair of the Judges:** Each year, a rotating panel of literary critics, writers, and cultural figures judges the books. The **Chair of the Judging Panel** gives the main speech detailing how the winner was chosen.\n\n2. **A Special Guest Presenter:** The physical trophy and announcement are usually made by a high-profile guest or cultural figure. For example:\n   * **2023:** Presented by novelist **Nazir Afzal** and previous winner **Shehan Karunaratne**.\n   * **2022:** Presented by **Queen Camilla** (then Queen Consort) and pop star **Dua Lipa** (who gave the keynote address).\n   * **2021:** Presented by **Maya Jasanoff** (Chair of Judges) and actor **Sam West**.\n\n3. **The Booker Prize Foundation:** The entire event is hosted and run by the **Booker Prize Foundation**, an independent registered charity, with the ceremony usually broadcast in partnership with the **BBC**."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Because the word \"presents\" can refer to a few different aspects of the Booker Prize, here is the breakdown:\n\n1. **The Trophy Presenter (The Ceremony):** Who actually hands the award to the winner changes every year. In recent years, **Queen Camilla** (formerly the Duchess of Cornwall) has frequently presented the prize at the annual ceremony. Other times, it is presented by the chair of the judging panel or a notable cultural figure. \n2. **The Sponsor:** The prize is sponsored by **Booker Group**, a major UK food wholesale operator (which is why it bears the name). \n3. **The Administrator:** The prize is formally managed and run by the **Booker Prize Foundation**."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Because the Booker Prize ceremony changes slightly each year, \"who presents it\" depends on which aspect of the presentation you mean:\n\n### 1. The Announcement of the Winner\nThe winner is officially announced by the **Chair of the Judging Panel** for that specific year (a panel of authors, critics, and cultural figures changes annually). \n* *Example:* In 2024, the chair was artist and writer **Edmund de Waal**; in 2023, it was novelist **Esi Edugyan**.\n\n### 2. The Physical Handover of the Trophy\nThe actual trophy and prize are typically handed over by a distinguished guest or the previous year's winner:\n* **Queen Camilla:** As a passionate advocate for literacy, she has presented the physical Booker Prize trophy to the winner in many recent years (both as Queen and previously as Duchess of Cornwall).\n* **The Previous Year's Winner:** Traditionally, the reigning winner is invited on stage to hand the trophy to the new laureate (for instance, 2022 winner Shehan Karunatilaka presented the award to 2023 winner Paul Lynch).\n* **High-Profile Cultural Figures:** Global figures are often invited to deliver the keynote speech or assist with the presentation (e.g., Dua Lipa in 2022, Nazanin Zaghari-Ratcliffe in 2023).\n\n### 3. The Awarding Organization\nThe prize is funded and organized by the **Booker Prize Foundation**, an independent registered charity, and was historically sponsored by the Booker-McConnell company (1969\u20132001) and the Man Group (2002\u20132019, when it was known as the *Man Booker Prize*). It is currently supported by Crankstart, a charitable foundation."
+            ]
+          }
+        }
+      },
+      {
+        "question": "Vem delar ut Booker-priset?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "Bookerpriset delas ut av **The Booker Prize Foundation**. \n\nFonden \u00e4r en oberoende organisation (en registrerad v\u00e4lg\u00f6renhetsorganisation i Storbritannien) som st\u00f6ds av f\u00f6retaget **Booker Group**, som \u00e4r en stor grossistkedja i Storbritannien och som har varit prisets huvudsponsor sedan 1969.\n\nSj\u00e4lva utn\u00e4mningen av vinnaren sk\u00f6ts av en oberoende jury som utses av prisfonden varje \u00e5r. Juryn best\u00e5r av litteraturkritiker, f\u00f6rfattare, akademiker och kulturpersoner."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "Bookerpriset (The Booker Prize) delas ut av **Booker Prize Foundation**, som \u00e4r en brittisk ideell stiftelse och v\u00e4lg\u00f6renhetsorganisation.\n\nPriset avg\u00f6rs dock inte av stiftelsen sj\u00e4lv, utan varje \u00e5r utses en **oberoende jury** best\u00e5ende av fem personer (vanligtvis litteraturkritiker, f\u00f6rfattare, akademiker och kulturpersonligheter) som l\u00e4ser de nominerade b\u00f6ckerna och utser vinnaren. \n\n**Kort historik om finansi\u00e4rerna:**\n*   N\u00e4r priset instiftades 1969 sponsrades det av livsmedelsf\u00f6retaget **Booker-McConnell** (d\u00e4rav namnet).\n*   Mellan 2002 och 2019 sponsrades priset av investeringsbolaget Man Group, och kallades d\u00e5 *Man Booker Prize*.\n*   Sedan 2019 finansieras priset av den amerikanska v\u00e4lg\u00f6renhetsorganisationen **Crankstart**, men stiftelsen valde d\u00e5 att \u00e5terg\u00e5 till det ursprungliga namnet *The Booker Prize*."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Booker-priset delas ut av **The Booker Prize Foundation**, som \u00e4r en oberoende stiftelse. \n\nH\u00e4r \u00e4r n\u00e5gra ytterligare detaljer om vem som st\u00e5r bakom och finansierar priset:\n\n* **Finansi\u00e4r:** Sedan 2019 finansieras priset av **Crankstart**, som \u00e4r en v\u00e4lg\u00f6renhetsstiftelse grundad av britten Sir Michael Moritz och hans fru Harriet Heyman.\n* **Namnet:** Priset har f\u00e5tt sitt namn efter livsmedelsgrossisten Booker, som var den ursprungliga sponsorn n\u00e4r priset instiftades 1969.\n* **Vem som v\u00e4ljer vinnaren:** Stiftelsen utser varje \u00e5r en jury som best\u00e5r av f\u00f6rfattare, kritiker, akademiker och kulturpersonligheter som gemensamt v\u00e4ljer ut vinnarboken."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Bookerpriset (The Booker Prize) delas ut av den brittiska v\u00e4lg\u00f6renhetsorganisationen **Booker Prize Foundation**. \n\nH\u00e4r \u00e4r n\u00e5gra viktiga detaljer om hur det fungerar:\n\n* **Juryn:** \u00c4ven om stiftelsen administrerar priset, \u00e4r det en **oberoende jury** som utser vinnaren varje \u00e5r. Juryn best\u00e5r vanligtvis av fem personer \u2013 ofta f\u00f6rfattare, litteraturkritiker, akademiker och kulturpersonligheter \u2013 och byts ut varje \u00e5r.\n* **Finansiering:** Priset grundades 1969 av f\u00f6retaget Booker-McConnell. Mellan 2002 och 2019 sponsrades det av Man Group (och hette d\u00e5 *Man Booker Prize*). Idag finansieras priset av den v\u00e4lg\u00f6rande stiftelsen Crankstart, men kallas enbart *The Booker Prize*.\n\nStiftelsen delar \u00e4ven ut **International Booker Prize** f\u00f6r \u00f6versatt sk\u00f6nlitteratur."
+            ]
+          }
+        }
+      },
+      {
+        "question": "\u00bfQui\u00e9n presenta el premio Booker?",
+        "language": "spa",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "El premio Booker (**Booker Prize**) no tiene un \u00fanico presentador permanente, ya que la persona encargada de anunciar al ganador cambia todos los a\u00f1os. \n\nLa ceremonia de entrega se celebra tradicionalmente cada oto\u00f1o (normalmente en octubre o noviembre) en Londres, y el galard\u00f3n es entregado por **el presidente del jurado** de esa edici\u00f3n en curso. \n\nAdem\u00e1s, dado el prestigio internacional del premio, es muy com\u00fan que en la ceremonia participen figuras destacadas del mundo de la cultura, la literatura o la realeza brit\u00e1nica (como la Reina Camilla, que ha participado en varias ocasiones cuando era Duquesa de Cornualles) para anunciar la obra ganadora o entregar el trofeo. \n\nPor lo tanto, el \"presentador\" var\u00eda en cada edici\u00f3n dependiendo de qui\u00e9n presida el panel de jueces de ese a\u00f1o."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "El Premio Booker (Booker Prize) es gestionado y presentado por la **Fundaci\u00f3n Booker Prize** (*Booker Prize Foundation*), una organizaci\u00f3n ben\u00e9fica independiente del Reino Unido. \n\nSin embargo, a la hora de anunciarlo y entregarlo cada a\u00f1o, intervienen varias figuras clave:\n\n1. **El jurado:** Cada a\u00f1o se elige un nuevo panel de jueces compuesto por cr\u00edticos literarios, escritores, acad\u00e9micos y figuras p\u00fablicas. El **Presidente del Jurado** (*Chair of the Judges*) es quien suele justificar la decisi\u00f3n y anunciar al ganador.\n2. **Presentador del evento:** La ceremonia de entrega de premios, que suele celebrarse en Londres en oto\u00f1o, cuenta con un maestro de ceremonias o presentador de televisi\u00f3n (a menudo figuras de la BBC u otros periodistas culturales reconocidos).\n3. **El invitado de honor:** El trofeo f\u00edsico suele ser entregado al autor ganador por una figura destacada, que puede ser el ganador del a\u00f1o anterior, un miembro de la realeza brit\u00e1nica (como la Reina Camila, quien es una gran promotora de la lectura) o una personalidad del mundo del arte y la cultura.\n\n**Nota:** No debe confundirse con la empresa de servicios financieros **Crankstart**, que es el patrocinador financiero actual del premio, aunque por decisi\u00f3n de los donantes no incluye su nombre en el galard\u00f3n (anteriormente se conoci\u00f3 como *Man Booker Prize* cuando el Grupo Man era el patrocinador)."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "El **Premio Booker** (*Booker Prize*) no tiene una sola persona fija que lo presente, ya que la respuesta depende de a qu\u00e9 te refieras exactamente:\n\n1. **Qui\u00e9n lo organiza y patrocina:** El premio es administrado por la **Booker Prize Foundation** (Fundaci\u00f3n del Premio Booker) y actualmente est\u00e1 financiado por *Crankstart*, la fundaci\u00f3n del inversor y fil\u00e1ntropo Michael Moritz. Hist\u00f3ricamente, el patrocinador principal ha sido el grupo de distribuci\u00f3n alimentaria Booker.\n2. **Qui\u00e9n anuncia al ganador:** El nombre del ganador se anuncia tradicionalmente durante una cena de gala en Londres. El anuncio y la entrega del galard\u00f3n los realiza el **presidente del panel de jueces** de ese a\u00f1o (que cambia en cada edici\u00f3n y suele estar formado por escritores, cr\u00edticos, acad\u00e9micos o figuras culturales).\n3. **Qui\u00e9n conduce la ceremonia:** La gala de entrega suele ser presentada por un maestro de ceremonias, actor, periodista o c\u00f3mico brit\u00e1nico conocido, pero **esta persona cambia todos los a\u00f1os**. \n\nSi te refer\u00edas a una edici\u00f3n o a\u00f1o espec\u00edfico, por favor ind\u00edcalo para darte el nombre exacto de la persona que condujo esa gala."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "La respuesta depende de si te refieres a la **organizaci\u00f3n** que otorga el premio o a la **persona que conduce la ceremonia** de entrega:\n\n### 1. La organizaci\u00f3n (Qui\u00e9n lo administra y patrocina)\n* **Organizador:** El premio es administrado por la **Fundaci\u00f3n del Premio Booker** (*Booker Prize Foundation*), una organizaci\u00f3n ben\u00e9fica independiente.\n* **Financiador:** Desde 2019, el premio est\u00e1 financiado por la fundaci\u00f3n ben\u00e9fica **Crankstart** (creada por el inversor Michael Moritz y la novelista Harriet Heyman). *Nota: Entre 2002 y 2019 fue conocido como el \"Man Booker Prize\" debido al patrocinio del Man Group.*\n\n---\n\n### 2. La ceremonia de entrega (Qui\u00e9n lo presenta en el escenario)\nLa persona que presenta la gala y quien entrega el trofeo **cambia cada a\u00f1o**:\n* **El maestro de ceremonias:** Suele ser un periodista, presentador o figura cultural destacada del Reino Unido (por ejemplo, periodistas de la BBC como Samira Ahmed).\n* **Quien entrega el premio:** Tradicionalmente, el galard\u00f3n lo entrega el **ganador del a\u00f1o anterior** o un invitado de honor de alto perfil (como celebridades, figuras pol\u00edticas o escritores). \n* **Presencia real:** La **Reina Camila** del Reino Unido suele presidir la ceremonia y participar en la entrega debido a su estrecha relaci\u00f3n con las organizaciones de fomento a la lectura."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "eng",
+        "answers": [
+          {
+            "date": "1969-01-01",
+            "answer": "Booker, McConnell Ltd",
+            "source": "https://en.wikipedia.org/wiki/Booker_Prize"
+          },
+          {
+            "date": "2002-01-01",
+            "answer": "Man Group",
+            "source": "https://en.wikipedia.org/wiki/Booker_Prize"
+          },
+          {
+            "date": "2019-01-01",
+            "answer": "Crankstart",
+            "source": "https://en.wikipedia.org/wiki/Booker_Prize"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Which movie had the biggest opening worldwide?",
+        "language": "eng",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "As of 2024, the movie with the biggest worldwide opening weekend box office in history is ***Avengers: Endgame* (2019)**. \n\nDuring its opening weekend (April 26\u201328, 2019), the Marvel Studios blockbuster grossed an astonishing **$1.223 billion** globally. \n\nHere are the top three movies with the biggest worldwide openings:\n1. ***Avengers: Endgame* (2019)** \u2013 $1.223 billion\n2. ***Avengers: Infinity War* (2018)** \u2013 $640.5 million\n3. ***Spider-Man: No Way Home* (2021)** \u2013 $601 million"
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "The movie with the biggest worldwide opening weekend of all time is **_Avengers: Endgame_** (2019). \n\nIt made history by grossing an unprecedented **$1.223 billion** globally in its first five days of release. \n\nHere are a few key details of that record-breaking debut:\n* **Domestic (U.S./Canada) opening:** $357.1 million\n* **International opening:** $866 million (including a massive $330.5 million debut in China)\n\nIt remains the only film in box office history to cross the $1 billion mark in its opening weekend alone. \n\nFor comparison, the second-biggest worldwide opening belongs to its predecessor, **_Avengers: Infinity War_** (2018), which opened to **$640.5 million**\u2014meaning *Endgame* nearly doubled the previous world record."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "The movie with the biggest opening weekend worldwide is ***Avengers: Endgame*** (2019). \n\nIt grossed an astounding **$1.223 billion** globally in its first weekend alone. It is currently the only film in history to cross the $1 billion mark in a single weekend."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "The movie with the biggest worldwide opening weekend of all time is **_Avengers: Endgame_** (2019).\n\nHere are the key details of its record-breaking debut:\n\n* **Worldwide Opening Gross:** **$1.223 billion**\n* **Domestic (US/Canada) Opening:** $357.1 million\n* **International Opening:** $866.5 million\n* **Notable Milestone:** It is the only film in history to surpass **$1 billion** in its opening weekend alone.\n\n---\n\n### Top 5 Biggest Worldwide Openings in History:\n\n1. **_Avengers: Endgame_ (2019)** \u2013 $1.223 billion\n2. **_Avengers: Infinity War_ (2018)** \u2013 $640.5 million\n3. **_Spider-Man: No Way Home_ (2021)** \u2013 $600.5 million\n4. **_The Fate of the Furious_ (2017)** \u2013 $541.9 million\n5. **_Star Wars: The Force Awakens_ (2015)** \u2013 $529.0 million"
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "eng",
+        "answers": [
+          {
+            "date": "2019-04-26",
+            "answer": "Avengers: Endgame",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2018-04-27",
+            "answer": "Avengers: Infinity War",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2017-04-14",
+            "answer": "The Fate of the Furious",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2015-12-18",
+            "answer": "Star Wars: The Force Awakens",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2015-06-12",
+            "answer": "Jurassic World",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2011-07-15",
+            "answer": "Harry Potter and the Deathly Hallows -- Part 2",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2009-07-15",
+            "answer": "Harry Potter and the Half-Blood Prince",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2007-05-04",
+            "answer": "Spider-Man 3",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          },
+          {
+            "date": "2005-04-19",
+            "answer": "Star Wars: Episode III \u2013 Revenge of the Sith",
+            "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the parent company of Marvel Comics?",
+        "language": "eng",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "The parent company of Marvel Comics is **The Walt Disney Company**. \n\nDisney acquired Marvel Entertainment (Marvel Comics' parent company at the time) in December 2009."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "The parent company of Marvel Comics is **The Walt Disney Company**. \n\nDisney acquired Marvel Entertainment (the immediate parent company of Marvel Comics) in December 2009."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "The parent company of Marvel Comics is **The Walt Disney Company**. Disney acquired Marvel Entertainment in December 2009."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "The parent company of Marvel Comics is **The Walt Disney Company**. \n\nDisney acquired Marvel Entertainment (the parent of Marvel Comics) on December 31, 2009."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "eng",
+        "answers": [
+          {
+            "date": "1951-01-01",
+            "answer": "Magazine Management",
+            "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+          },
+          {
+            "date": "1973-01-01",
+            "answer": "Marvel Comics Group",
+            "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+          },
+          {
+            "date": "1986-01-01",
+            "answer": "Marvel Entertainment Group",
+            "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+          },
+          {
+            "date": "1998-01-01",
+            "answer": "Marvel Entertainment",
+            "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+          },
+          {
+            "date": "2023-01-01",
+            "answer": "Disney Publishing Worldwide",
+            "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Who is the latest winner of the Nebula award?",
+        "language": "eng",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "To give you the exact latest winner, it helps to know which category you are asking about (Novel, Novella, Novelette, Short Story, etc.), as the Nebula Awards recognize several categories annually. \n\nHowever, looking at the most recent ceremony\u2014the **59th Nebula Awards**, which were announced on **June 8, 2024** (covering works published in 2023)\u2014the winner of the flagship **Nebula Award for Best Novel** is:\n\n*   ***Translation State* by Ann Leckie** (Orbit)\n\nIf you are looking for a winner from a different category (such as Best Novella, Best Game Writing, etc.) from that same ceremony, please let me know!"
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "The most recent Nebula Awards (presented by the Science Fiction and Fantasy Writers Association) were awarded in **June 2024** for works published in 2023. \n\nThe latest winner of the **Nebula Award for Best Novel** (the flagship category) is **Vajra Chandrasekera** for his book ***The Saint of Bright Doors***.\n\nHere are the other major category winners from the latest ceremony:\n\n*   **Best Novella:** *Linghun* by Ai Jiang\n*   **Best Novelette:** *The Year Without Sunshine* by Naomi Kritzer\n*   **Best Short Story:** \"Tantie Merle and the Farmhand 4200\" by R.S.A. Garcia\n*   **Andre Norton Nebula Award (Middle Grade/Young Adult):** *To Shape a Dragon's Breath* by Moniquill Blackgoose\n*   **Ray Bradbury Nebula Award (Dramatic Presentation):** *Barbie* (Written by Greta Gerwig and Noah Baumbach)\n*   **Best Game Writing:** *Baldur's Gate 3* (Larian Studios)\n\n*(Note: The nominees and winners for works published in 2024 will be announced in spring/summer 2025.)*"
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "The latest winner of the Nebula Award for Best Novel (announced at the 59th Nebula Awards ceremony in June 2024 for works published in 2023) is **Emily Tesh** for her novel ***Some Desperate Glory***. \n\n*(Note: Because my knowledge cuts off in January 2025, winners from any ceremonies held in 2025 or later are not included.)*"
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "The most recent Nebula Awards (the 59th Annual Nebula Awards, presented on June 8, 2024, for works published in 2023) recognized winners across several categories. \n\nThe winner for the flagship **Best Novel** category is:\n\n* **Novel:** ***The Saint of Bright Doors*** by **Vajra Chandrasekera**\n\n---\n\n### Winners in Other Major Categories:\n\n* **Novella:** *Linghun* by Ai Jiang\n* **Novelette:** *\"The Year Without Sunshine\"* by Naomi Kritzer\n* **Short Story:** *\"Tantie Merle and the Farmhand 4200\"* by R.S.A. Garcia\n* **Andre Norton Award (Middle Grade and Young Adult Fiction):** *To Shape a Dragon\u2019s Breath* by Moniquill Blackgoose\n* **Ray Bradbury Nebula Award for Outstanding Dramatic Presentation:** *Barbie* (Written by Greta Gerwig & Noah Baumbach)\n* **Game Writing:** *Baldur\u2019s Gate 3* (Larian Studios)"
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "eng",
+        "answers": [
+          {
+            "date": "2010-01-01",
+            "answer": "Connie Willis",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2011-01-01",
+            "answer": "Jo Walton",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2012-01-01",
+            "answer": "Kim Stanley Robinson",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2013-01-01",
+            "answer": "Ann Leckie",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2014-01-01",
+            "answer": "Jeff VanderMeer",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2015-01-01",
+            "answer": "Naomi Novik",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2016-01-01",
+            "answer": "Charlie Jane Anders",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2017-01-01",
+            "answer": "N. K. Jemisin",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2018-01-01",
+            "answer": "Mary Robinette Kowal",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2019-01-01",
+            "answer": "Sarah Pinsker",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2020-01-01",
+            "answer": "Martha Wells",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2021-01-01",
+            "answer": "P. Dj\u00e8l\u00ed Clark",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2022-01-01",
+            "answer": "R. F. Kuang",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2023-01-01",
+            "answer": "Vajira Chandrasekera",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2024-01-01",
+            "answer": "John Wiswell",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          },
+          {
+            "date": "2025-01-01",
+            "answer": "Stephen Graham Jones",
+            "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+          }
+        ]
+      }
+    ]
+  }
+]

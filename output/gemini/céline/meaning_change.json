@@ -1,0 +1,612 @@
+[
+  {
+    "questions": [
+      {
+        "question": "Har ordet 'grym' en positiv eller negativ konnotation?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "Ordet **\"grym\"** har i svenskan **b\u00e5de** en positiv och en negativ konnotation, beroende p\u00e5 vilket sammanhang det anv\u00e4nds i. Det har genomg\u00e5tt en betydelseglidning d\u00e4r den ursprungligen negativa betydelsen har f\u00e5tt ett till\u00e4gg i vardagsspr\u00e5ket.\n\nH\u00e4r \u00e4r de tv\u00e5 sidorna:\n\n**1. Negativ konnotation (ursprungsbetydelse):**\nI sin ursprungliga och mer formella betydelse betyder grym *elak, ond, h\u00e4nsynsl\u00f6s, brutal* eller *sm\u00e4rtsam*.\n*   *Exempel:* \"En grym diktator\", \"ett grymt broder\", \"en grym sm\u00e4rta\".\n*   H\u00e4r \u00e4r konnotationen starkt negativ.\n\n**2. Positiv konnotation (slang/vardagsspr\u00e5k):**\nI modern vardags- och ungdomsslang anv\u00e4nds \"grym\" ofta som ett f\u00f6rst\u00e4rkande ord som betyder *fantastisk, j\u00e4ttebra, skicklig* eller *h\u00e4ftig*.\n*   *Exempel:* \"Vilken grym bil!\", \"hon \u00e4r grym p\u00e5 att spela gitarr\", \"maten var grym\".\n*   H\u00e4r \u00e4r konnotationen starkt positiv.\n\n**Sammanfattning:** \nI traditionellt skriftspr\u00e5k och allvarliga sammanhang \u00e4r det oftast negativt, men i vardagligt tal anv\u00e4nds det mycket ofta positivt."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "Ordet **\u201dgrym\u201d** har en **dubbel natur** i svenskan och kan ha b\u00e5de en mycket negativ och en mycket positiv konnotation, helt beroende p\u00e5 sammanhang och stilniv\u00e5.\n\nH\u00e4r \u00e4r uppdelningen:\n\n### 1. Negativ konnotation (den ursprungliga/formella betydelsen)\nI traditionell svenska, formell text och skriftspr\u00e5k \u00e4r \u201dgrym\u201d odelat negativt. Det betyder:\n*   H\u00e4nsynsl\u00f6s, elak, sadistisk, obarmh\u00e4rtig eller fruktansv\u00e4rd.\n*   *Exempel:* \u201dEn **grym** diktator\u201d, \u201dDet var ett **grymt** straff\u201d, \u201dNaturen kan vara **grym**\u201d.\n\n### 2. Positiv konnotation (slang/vardagligt spr\u00e5k)\nI vardagligt tal och ungdomsspr\u00e5k (sedan 1980/90-talet) anv\u00e4nds \u201dgrym\u201d som ett f\u00f6rst\u00e4rkningsord med mycket positiv laddning. Det \u00e4r en form av \u201dslang-inversion\u201d (likt engelskans *wicked* eller *sick*). Det betyder d\u00e5:\n*   Fantastisk, j\u00e4ttebra, h\u00e4ftig, imponerande eller skicklig.\n*   *Exempel:* \u201dHon \u00e4r en **grym** gitarrist!\u201d, \u201dVilken **grym** film!\u201d, \u201dDet d\u00e4r var **grymt** bra gjort!\u201d\n\n### 3. Neutral som f\u00f6rst\u00e4rkningsord\nOrdet kan ocks\u00e5 anv\u00e4ndas i vardagsspr\u00e5k bara f\u00f6r att f\u00f6rst\u00e4rka en grad, ofta likst\u00e4llt med \u201dv\u00e4ldigt\u201d eller \u201dotroligt\u201d, utan att i sig vara varken positivt eller negativt:\n*   *Exempel:* \u201dJag \u00e4r **grymt** tr\u00f6tt\u201d, \u201dDet var **grymt** mycket folk d\u00e4r\u201d.\n\n---\n\n### Sammanfattning: Hur vet man vad som menas?\n*   **Titta p\u00e5 ton och sammanhang:** Om n\u00e5gon pratar om en konsert, en prestation eller en person p\u00e5 ett entusiastiskt s\u00e4tt \u00e4r det **positivt**.\n*   Om ordet anv\u00e4nds i nyheter, historia, juridik eller f\u00f6r att beskriva lidande/v\u00e5ld \u00e4r det **negativt**."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Ordet **\u201dgrym\u201d** har faktiskt **b\u00e5de** en positiv och en negativ konnotation, beroende helt p\u00e5 i vilket sammanhang det anv\u00e4nds. \n\nH\u00e4r \u00e4r en uppdelning:\n\n### 1. Positiv konnotation (mycket vanligt i vardagsspr\u00e5k och slang)\nI modern svenska anv\u00e4nds \u201dgrym\u201d ofta som en f\u00f6rst\u00e4rkning f\u00f6r n\u00e5got som \u00e4r **bra, h\u00e4ftigt, imponerande eller skickligt**.\n* **Exempel:** \u201dHon \u00e4r *grym* p\u00e5 att sjunga!\u201d, \u201dVilken *grym* konsert!\u201d, \u201dHan \u00e4r en *grym* programmerare.\u201d\n* **Betydelse h\u00e4r:** Fantastisk, duktig, cool.\n\n### 2. Negativ konnotation (den ursprungliga och bokstavliga betydelsen)\nI sin ursprungliga och formella betydelse betyder grym **elak, brutal, skoningsl\u00f6s eller pl\u00e5gsam**.\n* **Exempel:** \u201dEn *grym* diktator\u201d, \u201dEtt *grymt* brott\u201d, \u201dEtt *grymt* \u00f6de.\u201d\n* **Betydelse h\u00e4r:** Osk\u00e4lig, om\u00e4nsklig, v\u00e5ldsam.\n\n### Sammanfattning\n* Om n\u00e5gon s\u00e4ger att du \u00e4r **grym** p\u00e5 fotboll \u00e4r det en **komplimang** (positivt).\n* Om en historiebok beskriver en kung som **grym** \u00e4r det en **beskrivning av hans brutalitet** (negativt)."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Ordet **\u201dgrym\u201d** kan ha **b\u00e5de en positiv och en negativ konnotation**, helt beroende p\u00e5 sammanhang, tonfall och spr\u00e5kbruk. \n\nH\u00e4r \u00e4r uppdelningen:\n\n### 1. Negativ konnotation (Ursprunglig och formell betydelse)\nI traditionell svenska och i formella sammanhang betyder ordet h\u00e4nsynsl\u00f6s, elak, h\u00e5rd, pl\u00e5gsam eller fruktansv\u00e4rd (motsvarande engelskans *cruel* eller *grim*).\n* **Exempel:**\n  * *\u201dEn **grym** diktator.\u201d* (H\u00e4nsynsl\u00f6s/ondskefull)\n  * *\u201dDe drabbades av ett **grymt** \u00f6de.\u201d* (H\u00e5rt/or\u00e4ttvist)\n  * *\u201dDjuren utsattes f\u00f6r en **grym** behandling.\u201d* (Pl\u00e5gsam/hj\u00e4rtl\u00f6s)\n\n### 2. Positiv konnotation (Vardagsspr\u00e5k och slang)\nI talspr\u00e5k och ungdomsspr\u00e5k sedan 1980/90-talet har ordet f\u00e5tt den motsatta betydelsen: fantastisk, suver\u00e4n, h\u00e4ftig, extremt skicklig eller v\u00e4ldigt bra (motsvarande engelskans *wicked*, *killer* eller *sick*).\n* **Exempel:**\n  * *\u201dKonserten ig\u00e5r var helt **grym**!\u201d* (Fantastisk/h\u00e4ftig)\n  * *\u201dHon \u00e4r **grym** p\u00e5 att spela schack.\u201d* (V\u00e4ldigt duktig)\n  * *\u201dVilken **grym** bil du har k\u00f6pt!\u201d* (Snygg/imponerande)\n\n### 3. Som f\u00f6rst\u00e4rkningsord (neutralt/kontextberoende)\nOrdet anv\u00e4nds ocks\u00e5 ofta som ett adverb f\u00f6r att f\u00f6rst\u00e4rka andra ord (som synonym till *v\u00e4ldigt* eller *extremt*):\n* *\u201dDet var **grymt** kul!\u201d* (Positivt)\n* *\u201dJag har **grymt** ont i huvudet.\u201d* (Negativt)\n\n---\n\n### Sammanfattning:\n* **I skrift/formell svenska:** N\u00e4stan uteslutande **negativt** (betyder elak/hemsk).\n* **I vardagligt tal/slang:** Oftast **positivt** (betyder j\u00e4ttebra/skicklig)."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1285-01-01",
+              "to": "1969-12-31"
+            },
+            "answer": "Negativ",
+            "source": "https://svenska.se/?q=grym&exactMatch=true&activeTab=alla"
+          },
+          {
+            "date_range": {
+              "from": "1970-01-01",
+              "to": ""
+            },
+            "answer": "Positiv",
+            "source": "https://svenska.se/?q=grym&exactMatch=true&activeTab=alla"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r en influencer?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "En **influencer** (eller *p\u00e5verkare* p\u00e5 svenska) \u00e4r en person som har byggt upp en lojal f\u00f6ljarskara p\u00e5 sociala medier, till exempel Instagram, Tiktok, Youtube eller bloggar. \n\nGenom att dela med sig av sitt liv, sina \u00e5sikter, sin vardag eller ett specifikt intresse (som mode, gaming, tr\u00e4ning eller sk\u00f6nhet) har personen skapat ett inflytande \u00f6ver sin publik.\n\nH\u00e4r \u00e4r n\u00e5gra viktiga delar av att vara influencer:\n\n* **Samarbeten och marknadsf\u00f6ring:** Eftersom influencers har direkta och ofta n\u00e4ra relationer med sina f\u00f6ljare, \u00e4r de v\u00e4ldigt attraktiva f\u00f6r f\u00f6retag. F\u00f6retag betalar influencers f\u00f6r att g\u00f6ra reklam f\u00f6r sina produkter eller tj\u00e4nster i deras kanaler (s\u00e5 kallad *influencer marketing*).\n* **Nischade omr\u00e5den:** Vissa \u00e4r k\u00e4nda f\u00f6r \"lifestyle\" (sitt vanliga liv), medan andra \u00e4r expert-influencers inom till exempel matlagning, teknik, politik eller smink.\n* **Interaktion:** Till skillnad fr\u00e5n traditionella k\u00e4ndisar (som sk\u00e5despelare eller musiker) kommunicerar influencers ofta direkt med sina f\u00f6ljare genom kommentarer, direktmeddelanden och live-s\u00e4ndningar.\n\nOrdet kommer fr\u00e5n engelskans *influence*, som betyder \"p\u00e5verka\"."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "En **influencer** (p\u00e5 svenska ibland *p\u00e5verkare*) \u00e4r en person som har byggt upp en publik och en f\u00f6ljarskara p\u00e5 sociala medier (som Instagram, TikTok, YouTube, Twitch eller bloggar) och som anv\u00e4nder sin st\u00e4llning f\u00f6r att p\u00e5verka andra m\u00e4nniskors \u00e5sikter, beteenden eller k\u00f6pbeslut.\n\nH\u00e4r \u00e4r n\u00e5gra centrala delar av vad en influencer g\u00f6r och hur det fungerar:\n\n### 1. Hur de bygger sin makt\nInfluencers bygger sitt inflytande p\u00e5 **f\u00f6rtroende och relationer** med sin publik. Till skillnad fr\u00e5n traditionella k\u00e4ndisar uppfattas influencers ofta som mer \"personliga\" och \"likv\u00e4rdiga\" sina f\u00f6ljare. De delar med sig av sin vardag, sina \u00e5sikter, sin expertis eller sitt intresse inom ett visst omr\u00e5de (till exempel mode, gaming, tr\u00e4ning, mat eller ekonomi).\n\n### 2. Hur de tj\u00e4nar pengar\nDe flesta influencers (\u00e5tminstone de som har kommit en bit p\u00e5 v\u00e4g) f\u00f6rs\u00f6rjer sig p\u00e5 sitt skapande. De vanligaste inkomstk\u00e4llorna \u00e4r:\n* **Sponsrade samarbeten:** F\u00f6retag betalar influencern f\u00f6r att visa upp eller rekommendera en produkt eller tj\u00e4nst i sina kanaler.\n* **Affiliate-marknadsf\u00f6ring:** Influencern l\u00e4nkst till en produkt och f\u00e5r en provision p\u00e5 de k\u00f6p som g\u00f6rs via den l\u00e4nken.\n* **Egna produkter:** M\u00e5nga lanserar egna varum\u00e4rken, kl\u00e4dkollektioner, b\u00f6cker eller poddar.\n* **Plattformarnas egna int\u00e4kter:** Till exempel annonsint\u00e4kter fr\u00e5n YouTube eller prenumerationer p\u00e5 Twitch.\n\n### 3. Olika storlekar p\u00e5 influencers\nMan brukar dela in influencers i olika kategorier beroende p\u00e5 hur m\u00e5nga f\u00f6ljare de har:\n* **Nano-influencers:** 1 000 \u2013 10 000 f\u00f6ljare (har ofta mycket n\u00e4ra kontakt med sin publik).\n* **Mikro-influencers:** 10 000 \u2013 50 000 f\u00f6ljare (ofta specialiserade inom en nisch).\n* **Makro-influencers:** 50 000 \u2013 500 000 f\u00f6ljare (v\u00e4ldigt etablerade).\n* **Mega-influencers / K\u00e4ndisar:** \u00d6ver 500 000 f\u00f6ljare (ofta nationella eller globala stj\u00e4rnor).\n\n### 4. Olika nischer\nEn influencer kan handla om n\u00e4stan vad som helst. Exempel \u00e4r:\n* *Lifestyle:* Visar upp sitt liv, resor och mode.\n* *Finfluencers:* Fokuserar p\u00e5 aktier, sparande och privatekonomi.\n* *Gamers:* Streamar n\u00e4r de spelar datorspel (t.ex. p\u00e5 Twitch).\n* *Experter:* Personer inom tr\u00e4ning, h\u00e4lsa, f\u00f6r\u00e4ldraskap eller inredning.\n\nKort sagt kan man s\u00e4ga att en influencer fungerar som en **modern reklampelare, mediekanal och opinionsbildare** i ett och samma paket."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "En **influencer** (p\u00e5 svenska ibland kallad *p\u00e5verkare*) \u00e4r en person som har byggt upp en f\u00f6ljarskara p\u00e5 sociala medier och som har f\u00f6rm\u00e5gan att p\u00e5verka sina f\u00f6ljares \u00e5sikter, beteenden eller k\u00f6pbeslut. \n\nOrdet kommer fr\u00e5n engelskans *influence*, som betyder \"p\u00e5verka\" eller \"ha inflytande\".\n\nH\u00e4r \u00e4r n\u00e5gra viktiga aspekter av vad en influencer \u00e4r och g\u00f6r:\n\n### 1. Var finns de?\nInfluencers \u00e4r aktiva p\u00e5 digitala plattformar d\u00e4r de regelbundet delar inneh\u00e5ll. N\u00e5gra vanliga plattformar \u00e4r:\n*   **Instagram** (bilder, korta videor, stories)\n*   **TikTok** (korta, kreativa videor)\n*   **YouTube** (l\u00e4ngre videor, vloggar, recensioner)\n*   **Podcasts** (ljudformat)\n*   **Bloggar** (text och bild)\n\n### 2. Olika nischer\nEn influencer fokuserar ofta p\u00e5 ett eller flera specifika \u00e4mnen (nischer). Exempel p\u00e5 vanliga omr\u00e5den \u00e4r:\n*   Mode och sk\u00f6nhet\n*   Tr\u00e4ning, h\u00e4lsa och kost\n*   Gaming och teknik\n*   Resor och livsstil\n*   Ekonomi och f\u00f6retagande\n*   F\u00f6r\u00e4ldraskap\n\n### 3. Hur tj\u00e4nar en influencer pengar?\nF\u00f6r m\u00e5nga har detta blivit ett heltidsyrke. De vanligaste inkomstk\u00e4llorna \u00e4r:\n*   **Sponsrade samarbeten:** F\u00f6retag betalar influencern f\u00f6r att visa upp, recensera eller rekommendera deras produkter eller tj\u00e4nster.\n*   **Affiliatemarknadsf\u00f6ring:** Influencern delar l\u00e4nkar till produkter och f\u00e5r en viss procent i provision p\u00e5 de k\u00f6p som f\u00f6ljarna g\u00f6r via l\u00e4nkarna.\n*   **Egna varum\u00e4rken:** M\u00e5nga startar egna f\u00f6retag och s\u00e4ljer exempelvis kl\u00e4der, smink eller b\u00f6cker till sina f\u00f6ljare.\n*   **Annonsint\u00e4kter:** Plattformar som YouTube betalar kreat\u00f6rer baserat p\u00e5 hur m\u00e5nga visningar deras videor f\u00e5r.\n\n### 4. Olika storlekar p\u00e5 influencers\nMan brukar dela in influencers efter hur m\u00e5nga f\u00f6ljare de har:\n*   **Nano-influencers:** 1 000 \u2013 10 000 f\u00f6ljare (har ofta en v\u00e4ldigt engagerad och nischad publik).\n*   **Mikro-influencers:** 10 000 \u2013 100 000 f\u00f6ljare.\n*   **Makro-influencers:** 100 000 \u2013 1 miljon f\u00f6ljare.\n*   **Mega-influencers/K\u00e4ndisar:** \u00d6ver 1 miljon f\u00f6ljare.\n\n### Varf\u00f6r \u00e4r de s\u00e5 popul\u00e4ra bland f\u00f6retag?\nTraditionell reklam (som tv-reklam eller tidningsannonser) upplevs ofta som opersonlig. Influencers bygger d\u00e4remot en personlig relation och ett f\u00f6rtroende med sina f\u00f6ljare. N\u00e4r en influencer rekommenderar en produkt k\u00e4nns det ofta mer som ett tips fr\u00e5n en v\u00e4n \u00e4n som ett f\u00f6retagsbudskap, vilket g\u00f6r marknadsf\u00f6ringen mycket effektiv."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "En **influencer** (p\u00e5 svenska ibland kallad *p\u00e5verkare*) \u00e4r en person som har byggt upp en lojal f\u00f6ljarskara p\u00e5 digitala plattformar och som har f\u00f6rm\u00e5gan att p\u00e5verka sina f\u00f6ljares \u00e5sikter, beteenden eller k\u00f6pbeslut. \n\nBegreppet kommer fr\u00e5n engelskans *influence* (inflytande/p\u00e5verkan).\n\nH\u00e4r \u00e4r en genomg\u00e5ng av vad en influencer \u00e4r, hur de arbetar och varf\u00f6r de har blivit s\u00e5 viktiga:\n\n---\n\n### 1. Var finns influencers?\nInfluencers verkar fr\u00e4mst p\u00e5 sociala medier och digitala kanaler, till exempel:\n* **Instagram** (bilder, korta videor/Reels)\n* **TikTok** (kortvideo, trender)\n* **YouTube** (l\u00e4ngre videor, vloggar)\n* **Poddar** (ljudformat)\n* **Bloggar** (text och bild)\n* **Twitch** (livestreaming, ofta inom gaming)\n\n### 2. Olika typer och nischer\nDe flesta influencers specialiserar sig inom en specifik nisch d\u00e4r de ses som inspirat\u00f6rer, experter eller underh\u00e5llare. Vanliga nischer \u00e4r:\n* Mode och sk\u00f6nhet\n* Tr\u00e4ning och h\u00e4lsa\n* Gaming och teknik\n* Matlagning och bakning\n* Resor och livsstil\n* Ekonomi och entrepren\u00f6rskap\n\nMan brukar ocks\u00e5 dela in influencers efter **storlek p\u00e5 f\u00f6ljarskaran**:\n* **Nano-influencers:** 1 000 \u2013 10 000 f\u00f6ljare (har ofta v\u00e4ldigt h\u00f6gt engagemang och n\u00e4ra kontakt med sina f\u00f6ljare).\n* **Micro-influencers:** 10 000 \u2013 50 000 f\u00f6ljare.\n* **Macro-influencers:** 50 000 \u2013 500 000 f\u00f6ljare.\n* **Mega-influencers / K\u00e4ndisar:** \u00d6ver 500 000 eller miljoner f\u00f6ljare.\n\n---\n\n### 3. Hur tj\u00e4nar en influencer pengar?\nAtt vara influencer har f\u00f6r m\u00e5nga blivit ett heltidsyrke och en aff\u00e4rsverksamhet. De tj\u00e4nar fr\u00e4mst pengar genom:\n* **Sponsrade samarbeten:** F\u00f6retag betalar influencern f\u00f6r att visa upp eller recensera deras produkter.\n* **Affiliate-marknadsf\u00f6ring:** Influencern delar l\u00e4nkar eller rabattkoder och f\u00e5r provision p\u00e5 varje k\u00f6p som f\u00f6ljarna g\u00f6r.\n* **Annonsint\u00e4kter:** Plattformar som YouTube betalar ut pengar baserat p\u00e5 hur m\u00e5nga visningar videorna f\u00e5r.\n* **Egna varum\u00e4rken:** M\u00e5nga stora influencers lanserar egna produkter (t.ex. smink, kl\u00e4der eller b\u00f6cker).\n* **Ambassad\u00f6rskap:** L\u00e5ngsiktiga avtal med specifika varum\u00e4rken.\n\n---\n\n### 4. Varf\u00f6r anlitar f\u00f6retag influencers?\nDet kallas f\u00f6r **influencer marketing** (influencer-marknadsf\u00f6ring). F\u00f6retag anv\u00e4nder influencers eftersom:\n* **H\u00f6g trov\u00e4rdighet:** F\u00f6ljarna k\u00e4nner ofta en personlig koppling till influencern och litar mer p\u00e5 en rekommendation fr\u00e5n dem \u00e4n p\u00e5 en traditionell TV-reklam.\n* **Pricks\u00e4ker m\u00e5lgrupp:** Ett sminkm\u00e4rke vet att de n\u00e5r exakt r\u00e4tt m\u00e5lgrupp om de samarbetar med en sk\u00f6nhets-influencer.\n\n---\n\n### 5. Regler och lagar\nI Sverige (och inom EU) finns det tydliga regler f\u00f6r influencers. Enligt marknadsf\u00f6ringslagen m\u00e5ste inl\u00e4gg som \u00e4r betalda samarbeten eller inneh\u00e5ller gratisprodukter **reklamm\u00e4rkas tydligt** (t.ex. med texten *\"I samarbete med...\"* eller *\"Reklam f\u00f6r...\"*) s\u00e5 att f\u00f6ljarna direkt f\u00f6rst\u00e5r att det r\u00f6r sig om marknadsf\u00f6ring."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date": "2002-12-31",
+            "answer": "Influencer betyder ingenting p\u00e5 svenska.",
+            "source": "https://svenska.se/?q=influencer&exactMatch=true&activeTab=alla"
+          },
+          {
+            "date": "2003-01-01",
+            "answer": "En person som p\u00e5verkar andra till visst konsumtionsm\u00f6nster, vissa \u00e5sikter m.m.; ofta via sociala medier och mot betalning",
+            "source": "https://svenska.se/?q=influencer&exactMatch=true&activeTab=alla"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vilken tid \u00e4ter man middag?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "I Sverige \u00e4ter man oftast middag mellan **klockan 17:00 och 19:00**. \n\nH\u00e4r \u00e4r en liten uppdelning beroende p\u00e5 situation:\n\n* **Vardagar med familj/barn:** M\u00e5nga \u00e4ter ganska tidigt, ofta runt **17:30\u201318:00**.\n* **Utan barn / ensam:** Det \u00e4r vanligt att \u00e4ta lite senare, mellan **18:00 och 19:30**.\n* **P\u00e5 restaurang:** Om man g\u00e5r ut p\u00e5 restaurang i Sverige \u00e4r det vanligaste att boka bord till **19:00 eller 20:00**.\n\nVad som r\u00e4knas som \"middag\" kan ocks\u00e5 skilja sig \u00e5t. Vissa kallar lunchen mitt p\u00e5 dagen f\u00f6r middag och m\u00e5ltiden p\u00e5 kv\u00e4llen f\u00f6r \"kv\u00e4llsmat\", medan de flesta idag definierar middag som dagens sista och st\u00f6rsta lagade m\u00e5l mat p\u00e5 kv\u00e4llen."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "I Sverige brukar de flesta \u00e4ta middag **mellan klockan 18:00 och 19:00** p\u00e5 vardagar. \n\nDet beror dock mycket p\u00e5 livssituation:\n* **Barnfamiljer:** \u00c4ter ofta lite tidigare, runt **17:00\u201318:00**, f\u00f6r att anpassa sig efter barnens tider och nattning.\n* **Ensamboende och par utan barn:** \u00c4ter ofta lite senare, ibland runt **18:30\u201319:30**.\n* **Helger och restaurangbes\u00f6k:** D\u00e5 \u00e4ter man ofta senare, g\u00e4rna runt **19:00\u201321:00** eller till och med senare. \n\nJ\u00e4mf\u00f6rt med till exempel Sydeuropa (d\u00e4r man ofta \u00e4ter middag f\u00f6rst efter kl 21:00) \u00e4r svenskarna ganska tidiga med sin middag."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "I Sverige \u00e4ter de flesta middag n\u00e5gon g\u00e5ng mellan **kl. 17.00 och 19.00**, men det kan variera beroende p\u00e5 livssituation och kultur:\n\n* **Barnfamiljer:** \u00c4ter ofta tidigt, vanligtvis mellan **17.00 och 18.00**, f\u00f6r att anpassa sig till barns l\u00e4ggtider och aktiviteter.\n* **Vuxna utan hemmavarande barn/par:** \u00c4ter oftare lite senare, runt **18.00 till 19.30**.\n* **Restaurangbes\u00f6k/helger:** D\u00e5 \u00e4r det vanligt att \u00e4ta senare, ofta mellan **19.00 och 21.00**.\n\n**Internationellt sett:**\n* **Sydeuropa (Spanien, Italien, Grekland):** \u00c4ter mycket senare, ofta mellan **20.30 och 22.30**.\n* **USA och Storbritannien:** Liknar Sverige, oftast mellan **18.00 och 19.30**."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "I Sverige \u00e4ter de flesta middag n\u00e5gon g\u00e5ng mellan **17:00 och 19:00**, men den vanligaste tiden \u00e4r runt **17:30\u201318:00**.\n\nTiden varierar dock beroende p\u00e5 livssituation och veckodag:\n\n* **Barnfamiljer:** \u00c4ter ofta tidigt, runt **17:00\u201317:30**, f\u00f6r att passa tider f\u00f6r l\u00e4xl\u00e4sning, tr\u00e4ningar och tidig l\u00e4ggdags.\n* **Vuxna utan hemmavarande barn:** \u00c4ter ofta lite senare, mellan **18:30 och 20:00**.\n* **Helger:** P\u00e5 fredagar och l\u00f6rdagar \u00e4ter m\u00e5nga senare \u00e4n vanligt, ofta runt **19:00\u201320:30**.\n\n### Internationell j\u00e4mf\u00f6relse:\nI en global j\u00e4mf\u00f6relse \u00e4ter vi i Sverige och Norden v\u00e4ldigt tidigt:\n* **Sydeuropa (Spanien, Italien, Grekland):** \u00c4ter mycket senare, vanligtvis mellan **20:30 och 22:30**.\n* **Frankrike och Tyskland:** \u00c4ter oftast runt **19:00\u201320:00**.\n* **USA och Storbritannien:** Liknar Norden ganska mycket, oftast mellan **17:30 och 19:00**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1430-01-01",
+              "to": "1800-01-01"
+            },
+            "answer": "Man \u00e4ter middag mitt p\u00e5 dagen.",
+            "source": "https://svenska.se/?q=middag&exactMatch=true&activeTab=so&id=243893"
+          },
+          {
+            "date_range": {
+              "from": "1800-01-01",
+              "to": ""
+            },
+            "answer": "Man \u00e4ter middag n\u00e4r arbetsdagen \u00e4r slut.",
+            "source": "https://skillingaryd.nu/varnamo/nyheter/varfor-sager-man-middag-om-kvallsmaten/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "What does the word 'disappoint' mean?",
+        "language": "eng",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "To **disappoint** means to fail to fulfill the hopes, expectations, or desires of someone. \n\nWhen you are disappointed, you feel let down, sad, or displeased because something or someone did not turn out as good as you expected, or because a promise or plan was not kept.\n\n### Examples:\n* **As a verb (feeling let down):** \"The heavy rain **disappointed** the children who were planning to go to the park.\" *(The rain ruined their expectations).*\n* **As a person:** \"I studied hard for the test, and I didn't want to **disappoint** my parents.\" *(I didn't want to fail their expectations).*\n\n### Related Forms:\n* **Disappointed (adjective):** Feeling sad because something didn't meet your hopes (\"I was *disappointed* by the movie\").\n* **Disappointing (adjective):** Causing the feeling of being let down (\"The movie was *disappointing*\").\n* **Disappointment (noun):** The feeling itself, or the thing that causes the feeling (\"Losing the game was a huge *disappointment*\")."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "The word **\"disappoint\"** means to fail to meet someone\u2019s hopes, wishes, or expectations. \n\nWhen you are disappointed, you feel sad, let down, or unsatisfied because something was not as good as you expected, or because something you wanted to happen did not happen.\n\nHere is a breakdown of how it is used:\n\n### 1. Common Definitions\n* **To let someone down:** To fail to do what you promised or what someone expected of you.\n  * *Example:* \"I promised to help my friend move, and I didn't want to **disappoint** her by canceling.\"\n* **To fail to fulfill an expectation:** When an event, object, or experience is not as good as anticipated.\n  * *Example:* \"The movie didn't **disappoint**; it was just as exciting as the trailer made it look.\"\n\n### 2. Different Forms of the Word\n* **Disappointed** *(adjective)*: Feeling sad or displeased because expectations were not met. \n  * *Example:* \"She was **disappointed** with her test score.\"\n* **Disappointing** *(adjective)*: Causing a feeling of letdown.\n  * *Example:* \"The restaurant received **disappointing** reviews.\"\n* **Disappointment** *(noun)*: The feeling of being let down, or the person/thing that caused it.\n  * *Example:* \"The cancellation of the concert was a huge **disappointment**.\"\n\n### 3. Synonyms (Words with similar meanings)\n* Let down\n* Fail\n* Frustrate\n* Fall short"
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "The word **disappoint** is a verb that means to fail to meet someone's hopes, expectations, or desires, leaving them feeling sad, let down, or unsatisfied. \n\nHere are a few ways to understand it better:\n\n*   **Simple meaning:** To let someone down.\n*   **Example 1:** \"I didn't want to **disappoint** my parents, so I studied hard for the test.\" (I didn't want to fail their expectations.)\n*   **Example 2:** \"The rainy weather **disappointed** us because we wanted to go to the beach.\" (The weather did not meet our hopes.)\n\n**Related words:**\n*   **Disappointed** (adjective): How you feel when your expectations aren't met (e.g., *\"I was disappointed by the movie.\"*).\n*   **Disappointing** (adjective): Describes something that causes that feeling (e.g., *\"The movie's ending was disappointing.\"*).\n*   **Disappointment** (noun): The actual feeling of sadness or displeasure (e.g., *\"To my great disappointment, the show was cancelled.\"*).\n\n**Synonyms:** Let down, fail, displease, disillusion.\n**Antonyms:** Satisfy, fulfill, delight, please."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "The word **\"disappoint\"** is a verb that means **to fail to fulfill someone\u2019s hopes, expectations, or desires**. \n\nWhen something or someone disappoints you, it means the outcome was not as good, successful, or pleasing as you expected it to be.\n\n---\n\n### Key Context\nTo feel disappointed, there must first be an **expectation** or **hope**. If you expect nothing, you cannot be disappointed. \n\n* **Example:** If you expect a movie to be amazing and it turns out to be boring, the movie *disappoints* you.\n\n---\n\n### Examples in Sentences\n* *\"I am sorry to **disappoint** you, but the concert has been canceled.\"*\n* *\"She worked very hard because she didn't want to **disappoint** her team.\"*\n* *\"The new phone's battery life really **disappointed** customers.\"*\n\n---\n\n### Related Words (Word Family)\n* **Disappointed (adjective):** The feeling of sadness or dissatisfaction. \n  *(e.g., \"He was **disappointed** with his exam score.\")*\n* **Disappointing (adjective):** Causing the feeling of being let down. \n  *(e.g., \"It was a **disappointing** loss for the team.\")*\n* **Disappointment (noun):** The feeling itself, or the person/thing that caused it. \n  *(e.g., \"The party was a huge **disappointment**.\")*\n\n---\n\n### Synonyms & Antonyms\n* **Synonyms (similar meaning):** Let down, fail, fall short, dissatisfy, dishearten.\n* **Antonyms (opposite meaning):** Satisfy, please, delight, fulfill, exceed expectations."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "eng",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1513-01-01",
+              "to": "1569-12-31"
+            },
+            "answer": "To remove someone from their functions in office.",
+            "source": "https://www.merriam-webster.com/wordplay/words-that-used-to-mean-something-different"
+          },
+          {
+            "date_range": {
+              "from": "1570-01-01",
+              "to": ""
+            },
+            "answer": "To fail to meet the expectation or hope of.",
+            "source": "https://www.merriam-webster.com/dictionary/disappoint"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vilka \u00e4r definitionerna av ordet \u201dagent\u201d?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "Ordet **agent** (fr\u00e5n latinets *agens*, som betyder \u201dden som handlar eller utf\u00f6r n\u00e5got\u201d) har flera olika betydelser beroende p\u00e5 vilket sammanhang det anv\u00e4nds i. \n\nH\u00e4r \u00e4r de vanligaste definitionerna uppdelade efter omr\u00e5de:\n\n### 1. Allm\u00e4n betydelse och juridik (Ombud)\n* **Definition:** En person eller ett f\u00f6retag som har i uppdrag att handla p\u00e5 n\u00e5gon annans v\u00e4gnar (huvudmannen). \n* **Exempel:** En litter\u00e4r agent som f\u00f6rhandlar fram bokkontrakt \u00e5t en f\u00f6rfattare, eller en f\u00f6rs\u00e4ljningsagent som s\u00e4ljer varor f\u00f6r ett annat bolags r\u00e4kning.\n\n### 2. Spioneri och s\u00e4kerhetstj\u00e4nst\n* **Definition:** En person som i hemlighet samlar in information (underr\u00e4ttelser) eller utf\u00f6r uppdrag f\u00f6r en stats eller organisations r\u00e4kning.\n* **Exempel:** En hemlig agent (som James Bond), en dubbelagent eller en s\u00e4kerhetsagent.\n\n### 3. Kultur och underh\u00e5llning (Bokning)\n* **Definition:** En person som representerar en artist, musiker, sk\u00e5despelare eller idrottare f\u00f6r att ordna jobb, spelningar och kontrakt.\n* **Exempel:** En bokningsagent eller sk\u00e5despelaragent.\n\n### 4. Naturvetenskap, medicin och teknik (Verksamt \u00e4mne)\n* **Definition:** N\u00e5got som har en aktiv funktion, orsakar en f\u00f6r\u00e4ndring eller har en specifik verkan.\n* **Exempel:** \n    * **Kemisk/biologisk agent:** Ett \u00e4mne som orsakar en viss reaktion (t.ex. ett smitt\u00e4mne eller en kemisk stridsspets).\n    * **L\u00e4kemedel:** Ett aktivt \u00e4mne i ett medel (t.ex. ett *reducerande agent*).\n\n### 5. Ekonomi och finans\n* **Definition:** En akt\u00f6r p\u00e5 en marknad som utf\u00f6r transaktioner. Kan vara en person, ett f\u00f6retag eller en institution (ofta kallat *ekonomisk agent*).\n\n### 6. Datorer och artificell intelligens (AI)\n* **Definition:** Ett sj\u00e4lvst\u00e4ndigt dataprogram eller system som kan uppfatta sin omgivning och utf\u00f6ra handlingar f\u00f6r att uppn\u00e5 ett visst m\u00e5l.\n* **Exempel:** En programvaruagent, en \"chatbot-agent\" som sk\u00f6ter kundservice, eller autonoma agenter inom AI.\n\n---\n**Sammanfattningsvis** handlar en agent n\u00e4stan alltid om **n\u00e5gon eller n\u00e5got som agerar p\u00e5 uppdrag av, eller har en aktiv verkande roll f\u00f6r, n\u00e5gon annan.**"
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "Ordet **agent** (fr\u00e5n latinets *agens*, \"den som handlar/agerar\") har flera olika definitioner beroende p\u00e5 i vilket sammanhang det anv\u00e4nds. \n\nH\u00e4r \u00e4r de vanligaste definitionerna uppdelade efter omr\u00e5de:\n\n### 1. Juridik, aff\u00e4rer och handel (Mellanhand/Representant)\n* **Handelsagent:** En person eller ett f\u00f6retag som har i uppdrag att f\u00f6rhandla och/eller sluta avtal om k\u00f6p eller f\u00f6rs\u00e4ljning f\u00f6r en annans r\u00e4kning (huvudmannen).\n* **Representant f\u00f6r personer:** En person som f\u00f6retr\u00e4der klienter gentemot arbetsgivare eller uppdragsgivare, f\u00f6rhandlar kontrakt och sk\u00f6ter PR. Vanligt inom:\n  * **Sport:** *Spelaragent* (f\u00f6rhandlar kontrakt och \u00f6verg\u00e5ngar f\u00f6r idrottare).\n  * **Kultur/Underh\u00e5llning:** *Teateragent*, *litter\u00e4r agent* eller *modellagent* (representerar sk\u00e5despelare, f\u00f6rfattare eller modeller).\n\n### 2. Spionage, polis och underr\u00e4ttelsetj\u00e4nst\n* **Spion/Hemlig agent:** En person som i hemlighet samlar in information f\u00f6r en fr\u00e4mmande makts eller organisations r\u00e4kning.\n* **Polisi\u00e4r agent:** En person som arbetar f\u00f6r en brottsbek\u00e4mpande myndighet, ibland under t\u00e4ckmantel (*infiltrat\u00f6r* eller *undercover agent*). I t.ex. USA \u00e4r \"Special Agent\" en officiell titel f\u00f6r federala poliser (som inom FBI).\n* **Dubbelagent:** En agent som l\u00e5tsas spionera f\u00f6r en organisation, men i sj\u00e4lva verket arbetar f\u00f6r motparten.\n\n### 3. Teknik, data och AI\n* **Mjukvaruagent / AI-agent:** Ett autonomt datorprogram som sj\u00e4lvst\u00e4ndigt utf\u00f6r uppgifter, fattar beslut och interagerar med sin omgivning p\u00e5 uppdrag av en anv\u00e4ndare eller ett annat system.\n* **User Agent (Webben):** Den programvara som h\u00e4mtar och visar webbinneh\u00e5ll f\u00f6r slutanv\u00e4ndaren (t.ex. en webbl\u00e4sare som Chrome eller Safari).\n\n### 4. Spr\u00e5kvetenskap (Grammatik)\n* **Agent:** Den satsdel (ofta inledd med prepositionen *av*) som anger vem eller vad som utf\u00f6r handlingen i en **passiv sats**. \n  * *Exempel:* I meningen \"Boken skrevs **av f\u00f6rfattaren**\" \u00e4r *f\u00f6rfattaren* agent.\n\n### 5. Naturvetenskap (Kemi och biologi)\n* **Verkande \u00e4mne / Agens:** En substans, organism eller kraft som orsakar en specifik (ofta biologisk eller kemisk) reaktion eller effekt. \n  * *Exempel:* Smitt\u00e4mne (biologisk agent), reng\u00f6ringsmedel (blekagent), eller nervgas (kemisk stridsagent). *Inom medicin och biologi anv\u00e4nds dock oftare den latinska formen **agens**.*\n\n### 6. Filosofi och samh\u00e4llsvetenskap\n* **Handlande subjekt:** En individ eller entitet som har f\u00f6rm\u00e5ga att agera sj\u00e4lvst\u00e4ndigt, g\u00f6ra medvetna val och ut\u00f6va inflytande p\u00e5 sin omgivning (kopplat till begreppet *agens* / handlingsfrihet).\n\n---\n\n**Sammanfattningsvis:** Den r\u00f6da tr\u00e5den i n\u00e4stan alla definitioner \u00e4r att en agent \u00e4r **n\u00e5gon eller n\u00e5got som handlar, antingen av egen kraft eller p\u00e5 uppdrag av n\u00e5gon annan.**"
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Ordet **agent** har flera olika betydelser beroende p\u00e5 vilket sammanhang det anv\u00e4nds i. Den gemensamma n\u00e4mnaren i etymologin (fr\u00e5n latinets *agere*, att g\u00f6ra eller handla) \u00e4r att en agent \u00e4r **n\u00e5gon eller n\u00e5got som utf\u00f6r en handling eller f\u00f6retr\u00e4der n\u00e5gon annan**.\n\nH\u00e4r \u00e4r de vanligaste definitionerna uppdelade efter omr\u00e5de:\n\n### 1. Aff\u00e4rsv\u00e4rlden och kultur (Ombud / Representant)\nEn person eller ett f\u00f6retag som har r\u00e4tt att handla p\u00e5 n\u00e5gon annans v\u00e4gnar, ofta f\u00f6r att s\u00e4lja varor, tj\u00e4nster eller talanger.\n*   **Exempel:** \n    *   *Sportagent:* F\u00f6rhandlar kontrakt och skaffar sponsring \u00e5t idrottare.\n    *   *Litter\u00e4r agent:* F\u00f6retr\u00e4der f\u00f6rfattare gentemot bokf\u00f6rlag.\n    *   *Generalagent:* Ett f\u00f6retag som har ensamr\u00e4tt att importera och s\u00e4lja en viss utl\u00e4ndsk produkt (t.ex. bilar) i ett land.\n\n### 2. Spionage och s\u00e4kerhetstj\u00e4nst (Spion)\nEn person som i hemlighet samlar in information, bedriver sabotage eller utf\u00f6r andra uppdrag \u00e5t en stat eller organisation.\n*   **Exempel:** Hemliga agenter inom organisationer som CIA, MI6 eller S\u00e4po (t.ex. James Bond-arketypen).\n\n### 3. Filosofi och samh\u00e4llsvetenskap (Akt\u00f6r / Handlande subjekt)\nInom filosofi och sociologi \u00e4r en agent en individ (eller ibland en grupp) som har f\u00f6rm\u00e5ga att handla, fatta egna beslut och p\u00e5verka sin omgivning.\n*   **Exempel:** M\u00e4nniskan som en \"moralisk agent\" (n\u00e5gon som kan skilja p\u00e5 r\u00e4tt och fel och h\u00e5llas ansvarig f\u00f6r sina handlingar).\n\n### 4. IT och teknik (Programvara / Bot)\nEtt sj\u00e4lvst\u00e4ndigt datorprogram som utf\u00f6r uppgifter automatiskt p\u00e5 uppdrag av en anv\u00e4ndare eller ett annat system.\n*   **Exempel:** \n    *   *AI-agenter:* Program som kan fatta egna beslut och utf\u00f6ra komplexa uppgifter baserat p\u00e5 artificuell intelligens.\n    *   *S\u00f6krobotar (web crawlers):* Program som s\u00f6ker igenom internet f\u00f6r att samla in data till s\u00f6kmotorer.\n\n### 5. Naturvetenskap och medicin (Verksamt \u00e4mne / Smitt\u00e4mne)\nN\u00e5got (ofta ett kemiskt eller biologiskt \u00e4mne) som orsakar en specifik effekt eller reaktion.\n*   **Exempel:**\n    *   *Smittsam agent (infectious agent):* Ett virus, en bakterie eller svamp som orsakar sjukdom.\n    *   *Kemisk agent:* Ett kemiskt \u00e4mne som anv\u00e4nds f\u00f6r en viss effekt (t.ex. kemiska stridsmedel)."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Ordet **agent** har sitt ursprung i latinets *agens* (av *agere*, som betyder \u201datt handla\u201d eller \u201datt g\u00f6ra\u201d) och betyder i grunden \u201den som handlar/utf\u00f6r n\u00e5got\u201d. \n\nBeroende p\u00e5 sammanhang har ordet flera olika definitioner:\n\n---\n\n### 1. Spioneri och underr\u00e4ttelseverksamhet\n* **Hemlig agent / Spion:** En person som i hemlighet samlar in information (underr\u00e4ttelser) f\u00f6r en stats, organisations eller makts r\u00e4kning.\n* **Dubbelagent:** En agent som officiellt arbetar f\u00f6r en part, men i hemlighet arbetar f\u00f6r motparten.\n* **P\u00e5verkansagent (Agent of influence):** En person som anv\u00e4nder sin st\u00e4llning (t.ex. som journalist eller politiker) f\u00f6r att i hemlighet gynna en fr\u00e4mmande makts intressen.\n\n---\n\n### 2. Aff\u00e4rsverksamhet och juridik\n* **Handelsagent:** En sj\u00e4lvst\u00e4ndig n\u00e4ringsidkare som har i uppdrag att f\u00f6r ett annat f\u00f6retags (huvudmannens) r\u00e4kning s\u00e4lja eller k\u00f6pa varor. Agenten f\u00f6rmedlar aff\u00e4rer men \u00e4ger oftast inte varorna sj\u00e4lv.\n* **Generalagent:** Ett f\u00f6retag eller en person som har ensamr\u00e4tt att representera ett visst varum\u00e4rke inom ett specifikt geografiskt omr\u00e5de (t.ex. ett lands generalagent f\u00f6r ett bilm\u00e4rke).\n* **Ombud/Fullm\u00e4ktig:** Allm\u00e4nt en person som har fullmakt att agera och ing\u00e5 avtal \u00e5 n\u00e5gon annans v\u00e4gnar.\n\n---\n\n### 3. Sport, media och underh\u00e5llning\n* **Talangagent / Idrottsagent / Litter\u00e4r agent:** En person som representerar yrkesut\u00f6vare s\u00e5som sk\u00e5despelare, f\u00f6rfattare, modeller eller elitidrottare. Agentens uppgift \u00e4r att f\u00f6rhandla kontrakt, hitta nya uppdrag och hantera klientens professionella intressen.\n\n---\n\n### 4. Datavetenskap och artificiell intelligens (AI)\n* **Mjukvaruagent:** Ett program som utf\u00f6r autonoma uppgifter \u00e5t en anv\u00e4ndare eller ett annat program i bakgrunden (t.ex. \u00f6vervaka data, s\u00f6ka information).\n* **Intelligent agent (AI):** En enhet (h\u00e5rdvara eller mjukvara) som uppfattar sin omgivning via sensorer, bearbetar informationen och vidtar \u00e5tg\u00e4rder via aktuatorer f\u00f6r att uppn\u00e5 ett specifikt m\u00e5l.\n\n---\n\n### 5. Spr\u00e5kvetenskap (Grammatik)\n* **Agent:** Den eller det som *utf\u00f6r* handlingen i en sats. Begreppet anv\u00e4nds s\u00e4rskilt vid passiva satser, d\u00e4r agenten ofta styrs av prepositionen \u201dav\u201d.\n  * *Exempel:* I satsen \u201dKakan \u00e5ts **av pojken**\u201d \u00e4r *pojken* agenten (den som utf\u00f6r handlingen att \u00e4ta).\n\n---\n\n### 6. Medicin, kemi och biologi\n* **Smitt\u00e4mne / Verksamt \u00e4mne:** En biologisk eller kemisk substans som orsakar en viss effekt, reaktion eller sjukdom.\n  * *Biologisk agent:* Mikroorganismer (bakterier, virus) eller toxiner som kan orsaka sjukdom (anv\u00e4nds ofta i samband med biologisk krigf\u00f6ring).\n  * *Kemisk agent:* Ett kemiskt \u00e4mne med specifik verkan (t.ex. i stridsgaser eller l\u00e4kemedel).\n\n---\n\n### 7. Filosofi och samh\u00e4llsvetenskap\n* **Handlande subjekt (Agens):** En entitet (oftast en m\u00e4nniska) som har f\u00f6rm\u00e5ga att agera sj\u00e4lvst\u00e4ndigt, fatta medvetna beslut och ut\u00f6va fri vilja inom en viss struktur.\n\n---\n\n### Sammanfattning\nGemensamt f\u00f6r n\u00e4stan alla definitioner \u00e4r att en **agent** antingen \u00e4r en **mellanhand som representerar n\u00e5gon annan** eller en **kraft/akt\u00f6r som orsakar en handling eller effekt**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1628-01-01",
+              "to": "1954-12-31"
+            },
+            "answer": "ombud f\u00f6r firma, artist e.d. spion: en hemlig agent, en satsdel.",
+            "source": "https://svenska.se/?q=agent&exactMatch=true&activeTab=alla"
+          },
+          {
+            "date_range": {
+              "from": "1955-01-01",
+              "to": ""
+            },
+            "answer": "ombud f\u00f6r firma, artist e.d. spion: en hemlig agent, en satsdel, en typ av datorprogram.",
+            "source": "https://svenska.se/?q=agent&exactMatch=true&activeTab=alla, https://swoft.ai/en/articles/qu-est-ce-qu-un-agent-ia-definition-academique-russell-wooldridge-ferber/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Qui peut souffrir d'hallucinations?",
+        "language": "fra",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "N'importe qui peut potentiellement souffrir d'hallucinations. Contrairement aux id\u00e9es re\u00e7ues, elles ne concernent pas uniquement les personnes atteintes de troubles psychiatriques graves. \n\nOn peut classer les personnes susceptibles d'en avoir selon plusieurs grandes cat\u00e9gories :\n\n### 1. Les personnes souffrant de troubles psychiatriques\nC'est la cause la plus connue. Les hallucinations sont un sympt\u00f4me fr\u00e9quent de certaines maladies mentales :\n*   **La schizophr\u00e9nie :** (auditives le plus souvent, comme des voix, mais aussi visuelles ou olfactives).\n*   **Les troubles bipolaires :** (surtout lors des \u00e9pisodes maniaques ou m\u00e9lancoliques graves).\n*   **La d\u00e9pression s\u00e9v\u00e8re :** (d\u00e9pression psychotique avec des voix d\u00e9nigrantes, par exemple).\n\n### 2. Les personnes souffrant de troubles neurologiques ou physiques\nLe cerveau et les sens \u00e9tant alt\u00e9r\u00e9s, la perception de la r\u00e9alit\u00e9 est modifi\u00e9e :\n*   **Les personnes \u00e2g\u00e9es atteintes de maladies neurod\u00e9g\u00e9n\u00e9ratives :** La maladie d'Alzheimer ou la d\u00e9mence \u00e0 corps de Lewy provoquent souvent des hallucinations visuelles.\n*   **Les personnes souffrant de migraines (migraines ophtalmiques ou avec aura) :** Hallucinations visuelles (lignes bris\u00e9es, \u00e9clairs).\n*   **Les personnes ayant des probl\u00e8mes sensoriels :** Une surdit\u00e9 progressive peut causer des hallucinations auditives (syndrome de Charles Bonnet pour la vue, ou acouph\u00e8nes complexes).\n*   **L'\u00e9pilepsie :** Certaines crises partielles touchent des zones du cerveau qui g\u00e9n\u00e8rent des hallucinations.\n*   **Les tumeurs c\u00e9r\u00e9brales ou les l\u00e9sions traumatiques.**\n\n### 3. Les consommateurs de substances (et le sevrage)\n*   **La prise de drogues :** Les psych\u00e9d\u00e9liques (LSD, champignons), le cannabis, la coca\u00efne ou l'alcool peuvent induire des hallucinations.\n*   **Le sevrage :** L'arr\u00eat brutal de l'alcool chez une personne d\u00e9pendante peut provoquer le *delirium tremens*, caract\u00e9ris\u00e9 par des hallucinations terrifiantes (souvent des insectes ou des animaux).\n*   **Certains m\u00e9dicaments :** Des effets secondaires de traitements (antiparkinsoniens, certains cortico\u00efdes, antid\u00e9presseurs, etc.) peuvent en provoquer.\n\n### 4. Des personnes tout \u00e0 fait \"normales\" (en bonne sant\u00e9)\nDans certaines circonstances de la vie quotidienne, n'importe quel individu sain d'esprit peut faire l'exp\u00e9rience d'une hallucination :\n*   **La privation de sommeil :** Rester \u00e9veill\u00e9 pendant plusieurs jours perturbe massivement le cerveau.\n*   **L'isolement extr\u00eame :** Le manque de stimulation sensorielle (privation sensorielle) peut faire \"cr\u00e9er\" des stimuli par le cerveau.\n*   **Le deuil :** Il est tr\u00e8s fr\u00e9quent qu'une personne endeuill\u00e9e croie bri\u00e8vement entendre, voir ou sentir la pr\u00e9sence d'un proche d\u00e9c\u00e9d\u00e9 (hallucinations hypnagogiques ou de deuil, consid\u00e9r\u00e9es comme normales).\n*   **L'endormissement ou le r\u00e9veil :** Les hallucinations *hypnagogiques* (juste avant de dormir) ou *hypnopompiques* (au r\u00e9veil) sont des ph\u00e9nom\u00e8nes b\u00e9nins et tr\u00e8s courants (avoir l'impression d'entendre son nom, voir une ombre).\n*   **La fi\u00e8vre tr\u00e8s \u00e9lev\u00e9e :** Surtout chez les enfants (d\u00e9lire f\u00e9brile).\n\n**En r\u00e9sum\u00e9 :** L'hallucination n'est pas une \"maladie\" en soi, c'est un **sympt\u00f4me** ou un **dysfonctionnement temporaire** du cerveau qui peut toucher tout le monde, du fait de la fatigue, d'une substance, d'une maladie physique ou d'un trouble psychique."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Contrairement \u00e0 une id\u00e9e re\u00e7ue, **tout le monde peut potentiellement souffrir d\u2019hallucinations** au cours de sa vie. Les hallucinations ne touchent pas seulement les personnes atteintes de maladies mentales graves. \n\nElles peuvent \u00eatre le r\u00e9sultat de nombreux facteurs, class\u00e9s g\u00e9n\u00e9ralement en plusieurs cat\u00e9gories :\n\n### 1. Les troubles psychiatriques\nC'est la cause la plus connue. Les hallucinations (auditives, visuelles, olfactives, etc.) sont un sympt\u00f4me fr\u00e9quent de certaines maladies mentales :\n*   **La schizophr\u00e9nie**\n*   **Le trouble bipolaire** (notamment lors des \u00e9pisodes de manie ou de d\u00e9pression s\u00e9v\u00e8re)\n*   **La d\u00e9pression psychotique**\n*   **Le trouble de stress post-traumatique (TSPT)** (fr\u00e9quent chez les victimes de traumatismes ou les soldats)\n\n### 2. Les causes neurologiques et m\u00e9dicales\nLe cerveau dysfonctionne en raison d'une maladie physique :\n*   **Les maladies neurod\u00e9g\u00e9n\u00e9ratives :** La maladie d'Alzheimer, la maladie \u00e0 corps de Lewy ou la maladie de Parkinson.\n*   **L'\u00e9pilepsie :** Certaines crises d'\u00e9pilepsie (notamment du lobe temporal) provoquent des hallucinations visuelles ou olfactives.\n*   **Les migraines avec aura :** Peuvent causer des hallucinations visuelles (lignes bris\u00e9es, \u00e9clairs de lumi\u00e8re).\n*   **Les infections et la fi\u00e8vre :** Une forte fi\u00e8vre, en particulier chez les jeunes enfants ou les personnes \u00e2g\u00e9es, peut provoquer un \u00e9tat confusionnel (delirium) avec des hallucinations.\n*   **Les tumeurs c\u00e9r\u00e9brales ou les l\u00e9sions** (accidents vasculaires c\u00e9r\u00e9braux - AVC).\n\n### 3. Les substances et les m\u00e9dicaments\n*   **La consommation de drogues :** Les psych\u00e9d\u00e9liques (LSD, champignons), le cannabis, la coca\u00efne, l'ecstasy ou l'alcool peuvent induire des hallucinations.\n*   **Le sevrage :** L'arr\u00eat brutal d'une consommation excessive d'alcool (delirium tremens) ou de certains m\u00e9dicaments (comme les somnif\u00e8res ou les anxiolytiques) provoque des hallucinations terrifiantes.\n*   **Les effets secondaires de m\u00e9dicaments :** Certains traitements (pour la maladie de Parkinson, des cortico\u00efdes, certains antid\u00e9presseurs ou antibiotiques) peuvent en provoquer chez les personnes sensibles.\n\n### 4. Les troubles du sommeil et la fatigue\n*   **La privation de sommeil extr\u00eame :** Rester \u00e9veill\u00e9 pendant plusieurs jours perturbe profond\u00e9ment le cerveau et entra\u00eene des hallucinations visuelles et auditives.\n*   **Les hallucinations hypnagogiques (\u00e0 l'endormissement) et hypnopompiques (au r\u00e9veil) :** Ces ph\u00e9nom\u00e8nes sont **tout \u00e0 fait b\u00e9nins** et touchent une grande partie de la population saine. On peut entendre son pr\u00e9nom ou voir une ombre en train de s'endormir.\n*   **La paralysie du sommeil :** \u00catre conscient mais incapable de bouger, souvent accompagn\u00e9 d'hallucinations terrifiantes (sensation de pr\u00e9sence malveillante).\n\n### 5. Les facteurs \u00e9motionnels et le deuil\n*   **Le deuil complexe :** Il est tr\u00e8s fr\u00e9quent (et normal) qu'une personne endeuill\u00e9e croie bri\u00e8vement entendre ou voir un \u00eatre cher d\u00e9c\u00e9d\u00e9, ou sente sa pr\u00e9sence.\n*   **Le stress aigu ou l'isolement extr\u00eame :** Des situations de survie, de solitude prolong\u00e9e en mer ou en montagne peuvent alt\u00e9rer la perception de la r\u00e9alit\u00e9.\n\n### 6. Les troubles sensoriels\n*   **Le syndrome de Charles Bonnet :** Des personnes \u00e2g\u00e9es qui perdent la vue (\u00e0 cause de la DMLA par exemple) se mettent \u00e0 voir des images complexes (visages, paysages) car le cerveau, ne recevant plus assez d'informations visuelles, \"invente\" des images.\n*   **Des probl\u00e8mes auditifs** peuvent de la m\u00eame mani\u00e8re provoquer des hallucinations auditives (entendre de la musique ou des voix).\n\n**En r\u00e9sum\u00e9 :** L'hallucination est un **sympt\u00f4me** et non une maladie en soi. Elle indique simplement que le cerveau traite mal les informations sensorielles, ce qui peut arriver \u00e0 n'importe qui sous l'effet de la fatigue, de la drogue, de la maladie ou d'un choc \u00e9motionnel. Si elles sont r\u00e9currentes, elles n\u00e9cessitent toutefois une consultation m\u00e9dicale (g\u00e9n\u00e9raliste, psychiatre ou neurologue)."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "En r\u00e9alit\u00e9, **presque tout le monde** peut \u00eatre amen\u00e9 \u00e0 vivre une hallucination au cours de sa vie. Bien qu'elles soient souvent associ\u00e9es aux maladies mentales, les hallucinations peuvent avoir des causes tr\u00e8s vari\u00e9es : neurologiques, physiques, environnementales ou chimiques.\n\nVoici les principales cat\u00e9gories de personnes qui peuvent en souffrir :\n\n---\n\n### 1. La population g\u00e9n\u00e9rale (sans maladie sous-jacente)\nM\u00eame une personne en parfaite sant\u00e9 peut avoir des hallucinations dans certains contextes pr\u00e9cis :\n* **Au moment de l'endormissement ou du r\u00e9veil :** Les hallucinations *hypnagogiques* (en s'endormant) et *hypnopompiques* (en se r\u00e9veillant) sont tr\u00e8s fr\u00e9quentes et b\u00e9nignes (ex. entendre son pr\u00e9nom, voir une ombre, avoir l'impression de tomber).\n* **Le manque s\u00e9v\u00e8re de sommeil :** Une privation de sommeil prolong\u00e9e (plusieurs jours ou nuits blanches r\u00e9p\u00e9t\u00e9es) alt\u00e8re le fonctionnement c\u00e9r\u00e9bral et provoque des hallucinations.\n* **Le deuil :** Il est tr\u00e8s courant et normal d'entendre la voix ou de voir bri\u00e8vement une personne r\u00e9cemment d\u00e9c\u00e9d\u00e9e.\n* **Le stress extr\u00eame ou l'isolement :** Un traumatisme aigu, une grande solitude ou une privation sensorielle (ex. explorateurs polaires, personnes isol\u00e9es en mer).\n\n---\n\n### 2. Les personnes souffrant de troubles psychiatriques\nC'est la cause la plus connue, o\u00f9 les hallucinations sont souvent auditives (entendre des voix) :\n* **La schizophr\u00e9nie** et les autres troubles du spectre psychotique.\n* **Le trouble bipolaire :** Lors d'\u00e9pisodes maniaques ou d\u00e9pressifs tr\u00e8s s\u00e9v\u00e8res.\n* **La d\u00e9pression majeure s\u00e9v\u00e8re** (avec caract\u00e9ristiques psychotiques).\n* **Le trouble de stress post-traumatique (TSPT) :** Reviviscences si intenses qu'elles s'apparentent \u00e0 des hallucinations.\n\n---\n\n### 3. Les personnes atteintes de maladies neurologiques\nDans ces cas, les hallucinations sont tr\u00e8s souvent **visuelles** :\n* **La d\u00e9mence \u00e0 corps de Lewy :** Provoque des hallucinations visuelles pr\u00e9coces, nettes et r\u00e9currentes (personnes, animaux).\n* **La maladie de Parkinson :** Les hallucinations peuvent \u00eatre dues \u00e0 la maladie elle-m\u00eame ou aux m\u00e9dicaments dopaminergiques utilis\u00e9s pour la traiter.\n* **La maladie d'Alzheimer** (\u00e0 des stades plus avanc\u00e9s).\n* **L'\u00e9pilepsie :** Certaines crises partielles (touchant le lobe temporal ou occipital) d\u00e9clenchent des hallucinations visuelles, olfactives ou gustatives.\n* **Les migraines :** L'aura migraineuse peut causer des hallucinations visuelles (lignes bris\u00e9es, \u00e9clairs lumineux).\n* **Les tumeurs c\u00e9r\u00e9brales ou les AVC :** Selon la zone du cerveau touch\u00e9e.\n\n---\n\n### 4. Les personnes \u00e2g\u00e9es ou malades (causes m\u00e9dicales aigu\u00ebs)\n* **Le syndrome confusionnel (*d\u00e9lirium*) :** Tr\u00e8s fr\u00e9quent chez les personnes \u00e2g\u00e9es hospitalis\u00e9es ou fragiles lors d'une infection urinaire, d'une pneumonie, d'une d\u00e9shydratation ou apr\u00e8s une chirurgie.\n* **Une forte fi\u00e8vre :** Particuli\u00e8rement fr\u00e9quente chez les jeunes enfants (d\u00e9lires f\u00e9briles).\n\n---\n\n### 5. Les personnes consommant des substances ou en sevrage\n* **L'alcool :** Lors d'une intoxication massive ou, plus gravement, lors du sevrage alcoolique (**Delirium tremens**, caract\u00e9ris\u00e9 par des hallucinations de petits animaux ou d'insectes).\n* **Les drogues illicites :** Les hallucinog\u00e8nes (LSD, psilocybine, mescaline), la k\u00e9tamine, le cannabis \u00e0 tr\u00e8s forte dose, les amph\u00e9tamines, la coca\u00efne.\n* **Certains m\u00e9dicaments :** Certains antalgiques puissants, cortico\u00efdes, s\u00e9datifs, ou m\u00e9dicaments pour le c\u0153ur peuvent avoir des effets secondaires hallucinatoires, surtout chez les sujets \u00e2g\u00e9s.\n\n---\n\n### 6. Les personnes ayant une perte sensorielle\n* **Le syndrome de Charles Bonnet :** Les personnes perdant la vue (\u00e0 cause d'une DMLA, d'un glaucome ou de la cataracte) peuvent voir des images tr\u00e8s complexes et vivantes. Le cerveau, priv\u00e9 de signaux visuels r\u00e9els, \"invente\" des images pour combler le vide. Ces personnes n'ont aucun probl\u00e8me psychiatrique et sont conscientes que ce n'est pas r\u00e9el.\n* **La surdit\u00e9 s\u00e9v\u00e8re :** Peut parfois provoquer des hallucinations auditives musicales (entendre des m\u00e9lodies en continu).\n\n---\n\n### Que faire en cas d'hallucination ?\nL'hallucination n'est pas une maladie en soi, mais un **sympt\u00f4me**. \nSi une personne commence \u00e0 avoir des hallucinations (surtout si cela appara\u00eet soudainement), il s'agit d'une **urgence m\u00e9dicale** afin d'en identifier la cause (prise de sang, imagerie c\u00e9r\u00e9brale, \u00e9valuation psychiatrique)."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "Les hallucinations ne touchent pas uniquement les personnes atteintes de troubles psychiatriques. En r\u00e9alit\u00e9, **n'importe qui peut potentiellement faire l'exp\u00e9rience d'une hallucination** au cours de sa vie, car le cerveau peut \u00eatre perturb\u00e9 par de nombreux facteurs physiologiques, m\u00e9dicaux, psychologiques ou environnementaux.\n\nVoici les principales cat\u00e9gories de personnes pouvant souffrir d'hallucinations :\n\n---\n\n### 1. La population g\u00e9n\u00e9rale (sans maladie sous-jacente)\nM\u00eame une personne en parfaite sant\u00e9 peut avoir des hallucinations dans des contextes pr\u00e9cis :\n* **Le manque s\u00e9v\u00e8re de sommeil :** Une privation prolong\u00e9e de sommeil est l'une des causes les plus fr\u00e9quentes.\n* **Les transitions veille/sommeil :** Les hallucinations *hypnagogiques* (\u00e0 l'endormissement) ou *hypnopompiques* (au r\u00e9veil) sont fr\u00e9quentes, b\u00e9nignes et souvent associ\u00e9es \u00e0 des paralysies du sommeil.\n* **Le deuil :** Il est tr\u00e8s courant pour une personne en deuil d'entendre la voix ou d'apercevoir bri\u00e8vement la personne disparue.\n* **L'isolement sensoriel ou social extr\u00eame :** \u00catre enferm\u00e9 dans le noir complet ou un silence total prolong\u00e9 pousse le cerveau \u00e0 \u00ab inventer \u00bb des perceptions.\n* **Le stress extr\u00eame ou l'\u00e9puisement physique.**\n\n---\n\n### 2. Les personnes atteintes de troubles psychiatriques\nC'est le contexte le plus connu :\n* **Schizophr\u00e9nie et troubles psychotiques :** Les hallucinations (tr\u00e8s souvent auditives, comme entendre des voix) sont un sympt\u00f4me central.\n* **Trouble bipolaire et d\u00e9pression s\u00e9v\u00e8re :** Des hallucinations peuvent survenir lors d'\u00e9pisodes maniaques ou d\u00e9pressifs dits \u00ab psychotiques \u00bb.\n* **Trouble de stress post-traumatique (TSPT) :** Reviviscences et hallucinations li\u00e9es au traumatisme.\n\n---\n\n### 3. Les personnes souffrant de maladies neurologiques ou neurod\u00e9g\u00e9n\u00e9ratives\n* **Maladie de Parkinson et D\u00e9mence \u00e0 corps de Lewy :** Les hallucinations (souvent visuelles : personnes ou animaux) y sont fr\u00e9quentes.\n* **Maladie d'Alzheimer :** Aux stades mod\u00e9r\u00e9s \u00e0 avanc\u00e9s.\n* **\u00c9pilepsie :** Selon la zone du cerveau touch\u00e9e par la crise (ex. lobe temporal), la personne peut percevoir des odeurs \u00e9tranges, des sons ou des flashs lumineux.\n* **Migraines avec aura :** Provoquent des hallucinations visuelles (lignes bris\u00e9es, taches aveugles, scintillements).\n* **Tumeurs c\u00e9r\u00e9brales, AVC ou enc\u00e9phalites.**\n\n---\n\n### 4. Les consommateurs de substances (toxiques et sevrage)\n* **Drogues hallucinog\u00e8nes :** LSD, psilocybine (champignons), k\u00e9tamine, etc.\n* **Autres drogues :** Coca\u00efne, amph\u00e9tamines, cannabis \u00e0 forte dose (peuvent d\u00e9clencher des bouff\u00e9es d\u00e9lirantes).\n* **Alcoolisme et sevrage :** Le *Delirium tremens* (li\u00e9 au sevrage brutal de l'alcool) provoque de violentes hallucinations visuelles (souvent des insectes ou des animaux) et tactiles.\n\n---\n\n### 5. Les personnes ayant des affections m\u00e9dicales aigu\u00ebs\n* **Forte fi\u00e8vre :** Fr\u00e9quent chez les jeunes enfants ou les personnes \u00e2g\u00e9es lors d'infections s\u00e9v\u00e8res.\n* **Le d\u00e9lirium (\u00e9tat confusionnel aigu) :** Tr\u00e8s fr\u00e9quent chez les patients \u00e2g\u00e9s hospitalis\u00e9s ou en r\u00e9animation, souvent d\u00fb \u00e0 une infection urinaire, pulmonaire ou post-op\u00e9ratoire.\n* **Effets secondaires de m\u00e9dicaments :** Certains antalgiques puissants (morphine), cortico\u00efdes, antid\u00e9presseurs ou m\u00e9dicaments antiparkinsoniens.\n* **Troubles m\u00e9taboliques s\u00e9v\u00e8res :** D\u00e9shydratation aigu\u00eb, hypoglyc\u00e9mie s\u00e9v\u00e8re, insuffisance h\u00e9patique ou r\u00e9nale avanc\u00e9e.\n\n---\n\n### 6. Les personnes ayant des d\u00e9ficits sensoriels\n* **Le syndrome de Charles Bonnet :** Concerne les personnes perdant la vue (DMLA, glaucome, cataracte s\u00e9v\u00e8re). Le cortex visuel, priv\u00e9 d'informations, produit des images complexes (personnages, paysages, motifs g\u00e9om\u00e9triques), sans qu'il n'y ait aucun trouble psychiatrique.\n* **Acouph\u00e8nes complexes :** Certaines personnes souffrant de surdit\u00e9 s\u00e9v\u00e8re peuvent \"entendre\" des m\u00e9lodies ou des bruits structur\u00e9s (hallucinations auditives musicales).\n\n---\n\n### En r\u00e9sum\u00e9\nL'hallucination est un **sympt\u00f4me** et non une maladie en soi. Elle indique simplement qu'un circuit c\u00e9r\u00e9bral traite une information sans stimulus externe r\u00e9el. \n\nToute apparition nouvelle d'hallucinations n\u00e9cessite une **consultation m\u00e9dicale rapide** pour en identifier l'origine (organique, m\u00e9dicamenteuse, toxique ou psychiatrique)."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "fra",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1660-01-01",
+              "to": "2025-12-31"
+            },
+            "answer": "Les \u00eatres vivants, comme les humains et les animaux.",
+            "source": "https://dictionnaire.lerobert.com/dis-moi-robert/raconte-moi-robert/top-10-mots-plus-etonnants/top-10-des-mots-nouveaux-du-petit-robert-edition-2026.html"
+          },
+          {
+            "date_range": {
+              "from": "2026-01-01",
+              "to": ""
+            },
+            "answer": "Les \u00eatres vivants, comme les humains et les animaux, ainsi que les syst\u00e8mes d'IA.",
+            "source": "https://dictionnaire.lerobert.com/dis-moi-robert/raconte-moi-robert/top-10-mots-plus-etonnants/top-10-des-mots-nouveaux-du-petit-robert-edition-2026.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Explain the meaning(s) of 'cloud'.",
+        "language": "eng",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "The word **\"cloud\"** has several distinct meanings depending on the context in which it is used. Here is a breakdown of its primary meanings:\n\n---\n\n### 1. Meteorology (Weather and Science)\n* **Literal Definition:** A visible mass of condensed water vapor floating in the atmosphere, typically high above the ground. \n* **Other Planetary Bodies:** In astronomy, \"clouds\" can refer to masses of gas and dust in space, such as **nebulae** (e.g., the Magellanic Clouds) or the dense atmospheres of gas giants like Jupiter and Venus.\n\n---\n\n### 2. Computing and Technology\n* **The Cloud:** A shorthand term for **cloud computing**. Instead of storing data and running programs on your local computer's hard drive, you store and access them via the internet on remote servers managed by companies like Amazon (AWS), Microsoft (Azure), or Google.\n* *Examples:* Storing photos on iCloud or Google Drive, streaming movies on Netflix, or using web-based software like Google Docs.\n\n---\n\n### 3. Figurative and Metaphorical Meanings\n* **A State of Gloom or Trouble:** A cloud can represent something that casts a shadow of sadness, worry, or suspicion over a person or situation.\n    * *Examples:* \"A cloud of suspicion,\" \"under a cloud of grief,\" or \"every cloud has a silver lining\" (meaning every bad situation has a hopeful aspect).\n* **A Swarm or Crowd:** A large, moving mass of flying insects, particles, or dust.\n    * *Example:* \"A cloud of gnats,\" \"a cloud of smoke,\" or \"a dust cloud.\"\n\n---\n\n### 4. Anatomy and Medicine\n* **Corneal Clouding:** In medicine, a \"cloud\" can refer to a hazy or opaque spot on the cornea of the eye that impairs vision.\n\n---\n\n### Summary\nAt its core, a **cloud** is **something that obscures, gathers, or floats**. Whether it is water vapor in the sky, data on a remote server, a swarm of insects, or a feeling of gloom, the common thread is a gathered mass that is often amorphous (shapeless) and obscures what is behind or beneath it."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "The word **\"cloud\"** has several meanings across different fields, functioning as both a noun and a verb. Here is a breakdown of its primary meanings:\n\n---\n\n### 1. Meteorology (The Literal Meaning)\n* **A visible mass of condensed water vapor:** Floating in the atmosphere, typically high above the ground (e.g., cumulus, stratus, or cirrus clouds).\n  * *Example:* \"Look at those dark **clouds**; it is definitely going to rain.\"\n\n---\n\n### 2. General / Figurative (A Dense Mass or Swarm)\n* **A large mass of particles in the air:** Smoke, dust, steam, or gas suspended together.\n  * *Example:* \"The old truck drove off in a **cloud** of dust.\"\n* **A large, moving group of insects, birds, or animals:**\n  * *Example:* \"A **cloud** of locusts descended upon the crops.\"\n* **An atmosphere of gloom, suspicion, or sadness:**\n  * *Example:* \"The news of the factory closing cast a **cloud** of sorrow over the whole town.\"\n  * *Idiom:* *\"Under a cloud\"* means to be under suspicion or out of favor.\n  * *Idiom:* *\"On cloud nine\"* means to be extremely happy.\n\n---\n\n### 3. Technology / Computing (The Cloud)\n* **Cloud Computing:** A global network of remote servers connected over the internet that operate as a single ecosystem. It is used to store and manage data, run applications, or deliver services instead of using a local computer's hard drive.\n  * *Types:* Public cloud, private cloud, hybrid cloud.\n  * *Examples:* Google Drive, iCloud, Amazon Web Services (AWS), Microsoft Azure.\n  * *Usage:* \"I back up all my photos to the **cloud** so I don't lose them if my phone breaks.\"\n\n---\n\n### 4. As a Verb (Actions)\n* **To become covered with clouds (literal):**\n  * *Example:* \"The sky began to **cloud** over by late afternoon.\"\n* **To make something unclear, opaque, or murky:**\n  * *Example:* \"Adding milk will **cloud** the tea.\"\n* **To impair judgment, memory, or understanding (figurative):**\n  * *Example:* \"Anger will only **cloud** your judgment.\"\n* **To make someone look worried, sad, or gloomy:**\n  * *Example:* \"A look of doubt **clouded** his face.\""
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "The word **\"cloud\"** has several distinct meanings, ranging from its original meteorological definition to modern technological terms and common figurative uses. \n\nHere is a breakdown of the primary meanings of \"cloud\":\n\n---\n\n### 1. Meteorological (Weather)\nIn its oldest and most literal sense, a cloud is a visible mass of condensed water vapor (millions of tiny water droplets or ice crystals) floating in the Earth's atmosphere, high above the ground. \n* **Science:** They form when warm air rises, cools, and moisture condenses around microscopic particles (like dust or pollen) in the air.\n* **Types:** Meteorologists classify them by their shape and altitude, such as *cumulus* (fluffy, cotton-like), *stratus* (layered, sheet-like), and *cirrus* (wispy, high-altitude).\n\n### 2. Technological (Cloud Computing)\nIn modern language, \"the cloud\" refers to servers accessed over the internet, and the software and databases running on those servers. \n* **Function:** Instead of storing data (photos, documents, music) on your computer's local hard drive or a physical USB stick, you store it on remote servers maintained by companies like Google, Microsoft, or Amazon. You can then access that data from anywhere with an internet connection.\n* **Origin of the name:** In early computer network diagrams, engineers used a hand-drawn fluffy cloud icon to represent the complex, unknown infrastructure of the internet. The name stuck.\n\n### 3. Figurative and Metaphorical Uses\nThe word is frequently used in metaphors to describe things that behave, look, or feel like a physical cloud:\n\n* **Trouble, Gloom, or Suspicion:** We often say someone has \"a dark cloud hanging over them\" to mean they are experiencing a period of sadness, bad luck, or depression. Similarly, if someone is suspected of a crime, they might be \"under a cloud.\"\n* **Obscuring or Confusing:** As a verb (*to cloud*), it means to make something unclear or harder to see. For example: *\"Alcohol clouded his judgment,\"* or *\"Tears clouded her vision.\"*\n* **A Dense Swarm or Mass:** A cloud can describe a large, moving group of small objects, particles, or living things. \n  * *Examples:* \"A cloud of dust,\" \"a cloud of gnats,\" or \"a cloud of smoke.\"\n\n### 4. Astronomical (Space)\nIn astronomy, a cloud refers to a **nebula**\u2014an immense interstellar cloud of dust, hydrogen, helium, and other ionized gases. These are often the birthplaces of new stars (stellar nurseries).\n\n---\n\n### Summary\n* **Nature:** A fluffy mass of water vapor in the sky.\n* **Tech:** Internet-based data storage and computing.\n* **Metaphor:** Trouble, a swarm, or something that blurs reality/judgment.\n* **Space:** A massive gathering of cosmic gas and dust."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "The word **\"cloud\"** is versatile in the English language, carrying literal, technological, figurative, and grammatical meanings. \n\nHere is a breakdown of its primary meanings:\n\n---\n\n### 1. The Literal (Meteorological) Meaning\n* **A mass of water vapor:** In nature, a cloud is a visible collection of tiny water droplets or ice crystals suspended in the atmosphere, usually high above the ground.\n  * *Example:* \"The sky was blue with a few white, fluffy **clouds**.\"\n  * *Types include:* Cumulus, stratus, cirrus, and cumulonimbus.\n\n---\n\n### 2. A Mass of Particles or Living Things\n* **Dust, smoke, or vapor:** A large, dense, billowing mass of airborne particles.\n  * *Example:* \"The explosion sent a **cloud** of black smoke into the air.\"\n* **A swarm:** A large, moving group of insects, birds, or other animals.\n  * *Example:* \"A **cloud** of locusts destroyed the crops.\"\n\n---\n\n### 3. Technology and Computing (\"The Cloud\")\n* **Remote computing and storage:** In modern tech, \"the Cloud\" refers to servers accessed over the internet, along with the software and databases running on those servers. Instead of storing data on your local hard drive, you store and access it online.\n  * *Origin:* It gets its name from network diagrams, where engineers traditionally drew a cloud shape to represent the internet or complex infrastructure.\n  * *Examples:* Cloud storage (iCloud, Google Drive, Dropbox) or cloud computing platforms (AWS, Microsoft Azure).\n  * *Example sentence:* \"I backed up all my photos to the **cloud**.\"\n\n---\n\n### 4. Figurative and Metaphorical Meanings\n* **Gloom, sadness, or trouble:** A lingering sense of unhappiness, danger, or impending disaster.\n  * *Example:* \"A **cloud** of sadness hung over the family after the bad news.\"\n* **Suspicion or disgrace:** Being distrusted or under scrutiny.\n  * *Example:* \"He left the company under a **cloud** of suspicion regarding missing funds.\"\n\n---\n\n### 5. As a Verb (\"To Cloud\")\nWhen used as an action, *to cloud* generally means to obscure, confuse, or darken something:\n* **Physically obscure:** \"Steam **clouded** the bathroom mirror.\"\n* **Confuse or impair judgment:** \"Don't let your personal feelings **cloud** your judgment.\"\n* **Become gloomy:** \"Her face **clouded** with anger when she heard the rumor.\"\n* **Weather:** \"The sky began to **cloud** over in the afternoon.\"\n\n---\n\n### 6. Common Idioms Featuring \"Cloud\"\n* **\"On cloud nine\":** Feeling extremely happy or euphoric.\n* **\"Head in the clouds\":** Daydreaming; being out of touch with reality or impractical.\n* **\"Every cloud has a silver lining\":** Even bad situations have something positive or hopeful in them.\n* **\"Under a cloud\":** In trouble or viewed with suspicion."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "eng",
+        "answers": [
+          {
+            "date_range": {
+              "from": "1300-01-01",
+              "to": "1992-12-31"
+            },
+            "answer": "A cloud is a mass of water vapour that floats in the sky. Clouds are usually white or grey in colour. A cloud of something such as smoke or dust is a mass of it floating in the air. ",
+            "source": "https://www.collinsdictionary.com/dictionary/english/cloud, https://www.etymonline.com/word/cloud"
+          },
+          {
+            "date_range": {
+              "from": "1993-01-01",
+              "to": ""
+            },
+            "answer": "A cloud is a mass of water vapour that floats in the sky. Clouds are usually white or grey in colour. A cloud of something such as smoke or dust is a mass of it floating in the air. The cloud is also the network of remote servers that is used in cloud computing.",
+            "source": "https://www.collinsdictionary.com/dictionary/english/cloud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad kallar man en Taylor Swift-fans pappa?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "Det finns inget officiellt svenskt ord f\u00f6r det, men precis som p\u00e5 engelska brukar man kalla dem f\u00f6r **\"Swiftie-pappor\"** (eller *Swiftie dads*). \n\nFenomenet \u00e4r s\u00e5 pass stort att de har blivit k\u00e4nda f\u00f6r en viss typ av beteende, till exempel:\n* Att de st\u00e5r med armarna i kors och ser skeptiska ut i b\u00f6rjan av konserten, men kan alla texterna i slutet.\n* Att de agerar villiga (och t\u00e5lmodiga) chauff\u00f6rer, v\u00e4skb\u00e4rare och bankomater.\n* Att de stolt byter *friendship bracelets* med andra fans.\n\nEtt annat roligt (och ganska passande) ordvits-svar p\u00e5 din fr\u00e5ga \u00e4r f\u00f6rst\u00e5s: **Tr\u00f6tt** (eller *fattig*). \ud83d\udcb8"
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "Det vanligaste och mest etablerade begreppet \u00e4r en **\"Swiftie Dad\"** (eller *Swiftie-pappa* p\u00e5 svenska). \n\nBegreppet har blivit ett eget fenomen under The Eras Tour f\u00f6r alla pappor som stolt f\u00f6ljer med p\u00e5 konserterna, g\u00f6r v\u00e4nskapsarmband och st\u00f6ttar sina barn.\n\n*(Taylor Swifts egen pappa, Scott Swift, brukar dessutom kallas f\u00f6r **\"Papa Swift\"** av fansen!)*"
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Man kan kalla honom en **Tay-pappa** (eller **Swift-pappa**)! \n\nEller, ifall man fr\u00e5gar d\u00f6ttrarna: **En bankomat med v\u00e4ldigt bra t\u00e5lamod.**"
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Det finns n\u00e5gra olika svar beroende p\u00e5 om du menar det officiella popkulturella begreppet eller ett sk\u00e4mt:\n\n1. **Det officiella fandom-namnet:** **\"Swiftie Dad\"** (eller f\u00f6rsvenskat: **\"Swif-far\"**). Det har blivit ett v\u00e4lk\u00e4nt fenomen, s\u00e4rskilt under *The Eras Tour*, d\u00e4r pappor stolt b\u00e4r tr\u00f6jor med texten \"Swiftie Dad\" och byter v\u00e4nskapsarmband med andra fans.\n\n2. **Den sk\u00e4mtsamma varianten:** \n* **\"Sponsorn\"** eller **\"Bankomaten\"** (med tanke p\u00e5 vad konsertbiljetterna och merchen kostar).\n* **\"Chauff\u00f6ren\"** (som sn\u00e4llt skjutsar, k\u00f6ar och v\u00e4ntar utanf\u00f6r arenan i timmar)."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "",
+              "to": "2023-12-31"
+            },
+            "answer": "det finns ingen officiell ben\u00e4mning f\u00f6r detta.",
+            "source": "https://www.isof.se/download/18.5da237811939564a5837dbfb/1734597757570/Nyordslistan%202024.pdf"
+          },
+          {
+            "date_range": {
+              "from": "2024-01-01",
+              "to": ""
+            },
+            "answer": "En swiftiepappa: en pappa som liksom sitt barn \u00e4r ett fan av Taylor Swif.",
+            "source": "https://www.isof.se/download/18.5da237811939564a5837dbfb/1734597757570/Nyordslistan%202024.pdf"
+          }
+        ]
+      }
+    ]
+  }
+]

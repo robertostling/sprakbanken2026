@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "How much do you need to earn in Sweden to qualify for a work permit?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "To qualify for a work permit in Sweden, the general rule is that **your salary must be at least equal to the median salary published by Statistics Sweden (SCB)** at the time of your application. \n\nAs of **June 18, 2024**, Sweden introduced a new, dynamic income requirement based on the latest median salary. \n\nHere are the key financial thresholds and rules:\n\n### 1. The Income Threshold\n* **Current Requirement:** You must earn at least **34,200 SEK per gross month** before taxes. \n* This amount is updated annually by the Swedish Migration Agency based on the official median salary in Sweden. \n* The salary must be considered \"good,\" meaning it must be in line with Swedish collective agreements or standard industry practices for your profession.\n\n### 2. Exceptions and Special Rules\nWhile the 34,200 SEK rule applies to most standard work permits, there are exceptions for certain groups:\n* **High-skilled workers / EU Blue Card:** May have different requirements, though the EU Blue Card also has specific salary thresholds (usually higher than the median salary).\n* **Seasonal workers:** Have different rules and are not subject to the standard median salary requirement.\n* **Researchers, athletes, and au pairs:** These groups have their own specific maintenance requirements rather than the standard median salary rule.\n* **Recent graduates / doctoral students in Sweden:** If you are transitioning from a student residence permit to a work permit, or are a PhD student, the Migration Agency sometimes applies slightly different evaluations, though you still generally need to meet standard collective agreement wages.\n\n### 3. What Counts Toward the Salary?\n* **Fixed monthly salary:** This is the primary factor the Migration Agency looks at.\n* **Benefits:** Certain taxable benefits (like free housing or company cars) may be included if specified in your employment contract, but cash salary is the safest and most standard way to meet the requirement.\n* **Overtime and variable pay:** Generally *not* counted reliably toward the guaranteed monthly threshold because the Migration Agency requires a stable, predictable monthly income.\n\n### Important Considerations:\n* **Part-time work:** If your position is part-time, your salary must still meet the proportional equivalent or the minimum threshold depending on the specific terms, but practically, part-time jobs often struggle to meet the strict 34,200 SEK floor unless the hourly rate is exceptionally high.\n* **Collective Agreements:** Even if an occupation's median salary is lower than the national median, your employer **must** pay you at least the minimum wage set by the relevant Swedish collective agreement (*kollektivavtal*) for that industry. If the collective agreement minimum is *higher* than 34,200 SEK, you must be paid the higher amount.\n\n*Note: Immigration rules and thresholds are updated periodically. It is always recommended to check the official website of the **Swedish Migration Agency (Migrationsverket)** for the most up-to-date figures before applying.*"
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "To qualify for a work permit in Sweden, your salary must meet a specific national threshold. \n\nAs of recent rule changes, Sweden no longer uses a flat, low-income threshold. Instead, the salary requirement is tied to the **median salary in Sweden**.\n\nHere are the current requirements:\n\n### 1. The 80% Median Salary Rule\nYou must earn at least **80% of Sweden\u2019s median salary** before taxes. \n* Statistics Sweden (SCB) calculates the median salary annually. \n* Based on the latest data, 80% of the median salary amounts to **28,480 SEK per month** (gross). \n* *Note:* This exact amount changes slightly every year when Statistics Sweden updates its median salary figures. You should always check the exact current figure on the Swedish Migration Agency (*Migrationsverket*) website when you apply.\n\n### 2. Collective Agreements and Industry Standards\nMeeting the 80% threshold (approx. 28,480 SEK) is the *absolute minimum*, but it might not be enough on its own. Your salary must also be **in line with Swedish collective agreements** (*kollektivavtal*) or what is considered standard for your specific profession and industry in Sweden. \n* If the standard salary for your job in Sweden is *higher* than the 80% threshold, your employer must pay you that higher, industry-standard rate. \n* If your employer tries to pay you below the standard rate for your industry, your work permit will be denied, even if you make more than 28,480 SEK.\n\n### 3. Other Employment Terms\nIn addition to the salary requirement, your employer must offer terms of employment (such as insurance, pension, and vacation days) that are equal to or better than Swedish collective agreements or industry standards.\n\n### Exceptions\nThere are different rules for certain specific groups, such as:\n* **EU/EEA citizens** (who do not need work permits).\n* **Seasonal workers** (who have separate regulations).\n* **Researchers, athletes, and intra-corporate transferees (ICT)**, who have slightly different criteria depending on their specific visa categories.\n\n*Recommendation: Because median salaries and exchange rates fluctuate, always verify the exact required SEK amount directly on the [Swedish Migration Agency (Migrationsverket)](https://www.migrationsverket.se) website before submitting an application.*"
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "To qualify for a work permit in Sweden, you must meet the **maintenance requirement** (good livelihood requirement) set by the Swedish Migration Agency (*Migrationsverket*). \n\nAs of **June 18, 2024**, the minimum salary requirement is **28,480 SEK per month** before taxes.\n\nHere are the key details you need to know:\n\n### 1. How the minimum is calculated\nThe law requires you to earn at least **80% of Sweden\u2019s median salary** (which is published annually by Statistics Sweden/SCB). \n* When the median salary is updated (usually around June each year), this threshold changes. \n* *Note: The Swedish government has proposed raising this requirement in the future to 100% of the median salary (which would be around 35,600 SEK), but as of mid-2024, the 80% rule applies.*\n\n### 2. Collective Agreement / Industry Standard Rule\nEven if your salary meets the 28,480 SEK minimum, your salary must **also** be on par with Swedish collective agreements or what is customary within your specific occupation or industry. \n* *Example:* If you work in an industry where the entry-level market salary is 35,000 SEK, you must be paid at least 35,000 SEK, not the lower 28,480 SEK baseline.\n\n### 3. Key Exceptions to the 28,480 SEK threshold\nThe minimum salary requirement does **not** apply to everyone. Lower salary limits apply to:\n* **EU Blue Card applicants:** They have a much higher threshold (1.5 times the average gross annual salary, which is currently **59,850 SEK/month**).\n* **Seasonal workers** (e.g., berry pickers).\n* **ICT permits** (Intra-Corporate Transferees).\n* **Researchers and PhD students**.\n* **Au pairs**.\n\n### Additional Requirements\nIn addition to the salary requirement, your employer must:\n* Provide employment terms (insurance, pension, vacation) that are at least on par with Swedish collective agreements.\n* Offer you occupational pension, health, life, and work injury insurance.\n* Have advertised the position in Sweden and the EU/EEA (via the Swedish Public Employment Service / EURES) for at least 10 days before hiring you (for new recruitments)."
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "To qualify for a standard work permit in Sweden, you must earn a minimum gross (pre-tax) salary of **28,480 SEK per month** (as of June 2024).\n\nHere is a breakdown of the rules and requirements regarding the salary threshold:\n\n---\n\n### 1. The 80% Median Salary Rule\nUnder current Swedish law, the maintenance requirement for a work permit is tied to **80% of the median salary in Sweden**, as published by Statistics Sweden (*SCB*):\n* **Current Median Salary:** 35,600 SEK/month\n* **Minimum Requirement (80%):** **28,480 SEK/month**\n\n*(Note: This threshold updates annually when new national median wage statistics are published, usually around June.)*\n\n---\n\n### 2. The \"Industry Standard\" Condition\nReaching the 28,480 SEK threshold is not always enough on its own. Your salary must **also** be on par with Swedish collective agreements (*kollektivavtal*) or standard market rates for your specific profession:\n* If the collective agreement/market standard for your role is **higher** than 28,480 SEK (e.g., software engineers, doctors, project managers), you must be paid the higher market rate.\n* If the collective agreement for your role is **lower** than 28,480 SEK, you must still be paid at least the 28,480 SEK legal minimum.\n\n---\n\n### 3. Other Types of Work Permits\nDifferent thresholds apply to specific work-related permits:\n\n* **EU Blue Card:** Requires a significantly higher salary\u2014at least 1.5 times the average gross annual salary in Sweden (currently **59,850 SEK/month**).\n* **Seasonal Workers:** Exempt from the 80% median rule, but must earn enough to support themselves and meet collective agreement rates.\n* **Researchers and PhD Students:** Covered under different permit regulations.\n\n---\n\n### 4. Additional Requirements\nIn addition to the salary requirement, your employer must:\n* Advertise the job in Sweden and the EU/EEA (via the Swedish Public Employment Service / *Arbetsf\u00f6rmedlingen*) for at least 10 days before hiring.\n* Provide employment terms on par with Swedish collective agreements.\n* Provide mandatory insurance coverage (health, life, occupational injury, and pension insurance)."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Hur mycket beh\u00f6ver man f\u00e5 i l\u00f6n f\u00f6r att kunna f\u00e5 arbetstillst\u00e5nd i Sverige?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "F\u00f6r att f\u00e5 arbetstillst\u00e5nd i Sverige finns det ett krav p\u00e5 att din l\u00f6n ska uppn\u00e5 en viss niv\u00e5. Det viktigaste att k\u00e4nna till \u00e4r att gr\u00e4nsen har h\u00f6jts kraftigt nyligen.\n\nSedan den **18 juni 2023** g\u00e4ller f\u00f6ljande regel:\n\n* **F\u00f6rs\u00f6rjningskravet \u00e4r 80 % av den medianl\u00f6n** som Statistiska centralbyr\u00e5n (SCB) publicerar f\u00f6r Sverige.\n\n### Vad blir det i pengar?\nSCB:s medianl\u00f6n uppdateras regelbundet. F\u00f6r n\u00e4rvarande (g\u00e4llande fr\u00e5n den 18 juni 2023 och tills vidare) ligger beloppet p\u00e5:\n\n* **34 200 kronor i m\u00e5naden** f\u00f6re skatt.\n* 80 % av detta blir **27 360 kronor i m\u00e5naden** f\u00f6re skatt.\n\nDu m\u00e5ste d\u00e4rf\u00f6r ha en bruttol\u00f6n (l\u00f6n f\u00f6re skatt) p\u00e5 **minst 27 360 kronor per m\u00e5nad** f\u00f6r att uppfylla l\u00f6nekravet f\u00f6r arbetstillst\u00e5nd (g\u00e4ller heltid). Om du arbetar deltid ber\u00e4knas beloppet proportionerligt.\n\n### Undantag och bra att veta:\n* **Kollektivavtal:** L\u00f6nen m\u00e5ste ocks\u00e5 uppfylla villkoren i svenskt kollektivavtal eller vad som \u00e4r \"kutym\" (standard) inom branschen. \u00c4ven om 27 360 kr \u00e4r den absoluta minimigr\u00e4nsen kan du beh\u00f6va ha en h\u00f6gre l\u00f6n om kollektivavtalet kr\u00e4ver det f\u00f6r ditt yrke.\n* **Tidigare tillst\u00e5nd:** Om du ans\u00f6ker om *f\u00f6rl\u00e4ngning* av ett arbetstillst\u00e5nd som beviljades f\u00f6re den 18 juni 2023 kan det finnas \u00f6verg\u00e5ngsregler (d\u00e5 g\u00e4llde det gamla kravet p\u00e5 13 000 kr/m\u00e5nad). Men f\u00f6r nya ans\u00f6kningar \u00e4r det den nya niv\u00e5n (80 % av medianl\u00f6nen) som g\u00e4ller utan undantag.\n\nDu kan alltid kontrollera de exakta och uppdaterade beloppen p\u00e5 **Migrationsverkets hemsida**, d\u00e5 de justeras n\u00e4r SCB publicerar ny l\u00f6nestatistik."
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "F\u00f6r att f\u00e5 ett arbetstillst\u00e5nd i Sverige m\u00e5ste l\u00f6nen uppfylla **tv\u00e5 krav**: det allm\u00e4nna f\u00f6rs\u00f6rjningskravet (ett fast l\u00f6negolv) samt kravet p\u00e5 kollektivavtalsenlig l\u00f6n.\n\nH\u00e4r \u00e4r vad som g\u00e4ller:\n\n### 1. Det generella l\u00f6negolvet (F\u00f6rs\u00f6rjningskravet)\nSedan den 1 november 2023 m\u00e5ste l\u00f6nen uppg\u00e5 till minst **80 procent av den svenska medianl\u00f6nen**. \n\n* **Nuvarande krav (fr\u00e5n 18 juni 2024):** Minst **28 480 kr i m\u00e5naden** f\u00f6re skatt.\n*(Medianl\u00f6nen i Sverige fastst\u00e4lls \u00e5rligen av SCB. N\u00e4r SCB uppdaterar medianl\u00f6nen justerar Migrationsverket detta belopp, vilket oftast sker i juni varje \u00e5r).*\n\nL\u00f6nen m\u00e5ste komma fr\u00e5n **en och samma anst\u00e4llning** (man kan allts\u00e5 inte kombinera tv\u00e5 deltidsjobb f\u00f6r att n\u00e5 upp till summan) och g\u00e4lla f\u00f6r den \u00f6verenskomna arbetstiden.\n\n### 2. Kollektivavtalsenlig l\u00f6n (Branschpraxis)\nL\u00f6nen m\u00e5ste **dessutom** vara i niv\u00e5 med svenska kollektivavtal eller vad som \u00e4r praxis inom yrket eller branschen. \n\n* *Exempel:* Om medianl\u00f6nen f\u00f6r ditt specifika yrke enligt kollektivavtal \u00e4r 35 000 kr/m\u00e5nad, r\u00e4cker det inte att arbetsgivaren erbjuder 28 480 kr. Du m\u00e5ste d\u00e5 f\u00e5 minst 35 000 kr.\n* Om kollektivavtalsl\u00f6nen f\u00f6r ett yrke \u00e4r 25 000 kr, m\u00e5ste arbetsgivaren \u00e4nd\u00e5 h\u00f6ja l\u00f6nen till minst 28 480 kr f\u00f6r att du ska kunna f\u00e5 arbetstillst\u00e5nd.\n\n---\n\n### Undantag fr\u00e5n l\u00f6negolvet\nKravet p\u00e5 28 480 kr g\u00e4ller **inte** f\u00f6r alla grupper. F\u00f6ljande har undantag:\n* **S\u00e4songsarbetare** (t.ex. b\u00e4rplockare eller s\u00e4songspersonal inom turism).\n* **ICT-tillst\u00e5nd** (f\u00f6retagsintern f\u00f6rflyttning) och **EU-bl\u00e5kort** (EU-bl\u00e5kort har dock ett *h\u00f6gre* l\u00f6nekrav, f\u00f6r n\u00e4rvarande minst 59 850 kr/m\u00e5nad under 2024).\n* **Professionella idrottare och tr\u00e4nare**.\n* **Au pairer**.\n\n---\n\n### \u00d6vriga villkor som m\u00e5ste uppfyllas:\nF\u00f6rutom l\u00f6nen kr\u00e4vs det att:\n* Anst\u00e4llningen omfattar f\u00f6rs\u00e4kringar (sjuk-, liv-, trygghets- och tj\u00e4nstepensionsf\u00f6rs\u00e4kring) i niv\u00e5 med kollektivavtal.\n* Tj\u00e4nsten har annonserats i Sverige och inom EU/EES (via Arbetsf\u00f6rmedlingen/Platsbanken) i minst 10 dagar innan ans\u00f6kan g\u00f6rs (g\u00e4ller nya anst\u00e4llningar).\n* Ber\u00f6rt fackf\u00f6rbund har f\u00e5tt m\u00f6jlighet att yttra sig \u00f6ver anst\u00e4llningsvillkoren."
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "F\u00f6r att f\u00e5 arbetstillst\u00e5nd i Sverige (fr\u00e5n och med den 18 juni 2024) m\u00e5ste du ha en m\u00e5nadsl\u00f6n p\u00e5 minst **28 480 kronor** f\u00f6re skatt.\n\nDetta baseras p\u00e5 det h\u00f6jda f\u00f6rs\u00f6rjningskravet som inf\u00f6rdes i november 2023, vilket inneb\u00e4r att l\u00f6nen m\u00e5ste uppg\u00e5 till minst **80 procent av den svenska medianl\u00f6nen** (enligt SCB). \n\n---\n\n### Tv\u00e5 viktiga regler att h\u00e5lla koll p\u00e5:\n\n1. **L\u00f6nen m\u00e5ste vara minst 28 480 kr/m\u00e5nad (det generella golvet)**  \n   Oavsett vilket yrke det g\u00e4ller kan du inte f\u00e5 ett vanligt arbetstillst\u00e5nd om l\u00f6nen understiger denna summa.\n\n2. **L\u00f6nen m\u00e5ste f\u00f6lja kollektivavtal eller praxis i branschen**  \n   Om minimil\u00f6nen enligt kollektivavtal f\u00f6r just ditt yrke \u00e4r *h\u00f6gre* \u00e4n 28 480 kr (t.ex. 32 000 kr), \u00e4r det den **h\u00f6gre summan** som g\u00e4ller. Du kan allts\u00e5 inte erbjudas 28 480 kr om branschstandarden kr\u00e4ver mer.\n\n---\n\n### Undantag fr\u00e5n 80-procentsregeln\n\nKravet p\u00e5 28 480 kr g\u00e4ller inte f\u00f6r alla typer av tillst\u00e5nd. H\u00e4r \u00e4r n\u00e5gra undantag:\n\n* **EU-bl\u00e5kort (EU Blue Card):** F\u00f6r h\u00f6gkvalificerad arbetskraft \u00e4r l\u00f6nekravet betydligt h\u00f6gre \u2013 1,5 g\u00e5nger medianl\u00f6nen (vilket motsvarar **59 850 kr/m\u00e5nad** under 2024).\n* **S\u00e4songsarbetare:** Omfattas inte av 80-procentskravet, men l\u00f6nen m\u00e5ste f\u00f6lja kollektivavtal.\n* **ICT-tillst\u00e5nd (f\u00f6retagsintern f\u00f6rflyttning), forskare, doktorander och au pair:** Har egna regelverk.\n\n---\n\n### \u00d6vriga krav f\u00f6r arbetstillst\u00e5nd\nUt\u00f6ver l\u00f6nen kr\u00e4vs det ocks\u00e5 att:\n* Arbetsgivaren tecknar **f\u00f6rs\u00e4kringar** (sjuk-, liv-, trygghets- och tj\u00e4nstepensionsf\u00f6rs\u00e4kring) p\u00e5 samma niv\u00e5 som svenskt kollektivavtal.\n* Tj\u00e4nsten har varit utannonserad inom EU/EES (via Arbetsf\u00f6rmedlingen/Platsbanken) i minst 10 dagar innan anst\u00e4llningserbjudandet gavs."
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "F\u00f6r att f\u00e5 arbetstillst\u00e5nd i Sverige finns det ett lagstadgat l\u00f6nekrav (f\u00f6rs\u00f6rjningskrav). \n\nRegeln inneb\u00e4r att l\u00f6nen m\u00e5ste uppg\u00e5 till **minst 80 % av den genomsnittliga medianl\u00f6nen i Sverige**, vilket i praktiken inneb\u00e4r:\n\n* **Minsta bruttol\u00f6n:** **28 480 kronor per m\u00e5nad** (f\u00f6re skatt).\n\nDetta belopp \u00e4r baserat p\u00e5 den medianl\u00f6n som Statistiska centralbyr\u00e5n (SCB) har fastst\u00e4llt och g\u00e4ller sedan den 1 november 2023.\n\n### Viktiga undantag och regler att k\u00e4nna till:\n\n1. **Kollektivavtal eller praxis:** Om det finns ett kollektivavtal inom branschen, eller om praxis f\u00f6r yrket \u00e4r h\u00f6gre \u00e4n 28 480 kr, s\u00e5 \u00e4r det **den h\u00f6gre l\u00f6nen som g\u00e4ller**. L\u00f6nen f\u00e5r aldrig underskrida kollektivavtalets niv\u00e5, \u00e4ven om den \u00f6verstiger Migrationsverkets minimigr\u00e4ns.\n2. **Heltid:** L\u00f6nekravet g\u00e4ller som regel f\u00f6r en heltidsanst\u00e4llning. \n3. **Inga f\u00f6rm\u00e5ner r\u00e4knas in:** Det \u00e4r den kontanta l\u00f6nen (grundl\u00f6nen) som r\u00e4knas. F\u00f6rs\u00e4kringar, boende eller andra personalf\u00f6rm\u00e5ner r\u00e4knas i regel inte in i sj\u00e4lva l\u00f6nebeloppet f\u00f6r att uppn\u00e5 kravet.\n4. **Uppdateringar:** Migrationsverket uppdaterar beloppet n\u00e4r SCB sl\u00e4pper ny statistik \u00f6ver medianl\u00f6nen i Sverige.\n\n*Tips: Eftersom regler och belopp kan justeras av Migrationsverket \u00e4r det alltid klokt att dubbelkolla den exakt dagsaktuella summan direkt p\u00e5 [Migrationsverkets webbplats](https://www.migrationsverket.se) innan en ans\u00f6kan skickas in.*"
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "2026-06-01",
+          "answer": "At least 90 percent of the median salary in Sweden at the time of application.",
+          "source": "https://www.migrationsverket.se/en/word-explanations/salary-requirements-for-a-work-permit.html"
+        },
+        {
+          "date": "2025-01-01",
+          "answer": "At least 80 percent of the median salary in Sweden at the time of application.",
+          "source": "https://www.migrationsverket.se/nyheter/news-archive/2026-04-17-new-rules-for-work-permits-from-1-june-2026.html"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2026-06-01",
+          "answer": "Minst 90 procent av medianl\u00f6nen i Sverige vid tidpunkten f\u00f6r ans\u00f6kan.",
+          "source": "https://www.migrationsverket.se/ordforklaringar/lonekrav-for-arbetstillstand.html"
+        },
+        {
+          "date": "2025-01-01",
+          "answer": "Minst 80 procent av medianl\u00f6nen i Sverige vid tidpunkten f\u00f6r ans\u00f6kan.",
+          "source": "https://www.migrationsverket.se/nyheter/nyhetsarkiv/2026-04-17-nya-regler-for-arbetstillstand-fran-1-juni-2026.html"
+        }
+      ]
+    }
+  ]
+}

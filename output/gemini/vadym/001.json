@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "How many years do you need to live in Sweden to qualify for a citizenship as a stateless person?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "To qualify for Swedish citizenship as a stateless person, you generally need to have been a permanent resident and lived in Sweden for **4 years**, compared to the standard 5 years required for most other foreign citizens. \n\nHere are the key conditions you must meet:\n\n1. **Proof of Statelessness:** You must be officially recognized as stateless (e.g., by the Swedish Migration Agency / *Migrationsverket*) or be able to prove through documentation that you do not hold citizenship in any country.\n2. **Permanent Residence:** You must hold a permanent residence permit (*permanent uppeh\u00e5llstillst\u00e5nd*) or a residence status for stateless persons. \n3. **Habitual Residence (The 4-year rule):** You must have legally lived in Sweden for the past 4 consecutive years. \n4. **Scrutiny of Identity:** You must be able to satisfactorily prove your identity. (Sweden recognizes that stateless persons often cannot get passports from a home country, so alternative documentation is accepted, but your identity still must be established).\n5. **Concordant Behavior (Lived a respectable life):** You are expected to have abided by Swedish laws and not have a significant criminal record or unpaid debts.\n\n*Note: The time spent in Sweden while waiting for your asylum/residence application to be processed usually counts toward your 4 years, provided you held a legal right to stay in the country during that time.*"
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "If you are recognized as a stateless person, you generally need to have lived in Sweden with a valid residence permit for at least **4 consecutive years** to qualify for Swedish citizenship (naturalization). \n\nThis is shorter than the standard requirement for most foreign citizens, which is 5 years. \n\n### Key Requirements to Apply:\n1. **Habitual Residence (*Hemvist*):** You must have lived in Sweden continuously for at least 4 years. The time is usually counted from the day you received your permanent residence permit (or applied for asylum, if you were granted a refugee/stateless status based on that application).\n2. **Permanent Residence Permit (*PUT*):** You must have a permanent residence permit or a right of residence at the time of application.\n3. **Identity Verification:** You must be able to verify your identity. If you cannot do this with official documents due to being stateless, you can qualify if you have lived in Sweden for at least **8 consecutive years**, provided your stated identity is deemed credible.\n4. **Good Conduct (*Hedeligt levnadss\u00e4tt*):** You must have lived an orderly life in Sweden (i.e., no unpaid debts with the Enforcement Authority (*Kronofogden*) and no criminal record)."
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "To qualify for Swedish citizenship as a stateless person, you generally need to live in Sweden for **4 years**. \n\nThis is shorter than the standard 5-year requirement for most other foreign nationals, as Sweden grants certain concessions to stateless individuals (often aligning them with recognized refugees under the 1954 Convention Relating to the Status of Stateless Persons).\n\nHowever, simply living there for 4 years is not enough. You must also meet several other requirements set by the Swedish Migration Agency (*Migrationsverket*):\n\n1. **Permanent Residence:** You must hold a permanent residence permit (*permanent uppeh\u00e5llstillst\u00e5nd*) or a residence status declaration as a stateless person.\n2. **Proof of Identity:** You must be able to prove who you are. Because stateless people often cannot obtain a passport from a home country, Sweden allows for alternative ways to establish identity, though the Migration Agency still requires reliable documentation or strong evidence.\n3. **Age:** You must generally be an adult (though children can sometimes be included in a parent's application or have simplified rules).\n4. **Good Conduct:** You must have a clean criminal record and no unpaid debts or taxes in Sweden.\n\n*Note: Requirements can occasionally change based on new legislation, so it is always best to check the official [Swedish Migration Agency (Migrationsverket)](https://www.migrationsverket.se) website for the most up-to-date information before applying.*"
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "As a stateless person, you generally need to have lived continuously in Sweden for **at least 4 years** with a valid residence permit to qualify for Swedish citizenship (naturalization). \n\nThis is shorter than the standard requirement for most foreign citizens, which is 5 years.\n\n---\n\n### Key Requirements to Qualify:\n1. **Time of Residence (*Hemvisttid*):** 4 continuous years of legal, habitual residence in Sweden.\n2. **Residence Permit:** You must hold a **Permanent Residence Permit (PUT)** or a permanent right of residence at the time you apply.\n3. **Identity Verification:** You must be able to prove your identity, or at least have had your claimed identity accepted for a sufficient period.\n4. **Good Conduct (*Hederligt levnadss\u00e4tt*):** You must not have an unpaid debt with the Swedish Enforcement Authority (*Kronofogden*) or a serious criminal record.\n\n---\n\n### Special Rules for Stateless Children\nIf the stateless person is a child, the requirements are significantly shorter through the **notification (*anm\u00e4lan*)** process:\n* **Born in Sweden:** A stateless child born in Sweden who holds a permanent residence permit can become a citizen after living in Sweden for **2 years** (or immediately if applying before age 5 under certain conditions).\n* **Born outside Sweden:** A stateless child who holds a permanent residence permit can become a citizen after living in Sweden for **3 years**.\n\n*(Note: The Swedish government is currently proposing stricter citizenship laws under the Tid\u00f6 Agreement, which may increase residency requirements in the future, but the current legal standard for stateless adults remains **4 years**).*"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Hur l\u00e4nge m\u00e5ste en statl\u00f6s person ha bott i Sverige f\u00f6r att kunna bli svensk medborgare?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "F\u00f6r en statl\u00f6s person g\u00e4ller kortare tids krafter (s\u00e5 kallad hemvisttid) f\u00f6r att bli svensk medborgare j\u00e4mf\u00f6rt med andra utl\u00e4nningar. \n\nEn statl\u00f6s person m\u00e5ste ha haft sitt **permanent uppeh\u00e5llstillst\u00e5nd (PUT)** och ha bott i Sverige i **4 \u00e5r**. \n\nSom en j\u00e4mf\u00f6relse \u00e4r det normala kravet 5 \u00e5r f\u00f6r personer med medborgarskap i ett annat land (och \u00e4nnu l\u00e4ngre f\u00f6r vissa grupper, beroende p\u00e5 samordningsnummer eller tidigare brottslighet).\n\n**Sammanfattning av grundkraven f\u00f6r statl\u00f6sa:**\n1. Styrka sin identitet (eller g\u00f6ra det sannolikt att man \u00e4r statl\u00f6s, vilket kan vara sv\u00e5rt men Migrationsverket har f\u00f6rst\u00e5else f\u00f6r att det saknas pass).\n2. Ha permanent uppeh\u00e5llstillst\u00e5nd (PUT).\n3. Ha **bott i Sverige i 4 \u00e5r** med uppeh\u00e5llstillst\u00e5nd.\n4. Ha levt ett sk\u00f6tsamt liv i Sverige."
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "F\u00f6r att en statsl\u00f6s person ska kunna bli svensk medborgare (genom naturalisation/ans\u00f6kan) g\u00e4ller generellt att personen m\u00e5ste ha bott i Sverige med permanent uppeh\u00e5llstillst\u00e5nd i minst **4 \u00e5r**. \n\nDetta \u00e4r ett \u00e5r kortare \u00e4n huvudregeln, som \u00e4r 5 \u00e5r f\u00f6r de flesta andra utl\u00e4ndska medborgare.\n\n### F\u00f6ruts\u00e4ttningar och undantag:\n\n1. **Vuxna (ans\u00f6kan):**\n   * Minst **4 \u00e5rs** sammanh\u00e4ngande hemvist (bos\u00e4ttning) i Sverige med giltigt uppeh\u00e5llstillst\u00e5nd (oftast permanent uppeh\u00e5llstillst\u00e5nd, PUT).\n   * Personen m\u00e5ste ha styrkt sin identitet och levt ett hederligt liv (inte ha beg\u00e5tt brott eller ha skulder hos Kronofogden).\n\n2. **Barn och unga (anm\u00e4lan \u2013 enklare f\u00f6rfarande):**\n   * F\u00f6r statsl\u00f6sa barn som \u00e4r f\u00f6dda i Sverige eller kom hit tidigt finns s\u00e4rskilt f\u00f6rm\u00e5nliga regler. \n   * Ett statsl\u00f6st barn kan ofta bli svensk medborgare genom en enkel *anm\u00e4lan* redan efter **3 \u00e5rs** hemvist (eller 2 \u00e5r om barnet \u00e4r f\u00f6tt i Sverige och har permanent uppeh\u00e5llstillst\u00e5nd).\n\n*Observera att kraven kan p\u00e5verkas av om personen \u00e4r gift/sambo med en svensk medborgare (vilket i vissa fall kan f\u00f6rkorta tiden ytterligare) samt att lagstiftningen kring medborgarskap f\u00f6r n\u00e4rvarande utreds och kan komma att sk\u00e4rpas i framtiden.*"
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "F\u00f6r en statl\u00f6s person \u00e4r kravet p\u00e5 boendetid (hemvist) i Sverige **4 \u00e5r**. \n\nDetta \u00e4r kortare \u00e4n f\u00f6r de flesta andra vuxna utl\u00e4nningar, som vanligtvis m\u00e5ste ha bott i Sverige i 5 \u00e5r f\u00f6r att kunna bli svenska medborgare.\n\nF\u00f6rutom att ha bott i Sverige i 4 \u00e5r med r\u00e4tt typ av uppeh\u00e5llstillst\u00e5nd (exempelvis permanent uppeh\u00e5llstillst\u00e5nd) beh\u00f6ver en statl\u00f6s person ocks\u00e5 uppfylla vissa andra grundl\u00e4ggande krav fr\u00e5n Migrationsverket, till exempel:\n* **Kunna styrka sin identitet:** F\u00f6r statl\u00f6sa kan detta ibland vara sv\u00e5rt (eftersom de saknar hemland som kan utf\u00e4rda pass), och Migrationsverket har d\u00e4rf\u00f6r vissa alternativa regler f\u00f6r hur identiteten kan styrkas.\n* **Sk\u00f6tsamhet:** Man f\u00f6rv\u00e4ntas leva ett sk\u00f6tsamt liv i Sverige (det vill s\u00e4ga inte vara d\u00f6mnd till gr\u00f6vre brott eller ha stora obetalda skulder). \n\n*(Obs: Om det g\u00e4ller ett barn f\u00f6tt i Sverige som \u00e4r statl\u00f6st g\u00e4ller \u00e4nnu mildare regler, och i vissa fall kan barnet f\u00e5 svenskt medborgarskap direkt vid f\u00f6dseln eller efter en kortare tid om barnet saknar andra medborgarskap).*"
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "Huvudregeln \u00e4r att en statsl\u00f6s person m\u00e5ste ha bott i Sverige i minst **4 sammanh\u00e4ngande \u00e5r** f\u00f6r att kunna ans\u00f6ka om och bli svensk medborgare (genom s\u00e5 kallad *naturalisation*).\n\nDetta \u00e4r ett undantag fr\u00e5n den generella regeln, som annars kr\u00e4ver 5 \u00e5rs hemvist i Sverige. \n\n### \u00d6vriga krav som ocks\u00e5 m\u00e5ste vara uppfyllda:\nF\u00f6rutom att ha bott i Sverige i 4 \u00e5r (hemvisttid) m\u00e5ste personen \u00e4ven:\n1. **Ha permanent uppeh\u00e5llstillst\u00e5nd (PUT)**, permanent uppeh\u00e5llsr\u00e4tt (PUR) eller permanent uppeh\u00e5llskort (PUK).\n2. **Kunna styrka sin identitet** (eller ha gjort sin uppgivna identitet sannolik under en viss tid).\n3. **Ha levt ett hederligt liv i Sverige** (inte ha beg\u00e5tt brott eller ha obetalda skulder hos Kronofogden).\n\n---\n\n### Undantag och s\u00e4rskilda regler:\n* **Gift eller sambo med en svensk medborgare:** Om personen har varit gift eller sambo med en svensk medborgare i minst 2 \u00e5r (och den svenska partnern varit medborgare i minst 2 \u00e5r), kan det r\u00e4cka med att ha bott i Sverige i **3 \u00e5r**.\n* **Statl\u00f6sa barn f\u00f6dda i Sverige:** F\u00f6r statsl\u00f6sa barn som f\u00f6ds i Sverige g\u00e4ller s\u00e4rskilda och betydligt enklare regler via en s\u00e5 kallad *anm\u00e4lan*, d\u00e4r kraven p\u00e5 boendetid kan vara l\u00e4gre."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "2025-01-01",
+          "answer": "4 years.",
+          "source": "https://www.migrationsverket.se/en/you-want-to-apply/swedish-citizenship/citizenship-for-adults/citizenship-for-adults.html"
+        },
+        {
+          "date": "2026-06-06",
+          "answer": "5 years.",
+          "source": "https://www.migrationsverket.se/en/you-want-to-apply/swedish-citizenship/citizenship-for-adults/citizenship-for-adults.html"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2025-01-01",
+          "answer": "4 \u00e5r.",
+          "source": "https://www.migrationsverket.se/en/you-want-to-apply/swedish-citizenship/citizenship-for-adults/citizenship-for-adults.html"
+        },
+        {
+          "date": "2026-06-06",
+          "answer": "5 \u00e5r.",
+          "source": "https://www.migrationsverket.se/en/you-want-to-apply/swedish-citizenship/citizenship-for-adults/citizenship-for-adults.html"
+        }
+      ]
+    }
+  ]
+}

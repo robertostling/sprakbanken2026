@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Which city is Ukraine's main seaport and transport hub?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "The main seaport and transport hub of Ukraine is **Odesa**. \n\nLocated on the northwestern coast of the Black Sea, Odesa handles the vast majority of Ukraine's maritime trade, particularly grain and metal exports, making it critical to both the Ukrainian and global economies."
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "**Odesa** (also spelled Odessa) is Ukraine's main seaport and transport hub. Located on the northwestern shore of the Black Sea, it handles the vast majority of Ukraine's maritime trade and serves as a crucial economic and transportation center for the country."
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "The city is **Odesa** (also spelled Odessa). \n\nLocated on the Black Sea coast in southwestern Ukraine, Odesa is the country's largest and most important seaport, as well as a major commercial, rail, and maritime transport hub."
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "**Odesa** (also spelled Odessa) is Ukraine's main seaport and a major transport hub. Located on the Black Sea coast in southwestern Ukraine, it is the country's largest commercial port and a critical center for maritime trade, railways, and highways."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Vad heter Ukrainas viktigaste hamnstad?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "Ukrainas viktigaste hamnstad \u00e4r **Odessa**. \n\nStaden ligger vid Svarta havet och \u00e4r absolut avg\u00f6rande f\u00f6r landets ekonomi och sj\u00f6fart, inte minst f\u00f6r exporten av spannm\u00e5l och andra varor."
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "Ukrainas viktigaste hamnstad heter **Odesa** (ibland \u00e4ven stavat Odessa). Den ligger vid Svarta havet och \u00e4r landets ekonomiska nav f\u00f6r sj\u00f6fart och utrikeshandel, s\u00e4rskilt k\u00e4nd f\u00f6r sin betydelse f\u00f6r exporten av spannm\u00e5l."
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "Ukrainas viktigaste hamnstad heter **Odesa** (eller Odessa). Den ligger vid Svarta havet och \u00e4r landets st\u00f6rsta och mest betydelsefulla hamn f\u00f6r b\u00e5de handel och sj\u00f6fart."
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "Ukrainas viktigaste hamnstad heter **Odesa** (stavas \u00e4ven ofta **Odessa** p\u00e5 svenska). \n\nStaden ligger vid Svarta havet och \u00e4r landets st\u00f6rsta och mest betydelsefulla knutpunkt f\u00f6r sj\u00f6fart och handel, inte minst f\u00f6r den ukrainska spannm\u00e5lsexporten."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "1991-08-24",
+          "answer": "Odessa",
+          "source": "https://en.wikipedia.org/wiki/Odesa"
+        },
+        {
+          "date": "2012-04-01",
+          "answer": "Odesa",
+          "source": "https://en.wikipedia.org/wiki/Odesa"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "1991-08-24",
+          "answer": "Odessa",
+          "source": "https://sv.wikipedia.org/wiki/Odessa"
+        },
+        {
+          "date": "2026-07-02",
+          "answer": "Odesa",
+          "source": "https://www.regeringen.se/pressmeddelanden/2026/07/kiev-blir-kyjiv-och-odessa-blir-odesa/"
+        }
+      ]
+    }
+  ]
+}

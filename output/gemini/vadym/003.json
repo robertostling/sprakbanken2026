@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Hur stor l\u00f6n beh\u00f6ver man ha f\u00f6r att f\u00e5 EU-bl\u00e5kort i Sverige?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "F\u00f6r att beviljas ett EU-bl\u00e5kort (EU Blue Card) i Sverige kr\u00e4vs att du har en m\u00e5nadsl\u00f6n som motsvarar minst **1,5 g\u00e5nger den svenska genomsnittliga brutto\u00e5rsl\u00f6nen**.\n\nL\u00f6nekravet uppdateras en g\u00e5ng per \u00e5r (vanligtvis under sommaren) av Migrationsverket och baseras p\u00e5 statistik fr\u00e5n Medlingsinstitutet.\n\n### Aktuellt l\u00f6nekrav (g\u00e4ller fr\u00e5n 24 juni 2024):\n* **62 850 kronor i m\u00e5naden** (f\u00f6re skatt).\n\n### Ytterligare krav f\u00f6r EU-bl\u00e5kort:\nUt\u00f6ver l\u00f6nekravet m\u00e5ste du \u00e4ven uppfylla f\u00f6ljande:\n1. **H\u00f6gskoleutbildning eller yrkeserfarenhet:** Du m\u00e5ste ha en avslutad universitets- eller h\u00f6gskoleutbildning motsvarande minst 180 h\u00f6gskolepo\u00e4ng (en kandidatexamen/bachelor), *eller* minst 5 \u00e5rs relevant yrkeserfarenhet p\u00e5 avancerad niv\u00e5.\n2. **Anst\u00e4llningsavtal:** Du m\u00e5ste ha ett skriftligt anst\u00e4llningsavtal eller ett bindande jobberbjudande f\u00f6r ett h\u00f6gkvalificerat arbete som g\u00e4ller i minst 6 m\u00e5nader.\n3. **F\u00f6rs\u00e4kringar:** Arbetsgivaren m\u00e5ste teckna sjukf\u00f6rs\u00e4kring, livf\u00f6rs\u00e4kring, trygghetsf\u00f6rs\u00e4kring vid arbetsskada och tj\u00e4nstepensionsf\u00f6rs\u00e4kring f\u00f6r dig s\u00e5 snart anst\u00e4llningen p\u00e5b\u00f6rjas.\n4. **Reglerat yrke:** Om yrket \u00e4r reglerat i Sverige (t.ex. l\u00e4kare eller advokat) m\u00e5ste du ha n\u00f6dv\u00e4ndiga beh\u00f6righeter och legitimationer."
+          ]
+        },
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "F\u00f6r att f\u00e5 ett EU-bl\u00e5kort i Sverige kr\u00e4vs det att du har en m\u00e5nadsl\u00f6n som uppn\u00e5r ett visst minimibelopp. \n\nEnligt Migrationsverkets regler ska bruttol\u00f6nen (l\u00f6n f\u00f6re skatt) uppg\u00e5 till **minst 1,5 g\u00e5nger den genomsnittliga bruttom\u00e5nadsl\u00f6nen i Sverige**.\n\nSiffran uppdateras \u00e5rligen baserat p\u00e5 statistik fr\u00e5n Statistiska centralbyr\u00e5n (SCB). F\u00f6r ans\u00f6kningar som l\u00e4mnas in g\u00e4ller f\u00f6ljande:\n\n* **Krav:** 1,5 g\u00e5nger genomsnittsl\u00f6nen.\n* **Ungef\u00e4rlig niv\u00e5:** Den genomsnittliga m\u00e5nadsl\u00f6nen i Sverige ligger en bit \u00f6ver 38 000 kr, vilket inneb\u00e4r att l\u00f6nekravet f\u00f6r EU-bl\u00e5kort brukar hamna kring **cirka 58 000 \u2013 60 000 kr per m\u00e5nad** (f\u00f6re skatt). \n\n*Obs! Eftersom SCB:s genomsnittsl\u00f6n \u00e4ndras varje \u00e5r, b\u00f6r du alltid kontrollera det exakta beloppet direkt p\u00e5 **Migrationsverkets hemsida** innan du ans\u00f6ker.*\n\n**F\u00f6rutom l\u00f6nen kr\u00e4vs det ocks\u00e5 att du uppfyller f\u00f6ljande f\u00f6r att f\u00e5 EU-bl\u00e5kort:**\n1. **H\u00f6gre utbildning:** Du m\u00e5ste ha en eftergymnasial yrkesutbildning som omfatttar minst tre \u00e5r (kandidatexamen eller motsvarande), eller minst fem \u00e5rs yrkeserfarenhet p\u00e5 en h\u00f6g niv\u00e5 inom ditt yrke.\n2. **Anst\u00e4llningsavtal:** Ett giltigt anst\u00e4llningsavtal eller ett bindande anst\u00e4llningserbjudande f\u00f6r kvalificerat arbete i Sverige som g\u00e4ller i minst sex m\u00e5nader.\n3. **Yrkeserfarenhet/Kvalifikationer:** F\u00f6r vissa reglerade yrken kr\u00e4vs s\u00e4rskilda bevis.\n4. **Sjukf\u00f6rs\u00e4kring:** En helt\u00e4ckande sjukf\u00f6rs\u00e4kring (om du inte omfattas av den svensk allm\u00e4nna sjukv\u00e5rden genom din anst\u00e4llning)."
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "F\u00f6r att beviljas ett **EU-bl\u00e5kort (EU Blue Card)** i Sverige kr\u00e4vs f\u00f6r n\u00e4rvarande en bruttol\u00f6n p\u00e5 minst **59 850 kronor per m\u00e5nad** (g\u00e4ller f\u00f6r 2024).\n\n### Hur ber\u00e4knas beloppet?\nL\u00f6nekravet \u00e4r lagstadgat och motsvarar **1,5 g\u00e5nger den genomsnittliga brutto\u00e5rsl\u00f6nen** i Sverige. Niv\u00e5n fastst\u00e4lls av Migrationsverket utifr\u00e5n statistik fr\u00e5n Medlingsinstitutet/SCB och justeras vanligtvis en g\u00e5ng per \u00e5r.\n\n---\n\n### Andra grundkrav f\u00f6r EU-bl\u00e5kort:\nUt\u00f6ver l\u00f6nekravet m\u00e5ste du \u00e4ven uppfylla f\u00f6ljande:\n1. **Kvalifikationer:** Du ska ha avlagt en akademisk examen motsvarande minst 180 h\u00f6gskolepo\u00e4ng (kandidatexamen/3 \u00e5rs heltidsstudier) **eller** ha minst fem \u00e5rs relevant yrkeserfarenhet p\u00e5 avancerad niv\u00e5.\n2. **Anst\u00e4llningsavtal:** Du m\u00e5ste ha ett g\u00e4llande anst\u00e4llningsavtal eller ett bindande jobberbjudande f\u00f6r h\u00f6gkvalificerad anst\u00e4llning i Sverige som varar i minst **6 m\u00e5nader** (tidigare kr\u00e4vdes 1 \u00e5r).\n3. **Anst\u00e4llningsvillkor:** L\u00f6nen och \u00f6vriga villkor (f\u00f6rs\u00e4kringar, semester etc.) m\u00e5ste vara minst i niv\u00e5 med svenska kollektivavtal eller vad som \u00e4r praxis inom yrket/branschen."
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "F\u00f6r att f\u00e5 ett EU-bl\u00e5kort i Sverige finns det ett specifikt l\u00f6nekrav som \u00e4r knutet till den genomsnittliga l\u00f6nen i landet. \n\nHuvudregeln \u00e4r att din bruttol\u00f6n m\u00e5ste uppg\u00e5 till **minst 1,5 g\u00e5nger den genomsnittliga bruttom\u00e5nadsl\u00f6nen i Sverige**.\n\nH\u00e4r \u00e4r detaljerna kring vad som g\u00e4ller:\n\n### 1. L\u00f6nebeloppet (Aktuell niv\u00e5)\n* **Huvudregel (1,5 g\u00e5nger medell\u00f6nen):** Den genomsnittliga m\u00e5nadsl\u00f6nen i Sverige (enligt SCB:s statistik som Migrationsverket utg\u00e5r ifr\u00e5n) ligger p\u00e5 drygt 39 800 kr. Det inneb\u00e4r att l\u00f6nekravet f\u00f6r ett EU-bl\u00e5kort i regel ligger p\u00e5 **kring 60 000 kr i m\u00e5naden** (f\u00f6re skatt). Beloppet uppdateras \u00e5rligen i takt med att medell\u00f6nen i Sverige f\u00f6r\u00e4ndras.\n* **L\u00e4gre tr\u00f6skel (f\u00f6r vissa grupper):** Efter att nya regler f\u00f6r EU-bl\u00e5kort inf\u00f6rdes sommaren 2024 finns det i vissa fall m\u00f6jlighet till en l\u00e4gre l\u00f6netr\u00f6skel (mellan 1,0 och 1,5 g\u00e5nger medell\u00f6nen) f\u00f6r exempelvis vissa yrkesgrupper med stor brist p\u00e5 arbetskraft eller f\u00f6r nyexaminerade.\n\n### 2. \u00d6vriga grundl\u00e4ggande krav f\u00f6r EU-bl\u00e5kort\nF\u00f6rutom l\u00f6nen m\u00e5ste du uppfylla f\u00f6ljande f\u00f6r att beviljas ett EU-bl\u00e5kort:\n* **H\u00f6gskoleutbildning eller erfarenhet:** Du beh\u00f6ver antingen ha en h\u00f6gre yrkeskvalifikation som motsvarar minst tre \u00e5rs eftergymnasial utbildning (kandidatexamen eller motsvarande), eller minst fem \u00e5rs yrkeserfarenhet p\u00e5 en tillr\u00e4ckligt h\u00f6g niv\u00e5.\n* **Anst\u00e4llningsavtal:** Du m\u00e5ste ha ett anst\u00e4llningsavtal eller ett bindande jobberbjudande som g\u00e4ller i **minst 6 m\u00e5nader**.\n* **Yrkesm\u00e4ssiga krav:** Jobbet m\u00e5ste uppfylla svenska villkor (t.ex. att l\u00f6nen och anst\u00e4llningsvillkoren \u00e4r i niv\u00e5 med svenska kollektivavtal eller branschstandard, \u00e4ven om bl\u00e5kortets generella l\u00f6netr\u00f6skel oftast \u00e4r h\u00f6gre \u00e4n vanliga kollektivavtal).\n\n*Tips: Eftersom beloppen r\u00e4knas om baserat p\u00e5 ny statistik fr\u00e5n SCB b\u00f6r du alltid dubbelkolla den exakta aktuella summan direkt p\u00e5 **Migrationsverkets webbplats** innan du ans\u00f6ker.*"
+          ]
+        }
+      }
+    },
+    {
+      "question": "What is the salary requirement for EU Blue Card eligibility in Sweden?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "As of **November 18, 2023**, Sweden updated its rules for the EU Blue Card to align with the revised EU Blue Card Directive. \n\nTo be eligible for an EU Blue Card in Sweden, your gross monthly salary must meet the following requirement:\n\n* **At least 1.5 times the average gross monthly salary** in Sweden.\n\nBased on current figures provided by Statistics Sweden (SCB) and the Swedish Migration Agency (Migrationsverket), the salary threshold is approximately **55,650 SEK per month** (before taxes). \n\n*(Note: The exact threshold is tied to the national average gross monthly salary, which is updated annually. When you apply, the salary offered in your employment contract must be equal to or higher than the official threshold applicable at that time).*\n\nIn addition to the salary requirement, you must also meet other criteria, such as having a higher education qualification of at least three years (a Bachelor's degree or equivalent) or at least five years of professional experience at a comparable level, as well as an employment contract or binding job offer for at least six months."
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "In Sweden, to be eligible for an EU Blue Card, your gross monthly salary must be at least **1.5 times the national average gross salary**, as determined by Statistics Sweden (SCB). \n\n* **Current Requirement (as of 2024):** At least **SEK 59,850 per month** (gross).\n\n*(Note: This threshold is updated annually by the Swedish Migration Agency (Migrationsverket), typically in the summer, based on new national salary statistics).*\n\n### Additional Key Requirements for the Swedish EU Blue Card:\n* **Contract:** An employment contract or a binding job offer for highly qualified employment lasting at least **6 months** (reduced from 1 year following recent EU directive updates).\n* **Education/Experience:** You must have completed higher education studies equivalent to at least **180 Swedish higher education credits** (a 3-year university degree), or have **5 years of relevant professional experience**.\n* **Insurance:** Your employer must provide terms of employment (including health, life, and pension insurance) that are at least on par with Swedish collective agreements or standard industry practices."
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "To be eligible for an EU Blue Card in Sweden, your salary must meet a specific threshold based on national averages. \n\nThe salary requirement is that your offered salary must **equal or exceed 1.5 times the average gross monthly salary in Sweden**. \n\nHere are a few important details regarding this requirement:\n\n* **It changes annually:** Because the requirement is tied to the average gross monthly salary (published by Statistics Sweden / *Statistiska centralbyr\u00e5n*), the exact monetary threshold is updated every year. \n* **Gross salary:** The requirement applies to your gross salary (before taxes), and it must be specified in your employment contract.\n* **Collective agreements:** The salary and employment terms must also generally match or be comparable to Swedish collective agreements or industry standards.\n\n**Other key eligibility requirements for the Swedish EU Blue Card include:**\n* A higher education qualification (usually a university degree) that took at least three years to complete, **or** at least five years of professional experience at a comparable level.\n* A binding job offer or a valid work contract for at least **6 months**.\n* A profession that falls under the eligible high-skilled categories. \n\n*Note: Since exact average salary figures are updated periodically by the Swedish government, you should check the official [Swedish Migration Agency (Migrationsverket) website](https://www.migrationsverket.se/) for the exact Swedish Krona (SEK) amount currently in effect when you apply.*"
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "As of 2024, the salary requirement for an EU Blue Card in Sweden is at least **59,850 SEK per month** (gross, before taxes).\n\n### How It Is Determined:\n* **The Formula:** The Swedish Migration Agency (*Migrationsverket*) sets the threshold at **1.5 times the average gross monthly salary** in Sweden, based on figures provided by Statistics Sweden (*Statistiska centralbyr\u00e5n* / SCB).\n* **Annual Updates:** This threshold is reviewed and updated annually. \n\n### Additional Employment Requirements:\nIn addition to meeting the salary threshold, your employment must meet the following criteria:\n* **Contract Length:** You must have a binding job offer or employment contract for at least **6 months** (lowered from 1 year following the implementation of the revised EU Directive).\n* **Industry Standards:** The terms of employment (insurance, working hours, benefits) must be at least on par with Swedish collective agreements or what is standard practice in the occupation/industry.\n* **Qualifications:** You must have a completed university degree (equivalent to at least 180 ECTS credits / 3 years of higher education) or at least 5 years of relevant professional work experience (or 3 years for certain IT specialists)."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2025-01-01",
+          "answer": "En l\u00f6n som \u00e4r minst 1,25 g\u00e5nger en genomsnittlig svensk bruttol\u00f6n.",
+          "source": "https://www.migrationsverket.se/du-vill-ansoka/arbeta/anstalld-eller-egen-foretagare/eu-blakort.html"
+        },
+        {
+          "date": "2024-01-01",
+          "answer": "En l\u00f6n som \u00e4r minst 1,5 g\u00e5nger en genomsnittlig svensk bruttol\u00f6n.",
+          "source": "https://www.migrationsverket.se/arbetsgivare/nyhetsarkiv-for-arbetsgivare/nyheter/2025-01-02-nu-galler-nya-regler-for-eu-blakort.html"
+        }
+      ]
+    },
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "2025-01-01",
+          "answer": "A salary/wages that amount to at least 1,25 times the average Swedish salary/wages.",
+          "source": "https://www.migrationsverket.se/du-vill-ansoka/arbeta/anstalld-eller-egen-foretagare/eu-blakort.html"
+        },
+        {
+          "date": "2024-01-01",
+          "answer": "A salary/wages that amount to at least 1,5 times the average Swedish salary/wages.",
+          "source": "https://www.migrationsverket.se/arbetsgivare/nyhetsarkiv-for-arbetsgivare/nyheter/2025-01-02-nu-galler-nya-regler-for-eu-blakort.html"
+        }
+      ]
+    }
+  ]
+}
