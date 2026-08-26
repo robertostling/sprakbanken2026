@@ -1,0 +1,551 @@
+[
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det officiella namnet p\u00e5 nationalarenan i Solna??",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "Det officiella namnet p\u00e5 nationalarenan i Solna \u00e4r **Strawberry Arena** (tidigare *Friends Arena*). \n\nNamnbytet g\u00e4llde fr\u00e5n och med den 12 juli 2024 efter att hotellkoncernen Strawberry (\u00e4gd av Petter Stordalen) k\u00f6pt namnr\u00e4ttigheterna."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "Det officiella namnet p\u00e5 nationalarenan i Solna \u00e4r sedan den 12 juli 2024 **Strawberry Arena**.\n\nTidigare hette den *Friends Arena* (2012\u20132024) och under byggtiden kallades den *Swedbank Arena*."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Det officiella namnet p\u00e5 nationalarenan i Solna \u00e4r **Strawberry Arena** (sedan den 12 juli 2024). Innan dess hette den Friends Arena."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Strawberry Arena**. \n\nArenan bytte namn den 12 juli 2024 (innan dess hette den *Friends Arena* sedan invigningen 2012)."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2024-07-12",
+              "to": "2026-08-25"
+            },
+            "answer": "Strawberry Arena",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Strawberry_Arena&oldid=55231911"
+          },
+          {
+            "date": "2012-10-27",
+            "date_range": {
+              "from": "2012-10-27",
+              "to": "2024-07-11"
+            },
+            "answer": "Friends Arena",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Strawberry_Arena&oldid=21396821"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det officiella namnet p\u00e5 den sf\u00e4riska arenan i Slakthusomr\u00e5det i Johanneshov?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "Det officiella namnet p\u00e5 arenan \u00e4r **Avicii Arena**. \n\nArenan hette tidigare *Stockholm Globe Arena* (eller i folkmun *Globen*), men den bytte namn till Avicii Arena inofficiellt i maj 2021 (och officiellt vid \u00e5rsskiftet 2021/2022) som ett initiativ f\u00f6r att uppm\u00e4rksamma psykisk oh\u00e4lsa bland unga, i samarbete med Tim Bergling Foundation."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Det officiella namnet p\u00e5 den sf\u00e4riska arenan i Johanneshov \u00e4r **Avicii Arena** (tidigare *Ericsson Globe* och i dagligt tal oft bara *Globen*)."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Avicii Arena**. \n\nArenan invigdes 1989 som *Stockholm Globe Arena*, hette *Ericsson Globe* mellan 2009 och 2021, men kallas i folkmun oftast fortfarande bara f\u00f6r **Globen**."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "Det officiella namnet p\u00e5 arenan \u00e4r sedan den 19 maj 2021 **Avicii Arena**. \n\nUrsprungligen hette den *Stockholm Globe Arena* (invigd 1989) och i folkmun kallas den fortfarande oftast bara f\u00f6r **Globen**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2021-05-19",
+              "to": "2026-08-25"
+            },
+            "answer": "Avici Arena",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Globen&oldid=49257737"
+          },
+          {
+            "date_range": {
+              "from": "2009-02-02",
+              "to": "2021-05-18"
+            },
+            "answer": "Ericsson Globe",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Globen&oldid=8463564"
+          },
+          {
+            "date_range": {
+              "from": "1989-02-19",
+              "to": "2009-02-01"
+            },
+            "answer": "Stockholm Globe Arena",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Globen&oldid=2110030"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad \u00e4r det officiella namnet p\u00e5 Sveriges st\u00f6rsta galleria som ligger i Arenastaden i Solna?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "Det officiella namnet p\u00e5 gallerian \u00e4r **Mall of Scandinavia**."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Westfield Mall of Scandinavia**. \n\n(N\u00e4r den \u00f6ppnade 2015 hette den enbart *Mall of Scandinavia*, men bytte namn 2019 efter att \u00e4garna Unibail-Rodamco slogs ihop med Westfield)."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Mall of Scandinavia**."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Det officiella namnet \u00e4r **Westfield Mall of Scandinavia**. \n\nGallerian \u00f6ppnade ursprungligen 2015 under namnet *Mall of Scandinavia*, men lade till *Westfield* i sitt officiella namn under h\u00f6sten 2019."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2019-09-28",
+              "to": "2026-08-25"
+            },
+            "answer": "Westfield Mall of Scandinavia",
+            "source": "https://en.wikipedia.org/w/index.php?title=Mall_of_Scandinavia&oldid=1295841560"
+          },
+          {
+            "date_range": {
+              "from": "2011-11-12",
+              "to": "2019-09-27"
+            },
+            "answer": "Mall of Scandinavia",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Mall_of_Scandinavia&oldid=46346712"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad heter den svenska myndigheten som ska s\u00e4kerst\u00e4lla att samh\u00e4llet \u00e4r f\u00f6rberett f\u00f6r kris, h\u00f6jd beredskap och krig?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "Den myndighet du t\u00e4nker p\u00e5 heter **MSB** (Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap). \n\nMSB har till uppgift att utveckla och st\u00f6dja samh\u00e4llets beredskap f\u00f6r olyckor, kriser, h\u00f6jd beredskap och ytterst krig."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "Myndigheten heter **MSB**, vilket st\u00e5r f\u00f6r **Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap**."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Den svenska myndigheten heter **Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap**, oftast f\u00f6rkortat **MSB**. \n\nDe har till uppgift att utveckla och st\u00f6dja samh\u00e4llets f\u00f6rm\u00e5ga att hantera olyckor, kriser, h\u00f6jd beredskap och ytterst krig."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Den svenska myndigheten heter **Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap (MSB)**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2026-01-01",
+              "to": "2026-08-25"
+            },
+            "answer": "Myndigheten f\u00f6r civilt f\u00f6rsvar",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_civilt_f%C3%B6rsvar&oldid=59417613"
+          },
+          {
+            "date_range": {
+              "from": "2009-01-01",
+              "to": "2025-12-31"
+            },
+            "date": "2009-01-01",
+            "answer": "Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_civilt_f%C3%B6rsvar&oldid=58837524"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "Vad heter museet vid Stortorget i Gamla Stan p\u00e5 svenska?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "Museet vid Stortorget i Gamla Stan heter **Nobelmuseet** (sedan 2019 heter det officiellt **Nobel Prize Museum** p\u00e5 alla spr\u00e5k, men det kallas fortfarande ofta f\u00f6r Nobelmuseet p\u00e5 svenska). \n\nDet ligger i det gamla B\u00f6rshuset p\u00e5 Stortorget."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "Museet vid Stortorget i Gamla stan heter **Nobelprismuseet** (tidigare *Nobelmuseet*). Det ligger i B\u00f6rshuset."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Museet vid Stortorget i Gamla Stan heter **Nobelprismuseet** (det hette tidigare *Nobelmuseet*). Det ligger i det gamla B\u00f6rshuset."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Museet vid Stortorget i Gamla stan heter **Nobelprismuseet** (tidigare kallat *Nobelmuseet*). Det ligger i den historiska byggnaden B\u00f6rshuset."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2019-01-01",
+              "to": "2026-08-25"
+            },
+            "answer": "Nobelprismuseet",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_civilt_f%C3%B6rsvar&oldid=59417613"
+          },
+          {
+            "date_range": {
+              "from": "2001-03-01",
+              "to": "2018-12-31"
+            },
+            "answer": "Nobelmuseet",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Nobelprismuseet&oldid=9417054"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "I vilken stad ligger Polarforskningssekretariatets huvudkontor?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "Polarforskningssekretariatets huvudkontor ligger i **Lule\u00e5**. \n\n(De har \u00e4ven ett kontor i Stockholm, men huvudkontoret finns i Lule\u00e5)."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "Polarforskningssekretariatets huvudkontor ligger i **Lule\u00e5** (sedan sommaren 2019, efter att tidigare ha legat i Stockholm)."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Polarforskningssekretariatets huvudkontor ligger i **Lule\u00e5**."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Polarforskningssekretariatets huvudkontor ligger i **Lule\u00e5** (sedan sommaren 2019, d\u00e5 myndigheten flyttade dit fr\u00e5n Stockholm). \n\nMyndigheten har \u00e4ven verksamhet vid Abisko naturvetenskapliga station."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2019-01-01",
+              "to": "2026-08-25"
+            },
+            "answer": "Lule\u00e5",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Polarforskningssekretariatet&oldid=59274602"
+          },
+          {
+            "date_range": {
+              "from": "1984-01-01",
+              "to": "2007-12-31"
+            },
+            "answer": "Stockholm",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Polarforskningssekretariatet&oldid=5453774"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "I vilken stad ligger Myndigheten f\u00f6r kulturanalys huvudkontor?",
+        "language": "swe",
+        "system_outputs": {
+          "reasoning-flash-lite-3.5-minimal": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "minimal"
+              }
+            },
+            "generations": [
+              "Myndigheten f\u00f6r kulturanalys har sitt huvudkontor i **G\u00f6teborg**."
+            ]
+          },
+          "reasoning-flash-lite-3.5-high": {
+            "setting": {
+              "model": "gemini-3.5-flash-lite",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Myndigheten f\u00f6r kulturanalys har sitt huvudkontor i **G\u00f6teborg**."
+            ]
+          },
+          "reasoning-flash-3.7-high": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "high"
+              }
+            },
+            "generations": [
+              "Myndigheten f\u00f6r kulturanalys har sitt huvudkontor i **G\u00f6teborg**."
+            ]
+          },
+          "reasoning-flash-3.7-low": {
+            "setting": {
+              "model": "gemini-3.7-flash",
+              "thinking_config": {
+                "thinking_level": "low"
+              }
+            },
+            "generations": [
+              "Myndigheten f\u00f6r kulturanalys har sitt huvudkontor i **G\u00f6teborg**."
+            ]
+          }
+        }
+      }
+    ],
+    "answers": [
+      {
+        "language": "swe",
+        "answers": [
+          {
+            "date_range": {
+              "from": "2017-01-01",
+              "to": "2026-08-25"
+            },
+            "answer": "G\u00f6teborg",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_kulturanalys&oldid=54459635"
+          },
+          {
+            "date_range": {
+              "from": "2011-04-01",
+              "to": "2016-12-31"
+            },
+            "answer": "Stockholm",
+            "source": "https://sv.wikipedia.org/w/index.php?title=Myndigheten_f%C3%B6r_kulturanalys&oldid=30698450"
+          }
+        ]
+      }
+    ]
+  }
+]

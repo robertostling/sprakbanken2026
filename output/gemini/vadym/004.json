@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Hur stor \u00e4r \u00e5tervandringsbidraget i Sverige?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "\u00c5tervandringsbidraget i Sverige \u00e4r f\u00f6r n\u00e4rvarande (sedan 1984) **upp till 10 000 kronor per vuxen** och **5 000 kronor per barn**, med ett tak p\u00e5 **max 40 000 kronor per familj**. \n\nBidraget s\u00f6ks via Migrationsverket.\n\n**Stora f\u00f6r\u00e4ndringar \u00e4r dock p\u00e5 v\u00e4g:**\nDen svensk-dagliga Tid\u00f6-regeringen (M, KD, L och SD) har beslutat att utreda och kraftigt h\u00f6ja detta bidrag. F\u00f6rslaget som har lagts fram inneb\u00e4r att \u00e5tervandringsbidraget ska h\u00f6jas till **upp till 350 000 kronor per person** fr\u00e5n och med den **1 januari 2026**. \n\nSyftet med den kraftiga h\u00f6jningen \u00e4r att g\u00f6ra det mer ekonomiskt lockande f\u00f6r utrikesf\u00f6dda personer som inte \u00e4r sj\u00e4lvf\u00f6rs\u00f6rjande eller som har sv\u00e5rt att integreras att flytta tillbaka till sitt ursprungsland. Regeringen har ocks\u00e5 f\u00f6reslagit att st\u00f6det ska byta namn till *anpassat \u00e5tervandringsst\u00f6d* och att reglerna f\u00f6r vem som kan f\u00e5 det ska ses \u00f6ver."
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "Hur stort \u00e5tervandringsbidraget \u00e4r beror p\u00e5 om man ser till **dagens regler** eller **det nya f\u00f6rslag** som regeringen har presenterat och som planeras tr\u00e4da i kraft 2026.\n\n### 1. Nuvarande regler (g\u00e4ller i dag)\nEnligt dagens system via Migrationsverket \u00e4r bidraget:\n* **10 000 kronor** per vuxen person.\n* **5 000 kronor** per barn (under 18 \u00e5r).\n* **Maximalt 40 000 kronor** per familj.\n\nMan kan \u00e4ven i vissa fall f\u00e5 hj\u00e4lp med sj\u00e4lva resekostnaden.\n\n---\n\n### 2. F\u00f6reslagen h\u00f6jning (planeras fr\u00e5n 2026)\nRegeringen och Sverigedemokraterna har f\u00f6reslagit en kraftig h\u00f6jning av \u00e5tervandringsbidraget fr\u00e5n och med **den 1 januari 2026**:\n* Bidraget f\u00f6resl\u00e5s d\u00e5 bli **upp till 350 000 kronor** per vuxen person.\n\n---\n\n### Vem kan f\u00e5 bidraget?\n\u00c5tervandringsbidraget riktar sig fr\u00e4mst till personer som har uppeh\u00e5llstillst\u00e5nd i Sverige som flyktingar, skyddsbeh\u00f6vande eller anh\u00f6riga till dessa, och som frivilligt vill flytta tillbaka till sitt hemland eller ett annat land d\u00e4r de har r\u00e4tt att bos\u00e4tta sig. Man ans\u00f6ker om bidraget hos **Migrationsverket**."
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "Storleken p\u00e5 \u00e5tervandringsbidraget beror p\u00e5 om man ser till **dagens regler** eller det **nya f\u00f6rslaget** som planeras tr\u00e4da i kraft 2026.\n\n### 1. Nuvarande niv\u00e5er (g\u00e4ller i dag)\nEnligt dagens regler fr\u00e5n Migrationsverket kan man f\u00e5:\n*   Upp till **10 000 kronor** per vuxen.\n*   Upp till **5 000 kronor** per barn (under 18 \u00e5r).\n*   Maximalt **40 000 kronor** per familj.\n\n*Ut\u00f6ver detta bidrag kan man \u00e4ven f\u00e5 sj\u00e4lva reskostnaden betald av Migrationsverket.*\n\n### 2. Planerad h\u00f6jning (fr\u00e5n 1 januari 2026)\nRegeringen och Sverigedemokraterna har beslutat att kraftigt h\u00f6ja \u00e5tervandringsbidraget f\u00f6r att stimulera fler att flytta tillbaka till sina heml\u00e4nder:\n*   Bidraget planeras att h\u00f6jas till **upp till 350 000 kronor** per person.\n\n---\n\n### Vem kan f\u00e5 bidraget?\nF\u00f6r att beviljas \u00e5tervandringsbidrag m\u00e5ste man uppfylla vissa krav:\n*   Ha ett giltigt uppeh\u00e5llstillst\u00e5nd (permanent eller tidsbegr\u00e4nsat) som flykting, alternativt skyddsbeh\u00f6vande eller p\u00e5 grund av s\u00e4rskilt/synnerligen \u00f6mmande omst\u00e4ndigheter.\n*   Ha f\u00f6r avsikt att bos\u00e4tta sig permanent i ursprungslandet.\n*   Sj\u00e4lv sakna tillr\u00e4ckliga ekonomiska medel f\u00f6r att bekosta flytten.\n\n*Svenska medborgare har inte r\u00e4tt till detta bidrag.*"
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "Svaret p\u00e5 fr\u00e5gan beror p\u00e5 om man tittar p\u00e5 vad som g\u00e4ller **just nu** eller p\u00e5 de **f\u00f6rslag som \u00e4r beslutade att inf\u00f6ras** av regeringen.\n\nH\u00e4r \u00e4r l\u00e4get f\u00f6r \u00e5tervandringsbidraget i Sverige:\n\n### 1. Det nuvarande beloppet (gammal niv\u00e5)\nDet nuvarande \u00e5tervandringsbidraget har historiskt varit mycket l\u00e5gt och har s\u00e4llan anv\u00e4nts (endast ett f\u00e5tal personer per \u00e5r har utnyttjat det). Beloppen som har g\u00e4llt \u00e4r:\n*   Upp till **10 000 kronor** f\u00f6r en vuxen.\n*   Upp till **5 000 kronor** f\u00f6r ett barn.\n*   Maximalt **40 000 kronor** per familj.\n\nDet administreras av Migrationsverket, men det st\u00e4lls krav p\u00e5 att man bland annat har haft uppeh\u00e5llstillst\u00e5nd i Sverige under en l\u00e4ngre tid, har sv\u00e5rt att f\u00f6rs\u00f6rja sig och \u00e4r beroende av ekonomiskt bist\u00e5nd (socialbidrag).\n\n### 2. Det nya f\u00f6rslaget (Tid\u00f6avtalet)\nI Tid\u00f6avtalet mellan regeringspartierna (M, KD, L) och Sverigedemokraterna beslutades det att \u00e5tervandringsbidraget skulle utredas och h\u00f6jas kraftigt f\u00f6r att g\u00f6ra det mer \"aktivt och attraktivt\". \n\nEn statlig utredning presenterades under 2024 och f\u00f6resl\u00e5r en stor f\u00f6r\u00e4ndring:\n*   Bidraget f\u00f6resl\u00e5s h\u00f6jas till upp till **350 000 kronor per person**.\n*   Det ska dock st\u00e4llas h\u00e5rdare krav p\u00e5 \u00e5terbetalning eller att man inte kan \u00e5terv\u00e4nda till Sverige om man \u00e5ngrar sig, samt att bidraget riktar sig till personer som har sv\u00e5rt att integreras eller \u00e4r l\u00e5ngvarigt beroende av bidrag.\n\n**N\u00e4r b\u00f6rjar det g\u00e4lla?**\nF\u00f6rslaget om 350 000 kronor \u00e4r \u00e4nnu inte lag (det bereds i Regeringskansliet och ska upp i riksdagen), men m\u00e5let fr\u00e5n regeringsh\u00e5ll \u00e4r att de nya reglerna ska kunna tr\u00e4da i kraft under **2026**. \n\n*Sammanfattning:* Formellt ligger det gamla l\u00e5ga beloppet kvar (upp till 40 000 kr per familj), men ett politiskt beslut \u00e4r taget f\u00f6r att h\u00f6ja det till **350 000 kronor per person** inom de kommande \u00e5ren."
+          ]
+        }
+      }
+    },
+    {
+      "question": "How much is the repatriation grant in Sweden?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "In Sweden, the **repatriation grant** (known in Swedish as *\u00e5tervandringsbidrag*) is financial assistance provided to certain foreign citizens who choose to voluntarily move back to their home country. \n\nHowever, **the rules and amounts for this grant are undergoing a massive change.**\n\nHere is the current status:\n\n### 1. The Current Amount (Until Jan 1, 2026)\nCurrently, the grant is very low and rarely used:\n* **Adults:** 10,000 SEK (approx. $950 USD / \u20ac900 EUR)\n* **Children:** 5,000 SEK (approx. $475 USD / \u20ac450 EUR)\n* **Maximum per family:** 40,000 SEK (approx. $3,800 USD / \u20ac3,600 EUR)\n\n### 2. The New Proposed Amount (Starting January 1, 2026)\nThe Swedish government (backed by the Sweden Democrats) has decided to drastically increase this grant to encourage more voluntary returns. \n\n* **The new proposed amount:** Up to **350,000 SEK** (approx. $33,000 USD / \u20ac31,000 EUR) per person/family.\n\n### Who is eligible?\nTo qualify for the upcoming higher grant, strict criteria are expected to apply. While the exact final requirements are still being detailed by the government, the general framework includes:\n* You must be a permanent resident or citizen of Sweden.\n* You must have difficulty integrating into Swedish society (this is a key focus of the new policy).\n* You must intend to move permanently from Sweden.\n* There will likely be limits based on your country of origin (e.g., excluding certain neighboring or safe countries).\n* You cannot have received this grant before.\n\n*Note: Because the laws regarding the increased grant take effect in 2026, the Migration Agency (Migrationsverket) is not yet accepting applications for the 350,000 SEK amount.*"
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "In Sweden, the repatriation grant (known as **\u00c5tervandringsbidrag**) is a financial support provided by the Swedish Migration Agency (*Migrationsverket*) to help certain immigrants voluntarily return to their home countries. \n\nHere is the current amount and details on the proposed changes:\n\n### Current Grant Amount (2024)\nAs of right now, the maximum amounts you can receive are:\n* **Adults:** Up to **10,000 SEK** per person.\n* **Children (under 18):** Up to **5,000 SEK** per child.\n* **Family maximum:** Up to **40,000 SEK** total per family.\n\nIn addition to this cash grant, the state can also cover the actual travel costs (such as plane tickets).\n\n---\n\n### Upcoming Changes (Starting in 2026)\nIn September 2024, the Swedish government announced plans to significantly increase this grant starting in **2026**:\n* **Proposed maximum:** Up to **350,000 SEK** per adult.\n\n*(Note: This proposed increase has not yet taken effect and is scheduled for implementation in 2026, subject to final legislative details).*\n\n---\n\n### Who is eligible?\nTo receive the grant under current rules, you generally must:\n* Have a valid residence permit in Sweden as a refugee, a person in need of subsidiary protection, or due to exceptionally distressing circumstances.\n* Plan to voluntarily move back permanently to your country of origin.\n* Not be a Swedish citizen (citizens are not eligible).\n* Lack the personal financial means to pay for your return."
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "The answer depends on whether you are looking at the **current** amount or the **newly proposed** amount by the Swedish government, which is set to change dramatically.\n\nHere is the breakdown:\n\n### 1. The Proposed New Grant (Targeting 2026)\nThe current right-wing coalition government (backed by the Sweden Democrats) initiated a major overhaul of the repatriation grant (*\u00e5tervandringsbidrag*). \n\nAn official government inquiry proposed raising the grant to **up to 350,000 SEK** (approx. $33,000 USD / \u20ac30,000 EUR) per person. \n* **Timeline:** The government plans for this significantly increased grant to come into effect on **January 1, 2026**.\n* **Goal:** The massive increase is intended to encourage more immigrants\u2014particularly those struggling with employment and integration\u2014to voluntarily return to their countries of origin. \n\n### 2. The Current Grant (Until the new rules take effect)\nUntil the new rules are officially implemented, the traditional repatriation grant handled by the Swedish Migration Agency (*Migrationsverket*) remains very low, which is why historically very few people have used it. The current amounts are:\n* **10,000 SEK** per adult.\n* **5,000 SEK** per child.\n* A maximum limit of **40,000 SEK** per family.\n\n### Who is eligible?\nTo qualify for the grant (both currently and under the proposed rules), applicants generally must:\n* Be foreign citizens who have lived in Sweden for a certain number of years.\n* Hold specific types of residence permits (such as those granted on asylum or protection grounds).\n* Meet certain financial or self-sufficiency criteria (the new proposal aims to target those who receive certain types of financial aid or are unemployed).\n\n*Note: Because the 350,000 SEK amount is part of a political reform slated for 2026, final details regarding exact eligibility criteria and administration are still being finalized by the Swedish parliament.*"
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "The amount of the repatriation grant (*\u00e5tervandringsbidrag*) in Sweden depends on the current rules versus upcoming changes:\n\n---\n\n### **1. Current Amount (in effect through 2025)**\nUnder the current rules administered by the Swedish Migration Agency (*Migrationsverket*), the grant is:\n* **10,000 SEK** per adult\n* **5,000 SEK** per child (under 18)\n* **Maximum:** 40,000 SEK per family\n\n*(Note: Travel costs to the home country can also be covered in addition to this grant.)*\n\n---\n\n### **2. Upcoming Major Change (Takes effect in 2026)**\nIn September 2024, the Swedish government announced a major overhaul to significantly increase the grant:\n* **Up to 350,000 SEK** (approx. $34,000 USD / \u20ac31,000) per adult.\n* This new grant rate is scheduled to take effect on **January 1, 2026**.\n\n---\n\n### **Who is eligible?**\nTo qualify for the grant:\n* You must have a valid Swedish residence permit based on **refugee status, subsidiary protection, or family reunification** with someone who holds such status.\n* You must voluntarily intend to **permanently settle** in your country of origin.\n* Swedish citizens or people from EU/EEA/Nordic countries are **not** eligible."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2026-01-01",
+          "answer": "350 000 kronor per vuxen (personer \u00f6ver 18 \u00e5r). 25 000 kronor per barn. H\u00f6gst 500 000 kronor f\u00f6r makar eller sambor tillsammans. H\u00f6gst 600 000 kronor f\u00f6r ett hush\u00e5ll.",
+          "source": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-01-01-hojt-atervandringsbidrag-fran-och-med-1-januari.html"
+        },
+        {
+          "date": "2025-01-01",
+          "answer": "10 000 kronor per vuxen (personer \u00f6ver 18 \u00e5r).",
+          "source": "https://www.svt.se/nyheter/inrikes/forsta-nya-atervandringsbidragen-beviljade"
+        }
+      ]
+    },
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "2026-01-01",
+          "answer": "350,000 SEK per adult (persons over 18 years). 25,000 SEK per child. A maximum of 500,000 SEK for married or cohabiting partners. A maximum of 600,000 SEK for a household.",
+          "source": "https://www.migrationsverket.se/en/news-archive/news/2026-01-01-increased-repatriation-grant-from-1-january.html"
+        },
+        {
+          "date": "2025-01-01",
+          "answer": "10,000 SEK per adult (persons over 18 years).",
+          "source": "https://www.svt.se/nyheter/inrikes/forsta-nya-atervandringsbidragen-beviljade"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "questions": [
+    {
+      "question": "Vilket \u00e4r det popul\u00e4raste namnet f\u00f6r nyf\u00f6dda pojkar?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "Det beror helt p\u00e5 vilket land eller vilket \u00e5r du syftar p\u00e5! \n\nH\u00e4r \u00e4r de senaste siffrorna f\u00f6r de vanligaste l\u00e4nderna i Norden:\n\n* **Sverige (2023):** **William** var det popul\u00e4raste tilltalsnamnet f\u00f6r nyf\u00f6dda pojkar (f\u00f6ljt av Liam och Noah).\n* **Norge (2023):** **Lucas / Lukas** l\u00e5g i topp.\n* **Danmark (2023):** **William** var \u00e4ven d\u00e4r det vanligaste pojknamnet.\n* **Finland (2023):** **Leo** var det popul\u00e4raste pojknamnet.\n\nOm du menar globalt \u00e4r det sv\u00e5rt att s\u00e4ga ett exakt namn, men klassiska namn som **Mohammad** (med olika stavningar) \u00e4r ett av de vanligaste pojknamnen i v\u00e4rlden sett till totala antalet nyf\u00f6dda.\n\nVilket land or \u00e5r \u00e4r du nyfiken p\u00e5?"
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "Det beror p\u00e5 vilket land du syftar p\u00e5, men om vi utg\u00e5r fr\u00e5n **Sverige** och Statistiska centralbyr\u00e5ns (SCB) senaste hel\u00e5rsstatistik (f\u00f6r **2023**, publicerad i b\u00f6rjan av 2024), \u00e4r det popul\u00e4raste namnet f\u00f6r nyf\u00f6dda pojkar **William**.\n\nDe namn som l\u00e5g n\u00e4rmast efter i topplistan f\u00f6r pojkar var **Liam** och **Noah**. \n\n*(Statistiken f\u00f6r det 2024 aktuella \u00e5ret brukar publiceras av SCB i februari/mars \u00e5ret efter).*"
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "I **Sverige** \u00e4r det popul\u00e4raste namnet f\u00f6r nyf\u00f6dda pojkar **Noah**. \n\nEnligt den senaste statistiken fr\u00e5n Statistiska centralbyr\u00e5n (SCB, f\u00f6r hel\u00e5ret 2023) s\u00e5g topp 5 ut s\u00e5 h\u00e4r:\n\n1. **Noah**\n2. **Hugo**\n3. **William**\n4. **Liam**\n5. **Nils**\n\n---\n\n### Internationellt:\n* **Globalt:** Det vanligaste pojknamnet i v\u00e4rlden totalt sett (med alla olika stavningar inr\u00e4knade) \u00e4r **Muhammad**.\n* **USA / Engelsktalande l\u00e4nder:** D\u00e4r har **Liam** och **Noah** legat i den absoluta toppen under de senaste \u00e5ren."
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "I **Sverige** (enligt den senaste statistiken fr\u00e5n SCB/Skatteverket f\u00f6r hel\u00e5ret 2023) \u00e4r det popul\u00e4raste namnet f\u00f6r nyf\u00f6dda pojkar **Noah**.\n\nH\u00e4r \u00e4r topp 5 f\u00f6r pojkar i Sverige (2023):\n1. **Noah**\n2. **Hugo**\n3. **William**\n4. **Liam**\n5. **Nils**\n\n*(Namnet William har tidigare legat p\u00e5 f\u00f6rstaplatsen under m\u00e5nga \u00e5r, men har nu passerats av Noah).*\n\n---\n\n*Om du menar **globalt** eller i engelskspr\u00e5kiga l\u00e4nder (som USA och Storbritannien) \u00e4r namn som **Liam**, **Noah** och **Muhammad** de absolut vanligaste.*"
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date_range": {
+            "from": "1998-01-01",
+            "to": "1998-12-31"
+          },
+          "answer": "Filip",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "1999-01-01",
+            "to": "1999-12-31"
+          },
+          "answer": "Oscar",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2000-01-01",
+            "to": "2001-12-31"
+          },
+          "answer": "Filip",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2002-01-01",
+            "to": "2002-12-31"
+          },
+          "answer": "Oscar",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2003-01-01",
+            "to": "2004-12-31"
+          },
+          "answer": "William",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2005-01-01",
+            "to": "2005-12-31"
+          },
+          "answer": "Oscar",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2006-01-01",
+            "to": "2006-12-31"
+          },
+          "answer": "Lucas",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2007-01-01",
+            "to": "2007-12-31"
+          },
+          "answer": "William",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2008-01-01",
+            "to": "2009-12-31"
+          },
+          "answer": "Lucas",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2010-01-01",
+            "to": "2010-12-31"
+          },
+          "answer": "Oscar",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2011-01-01",
+            "to": "2012-12-31"
+          },
+          "answer": "William",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2013-01-01",
+            "to": "2014-12-31"
+          },
+          "answer": "Lucas",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2015-01-01",
+            "to": "2015-12-31"
+          },
+          "answer": "William",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2016-01-01",
+            "to": "2016-12-31"
+          },
+          "answer": "Oscar",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2017-01-01",
+            "to": "2018-12-31"
+          },
+          "answer": "William",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2018-01-01",
+            "to": "2019-12-31"
+          },
+          "answer": "Lucas",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2020-01-01",
+            "to": "2021-12-31"
+          },
+          "answer": "Noah",
+          "source": "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/ovrigt/namnstatistik/"
+        },
+        {
+          "date_range": {
+            "from": "2022-01-01",
+            "to": "2022-12-31"
+          },
+          "answer": "William",
+          "source": "https://www.skatteverket.se/"
+        },
+        {
+          "date_range": {
+            "from": "2023-01-01",
+            "to": "2025-12-31"
+          },
+          "answer": "Noah",
+          "source": "https://www.skatteverket.se/"
+        }
+      ]
+    }
+  ]
+}

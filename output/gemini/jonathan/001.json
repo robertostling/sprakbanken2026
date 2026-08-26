@@ -1,0 +1,228 @@
+{
+  "questions": [
+    {
+      "question": "Vem vann Allsvenskan?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "F\u00f6r att veta vem som vann Allsvenskan beh\u00f6ver jag veta **vilket \u00e5r** du menar, eftersom ligan spelas varje \u00e5r. \n\nSveriges senaste m\u00e4stare i fotboll (Allsvenskan 2024) \u00e4r **Malm\u00f6 FF**. \n\nVilket \u00e5rtal t\u00e4nker du p\u00e5?"
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "Det beror p\u00e5 vilket \u00e5r och vilken serie du menar, men f\u00f6r s\u00e4songen **2024** \u00e4r vinnarna:\n\n* **Allsvenskan (Herrar):** **Malm\u00f6 FF**\n* **OBOS Damallsvenskan (Damer):** **FC Roseng\u00e5rd**\n\nMenade du ett annat \u00e5r eller en annan sport?"
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "Den senaste s\u00e4songen av Allsvenskan (2024) vanns av:\n\n* **Herrar:** **Malm\u00f6 FF** (som d\u00e4rmed tog sitt 24:e SM-guld).\n* **Damer (OBOS Damallsvenskan):** **FC Roseng\u00e5rd** (som s\u00e4krade sitt 14:e SM-guld efter en rekords\u00e4song).\n\nUndrade du \u00f6ver ett annat specifikt \u00e5r eller en annan sport (t.ex. Bandyallsvenskan)? S\u00e4g bara till!"
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "**Malm\u00f6 FF** vann Allsvenskan 2024 (de vann \u00e4ven 2023). \n\nMenar du ett annat \u00e5r, eller g\u00e4llde det damernas serie (Damallsvenskan)? S\u00e4g till s\u00e5 kollar jag upp det \u00e5t dig!"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Who won the Swedish Allsvenskan football league?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "Because you didn't specify a year, I will give you the most recent winners:\n\n* **2024 Allsvenskan:** **Malm\u00f6 FF** won the championship. \n* **2023 Allsvenskan:** **Malm\u00f6 FF** also won the title.\n\nIf you are looking for the winner of a specific year, please let me know!"
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "The reigning champions of the Swedish Allsvenskan are **Malm\u00f6 FF**, who won the **2023** title. \n\nIf you are looking for the winner of a specific year, just let me know!"
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "The most recent winner of the Swedish Allsvenskan (the 2024 season) is **Malm\u00f6 FF**. \n\nWith their 2024 victory, Malm\u00f6 FF successfully defended their 2023 title and extended their record as the most successful club in Swedish football history, holding **24 Swedish Championship titles**. \n\n---\n\n*If you were looking for a specific year's champion, let me know which one!*"
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "The most recent winner of the Swedish Men's Allsvenskan (2024 season) is **Malm\u00f6 FF**. \n\nHere are a few additional details:\n* **Most Recent Champion:** **Malm\u00f6 FF** won back-to-back titles in **2023** and **2024**.\n* **Most Titles Historically:** **Malm\u00f6 FF** is also the most successful club in the league's history, with **24** Allsvenskan titles (and 27 Swedish Championship titles overall).\n\n*(Note: If you were asking about the women's top tier, **Damallsvenskan**, the 2024 champion was **FC Roseng\u00e5rd**).*"
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-08-20",
+            "to": "2026-01-31"
+          },
+          "answer": "Mj\u00e4llby AIF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=1317929000"
+        },
+        {
+          "date_range": {
+            "from": "2023-11-12",
+            "to": "2025-01-31"
+          },
+          "answer": "Malm\u00f6 FF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=1184799726"
+        },
+        {
+          "date_range": {
+            "from": "2022-11-17",
+            "to": "2023-01-31"
+          },
+          "answer": "BK H\u00e4cken",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=1122421589"
+        },
+        {
+          "date_range": {
+            "from": "2020-11-24",
+            "to": "2022-01-31"
+          },
+          "answer": "Malm\u00f6 FF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=990442051"
+        },
+        {
+          "date_range": {
+            "from": "2019-11-02",
+            "to": "2020-01-31"
+          },
+          "answer": "Djurg\u00e5rdens IF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=924217926"
+        },
+        {
+          "date_range": {
+            "from": "2018-11-24",
+            "to": "2019-01-31"
+          },
+          "answer": "AIK",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=868449919"
+        },
+        {
+          "date_range": {
+            "from": "2016-11-06",
+            "to": "2018-01-31"
+          },
+          "answer": "Malm\u00f6 FF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=748143335"
+        }
+      ]
+    },
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-08-20",
+            "to": "2026-01-31"
+          },
+          "answer": "Mj\u00e4llby AIF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=1317929000"
+        },
+        {
+          "date_range": {
+            "from": "2023-11-12",
+            "to": "2025-01-31"
+          },
+          "answer": "Malm\u00f6 FF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=1184799726"
+        },
+        {
+          "date_range": {
+            "from": "2022-11-17",
+            "to": "2023-01-31"
+          },
+          "answer": "BK H\u00e4cken",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=1122421589"
+        },
+        {
+          "date_range": {
+            "from": "2020-11-24",
+            "to": "2022-01-31"
+          },
+          "answer": "Malm\u00f6 FF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=990442051"
+        },
+        {
+          "date_range": {
+            "from": "2019-11-02",
+            "to": "2020-01-31"
+          },
+          "answer": "Djurg\u00e5rdens IF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=924217926"
+        },
+        {
+          "date_range": {
+            "from": "2018-11-24",
+            "to": "2019-01-31"
+          },
+          "answer": "AIK",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=868449919"
+        },
+        {
+          "date_range": {
+            "from": "2016-11-06",
+            "to": "2018-01-31"
+          },
+          "answer": "Malm\u00f6 FF",
+          "source": "https://en.wikipedia.org/w/index.php?title=Allsvenskan&oldid=748143335"
+        }
+      ]
+    }
+  ]
+}

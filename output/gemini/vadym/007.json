@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Which city is the administrative centre of Dnipropetrovsk Oblast?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "The administrative centre of Dnipropetrovsk Oblast is **Dnipro**. \n\n*(Note: While the oblast retains its historical name, the city of Dnipropetrovsk was renamed Dnipro in 2016 as part of Ukraine's decommunization laws).*"
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "The administrative centre of Dnipropetrovsk Oblast is the city of **Dnipro** (which was formerly known as Dnipropetrovsk until it was renamed in 2016)."
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "The administrative centre of Dnipropetrovsk Oblast is the city of **Dnipro** (formerly known as Dnipropetrovsk until 2016)."
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "The administrative centre of Dnipropetrovsk Oblast is the city of **Dnipro** (formerly named *Dnipropetrovsk* until it was renamed in 2016). \n\n*(Note: While the city was renamed to Dnipro, the oblast itself retains the name Dnipropetrovsk Oblast because changing it requires an amendment to the Constitution of Ukraine.)*"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Vad heter huvudorten av Dnipropetrovsk oblast i Ukraina?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "Huvudorten (residensstaden) i Dnipropetrovsk oblast i Ukraina heter **Dnipro** (ukrainska: \u0414\u043d\u0456\u043f\u0440\u043e). \n\nStaden hette tidigare *Dnepropetrovsk* (eller *Dnipropetrovsk*), men bytte namn \u00e5r 2016 som en del av Ukrainas avkommuniseringsprocess."
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "Huvudorten i Dnipropetrovsk oblast heter **Dnipro** (staden hette tidigare *Dnipropetrovsk*, men bytte namn 2016)."
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "Huvudorten i Dnipropetrovsk oblast heter **Dnipro**. \n\nStaden het tidigare *Dnipropetrovsk*, men den bytte namn till Dnipro \u00e5r 2016 som en del av Ukrainas avkommunisering. Sj\u00e4lva regionen (oblasten) heter dock fortfarande formellt Dnipropetrovsk oblast, eftersom en namn\u00e4ndring av den kr\u00e4ver en grundlags\u00e4ndring."
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "Huvudorten i Dnipropetrovsk oblast heter **Dnipro** (ukrainska: \u0414\u043d\u0456\u043f\u0440\u043e). \n\nStaden hette tidigare *Dnipropetrovsk*, men bytte officiellt namn till Dnipro \u00e5r 2016 som en del av Ukrainas avkommuniseringslagar. Sj\u00e4lva regionen (oblastet) heter dock fortfarande Dnipropetrovsk eftersom en namn\u00e4ndring av ett oblast kr\u00e4ver en \u00e4ndring i Ukrainas konstitution."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date": "1991-08-24",
+          "answer": "Dnipropetrovsk",
+          "source": "https://en.wikipedia.org/wiki/Dnipro"
+        },
+        {
+          "date": "2016-05-19",
+          "answer": "Dnipro",
+          "source": "https://en.wikipedia.org/wiki/Dnipro"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "1991-08-24",
+          "answer": "Kiev",
+          "source": "https://sv.wikipedia.org/wiki/Dnipro"
+        },
+        {
+          "date": "2016-05-19",
+          "answer": "Kyjiv",
+          "source": "https://sv.wikipedia.org/wiki/Dnipro"
+        }
+      ]
+    }
+  ]
+}

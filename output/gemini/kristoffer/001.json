@@ -1,0 +1,71 @@
+{
+  "questions": [
+    {
+      "question": "Under vilken period beh\u00f6ver tunga fordon ha vinterd\u00e4ck?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "F\u00f6r tunga fordon (lastbilar, bussar och personbilar med en totalvikt \u00f6ver 3,5 ton) g\u00e4ller f\u00f6ljande perioder f\u00f6r vinterd\u00e4ck:\n\n*   **Krav p\u00e5 vinterd\u00e4ck:** Tunga fordon m\u00e5ste ha vinterd\u00e4ck (eller likv\u00e4rdig utrustning) under perioden **1 december \u2013 31 mars** n\u00e4r det \u00e4r vinterv\u00e4glag.\n*   **Krav p\u00e5 m\u00f6nsterdjup:** Under perioden **1 november \u2013 31 mars** m\u00e5ste tunga fordon ha ett m\u00f6nsterdjup p\u00e5 **minst 5 millimeter** p\u00e5 d\u00e4ck som anv\u00e4nds p\u00e5 motorcykel, personbil (med sl\u00e4p), lastbil och buss (med vissa undantag f\u00f6r d\u00e4ck p\u00e5 axlar som inte \u00e4r driv- eller styraxlar d\u00e4r det kan vara 1,6 mm, men f\u00f6r tunga fordon g\u00e4ller i regel striktare regler f\u00f6r sj\u00e4lva vinterd\u00e4ckskravet).\n\n**Kort sagt:** sj\u00e4lva *perioden* d\u00e5 tunga fordon m\u00e5ste ha vinterd\u00e4ck vid vinterv\u00e4glag \u00e4r **1 december \u2013 31 mars**, men det ut\u00f6kade kravet p\u00e5 m\u00f6nsterdjup b\u00f6rjar g\u00e4lla redan den **1 november**.\n\n*Observera att om det \u00e4r vinterv\u00e4glag under andra tider p\u00e5 \u00e5ret kan det \u00e4nd\u00e5 vara krav p\u00e5 l\u00e4mplig utrustning, men sj\u00e4lva tidsregleringen g\u00e4ller dessa datum.*"
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "I Sverige m\u00e5ste tunga fordon (fordon med en totalvikt \u00f6ver 3,5 ton, inklusive bussar, lastbilar och tunga sl\u00e4p) ha vinterd\u00e4ck under perioden:\n\n**1 december \u2013 31 mars, om det r\u00e5der vinterv\u00e4glag.**\n\nH\u00e4r \u00e4r de viktigaste reglerna som g\u00e4ller f\u00f6r tunga fordon under denna period:\n\n*   **Vinterv\u00e4glag:** Kravet g\u00e4ller endast n\u00e4r det faktiskt \u00e4r vinterv\u00e4glag (dvs. det finns sn\u00f6, is, sn\u00f6modd eller frost p\u00e5 n\u00e5gon del av v\u00e4gen). Det \u00e4r Polisen som avg\u00f6r om det r\u00e5der vinterv\u00e4glag.\n*   **M\u00f6nsterdjup:** \n    *   Minst **5 mm** p\u00e5 samtliga d\u00e4ck p\u00e5 lastbilar och bussar (g\u00e4ller \u00e4ven eventuella medf\u00f6ljande sl\u00e4pvagnar med totalvikt \u00f6ver 3,5 ton).\n    *   F\u00f6r personbil klass II (t.ex. tung husbil) \u00f6ver 3,5 ton g\u00e4ller dock minst **3 mm** p\u00e5 \u00f6vriga axlar \u00e4n drivaxeln (d\u00e4r 5 mm g\u00e4ller).\n*   **Vilka axlar:** Kraven p\u00e5 vinterd\u00e4ck g\u00e4ller f\u00f6r **samtliga hjulaxlar** p\u00e5 dragfordonet samt p\u00e5 tunga sl\u00e4p.\n*   **M\u00e4rkning:** D\u00e4cken ska vara m\u00e4rkta med alptopp/sn\u00f6flinga (3PMSF), vara dubbade, eller (under vissa \u00f6verg\u00e5ngsregler) m\u00e4rkta med M+S. P\u00e5 framaxeln och drivaxeln kr\u00e4vs i regel 3PMSF-m\u00e4rkning eller dubb.\n\n*(Du f\u00e5r anv\u00e4nda dubbd\u00e4ck under perioden 1 oktober \u2013 15 april, men \u00e4ven under annan tid om det \u00e4r eller befaras bli vinterv\u00e4glag).*"
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "F\u00f6r **tunga fordon** (lastbilar med en totalvikt \u00f6ver 3,5 ton samt bussar) \u00e4r det lag p\u00e5 vinterd\u00e4ck under f\u00f6ljande period:\n\n* **1 december \u2013 31 mars**\n\nH\u00e4r \u00e4r n\u00e5gra andra viktiga regler som g\u00e4ller f\u00f6r tunga fordon:\n\n* **M\u00f6nsterdjup:** Under perioden 1 december \u2013 31 mars m\u00e5ste tunga fordon ha ett m\u00f6nsterdjup p\u00e5 **minst 5 mm** p\u00e5 samtliga d\u00e4ck (g\u00e4ller d\u00e4ck p\u00e5 framaxlar, drivaxlar och p\u00e5 tunga sl\u00e4pvagnar).\n* **Dubbd\u00e4ck:** Om det handlar om dubbade d\u00e4ck \u00e4r dessa till\u00e5tna att anv\u00e4nda mellan den **1 oktober och 15 april**. De f\u00e5r ocks\u00e5 anv\u00e4ndas under andra tider p\u00e5 \u00e5ret om det \u00e4r eller befaras bli vinterv\u00e4glag."
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "Tunga fordon (bilar och bussar med en totalvikt \u00f6ver 3,5 ton samt sl\u00e4pvagnar som dras av dessa) m\u00e5ste ha vinterd\u00e4ck under perioden:\n\n* **1 december \u2013 31 mars** (n\u00e4r det r\u00e5der **vinterv\u00e4glag**).\n\n---\n\n### Viktiga regler som g\u00e4ller f\u00f6r tunga fordon under denna period:\n\n1. **G\u00e4ller samtliga axlar:** Kravet p\u00e5 vinterd\u00e4ck g\u00e4ller f\u00f6r **alla hjul** p\u00e5 dragfordonet (b\u00e5de drivaxlar, framaxlar och \u00f6vriga axlar) samt p\u00e5 sl\u00e4pvagnen.\n2. **M\u00f6nsterdjup:**\n   * **Minst 5 mm** p\u00e5 samtliga d\u00e4ck p\u00e5 lastbilar och bussar.\n   * **Minst 1,6 mm** p\u00e5 d\u00e4ck till sl\u00e4pvagnar (d\u00e4cken m\u00e5ste dock fortfarande vara godk\u00e4nda vinterd\u00e4ck).\n3. **M\u00e4rkning av d\u00e4ck:** Vinterd\u00e4cken ska vara m\u00e4rkta med alptopp/sn\u00f6flinga (3PMSF), vara dubbade eller vara m\u00e4rkta med POR (Professional Off-Road).\n4. **Dubbd\u00e4ck:** Dubbd\u00e4ck f\u00e5r anv\u00e4ndas mellan **1 oktober och 15 april** (samt \u00e4ven under annan tid om det r\u00e5der eller befaras bli vinterv\u00e4glag).\n\n*Definition av vinterv\u00e4glag:* Det r\u00e4knas som vinterv\u00e4glag n\u00e4r det finns sn\u00f6, is, sn\u00f6modd eller frost p\u00e5 n\u00e5gon del av v\u00e4gbanan eller v\u00e4grenen. Polisen avg\u00f6r om det r\u00e5der vinterv\u00e4glag p\u00e5 platsen."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date": "2025-11-01",
+          "answer": "10 november-10 april",
+          "source": "https://svenskforfattningssamling.se/doc/2025881.html"
+        },
+        {
+          "date": "2018-09-12",
+          "answer": "1 december-31 mars",
+          "source": "https://svenskforfattningssamling.se/doc/20181547.html"
+        }
+      ]
+    }
+  ]
+}

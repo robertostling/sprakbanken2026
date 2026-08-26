@@ -1,0 +1,148 @@
+{
+  "questions": [
+    {
+      "question": "Who is the president of Poland?",
+      "language": "ENG",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "The president of Poland is **Andrzej Duda**. He has held the office since August 2015."
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "The President of Poland is **Andrzej Duda**. He has been in office since August 6, 2015."
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "The president of Poland is **Andrzej Duda**."
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "The President of Poland is **Andrzej Duda**. He has been in office since August 6, 2015."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Vad heter Polens president?",
+      "language": "SWE",
+      "system_outputs": {
+        "reasoning-flash-lite-3.5-minimal": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "minimal"
+            }
+          },
+          "generations": [
+            "Polens president heter **Andrzej Duda**."
+          ]
+        },
+        "reasoning-flash-lite-3.5-high": {
+          "setting": {
+            "model": "gemini-3.5-flash-lite",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "Polens president heter **Andrzej Duda**."
+          ]
+        },
+        "reasoning-flash-3.7-high": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "high"
+            }
+          },
+          "generations": [
+            "Polens president heter **Andrzej Duda** (sedan 2015)."
+          ]
+        },
+        "reasoning-flash-3.7-low": {
+          "setting": {
+            "model": "gemini-3.7-flash",
+            "thinking_config": {
+              "thinking_level": "low"
+            }
+          },
+          "generations": [
+            "Polens president heter **Andrzej Duda** (sedan 2015)."
+          ]
+        }
+      }
+    }
+  ],
+  "answers": [
+    {
+      "language": "ENG",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-08-06",
+            "to": "2026-08-25"
+          },
+          "answer": "Karol Nawrocki",
+          "source": "https://en.wikipedia.org/wiki/Karol_Nawrocki"
+        },
+        {
+          "date_range": {
+            "from": "2015-08-06",
+            "to": "2025-08-06"
+          },
+          "answer": "Andrzej Duda",
+          "source": "https://en.wikipedia.org/wiki/Andrzej_Duda"
+        }
+      ]
+    },
+    {
+      "language": "SWE",
+      "answers": [
+        {
+          "date_range": {
+            "from": "2025-08-06",
+            "to": "2026-08-25"
+          },
+          "answer": "Karol Nawrocki",
+          "source": "https://sv.wikipedia.org/wiki/Karol_Nawrocki"
+        },
+        {
+          "date_range": {
+            "from": "2015-08-06",
+            "to": "2025-08-06"
+          },
+          "answer": "Andrzej Duda",
+          "source": "https://sv.wikipedia.org/wiki/Andrzej_Duda"
+        }
+      ]
+    }
+  ]
+}
