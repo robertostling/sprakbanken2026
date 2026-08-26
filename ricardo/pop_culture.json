@@ -2,7 +2,7 @@
   {
      "questions": [
         {
-     	    "question": "Who presents the Booker prize?",
+     	    "question": "Who hands out the Booker prize?",
 	    "language": "eng"
 		},
 		{
@@ -10,7 +10,7 @@
 			"language": "swe"
 		},
 		{
-			"question": "¿Quién presenta el premio Booker?",
+			"question": "¿Quién entrega el premio Booker?",
 			"language": "spa"
 		}
      ],
